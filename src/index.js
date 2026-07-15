@@ -3,7 +3,7 @@ import { dirname } from 'node:path';
 import { STATE_PATH } from './config.js';
 import { scan } from './scan.js';
 import { diff, hasChanges, totalChanges } from './diff.js';
-import { renderMarkdown, renderHtml, renderTitle, renderSummary } from './report.js';
+import { renderMarkdown, renderHtml, renderTelegram, renderTitle, renderSummary } from './report.js';
 
 async function readJson(path) {
   try {
@@ -86,9 +86,11 @@ async function main() {
   if (changed) {
     const md = renderMarkdown(changes, scannedAt);
     const html = renderHtml(changes, scannedAt);
+    const telegram = renderTelegram(changes);
     const subject = renderTitle(changes, scannedAt);
     await writeFile('report.md', md); // plain-text email fallback
     await writeFile('report.html', html); // HTML email body
+    await writeFile('report.telegram.txt', telegram); // Telegram message (HTML parse mode)
     await writeFile('changes.json', JSON.stringify(changes, null, 2));
     await setOutput('subject', subject);
     await writeStepSummary('\n' + md);

@@ -58,3 +58,20 @@ jobs:
           subject: ${{ steps.scan.outputs.subject }}
           html_body: file://report.html
           body: file://report.md
+
+      # Runs even if the email step failed, so the two channels are independent.
+      - name: Telegram on stock changes
+        if: ${{ always() && steps.scan.outputs.has_changes == 'true' }}
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          if [[ -z "$TELEGRAM_TOKEN" || -z "$TELEGRAM_CHAT_ID" ]]; then
+            echo "Telegram secrets not set — skipping."; exit 0
+          fi
+          curl -sS --fail-with-body -X POST \
+            "https://api.telegram.org/bot${TELEGRAM_TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${TELEGRAM_CHAT_ID}" \
+            --data-urlencode "text@report.telegram.txt" \
+            -d "parse_mode=HTML" \
+            -d "disable_web_page_preview=true"

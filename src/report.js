@@ -118,6 +118,59 @@ export function renderHtml(changes, scannedAt) {
   </body></html>`;
 }
 
+// Escape for Telegram's HTML parse mode (only &, <, > are special in text/attrs).
+function tgEsc(s) {
+  return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+
+function tgName(p) {
+  const name = tgEsc(p.name);
+  return p.url ? `<a href="${tgEsc(p.url)}">${name}</a>` : name;
+}
+
+/**
+ * Telegram message body (HTML parse mode). Telegram only supports a small tag subset
+ * (<b>, <i>, <a>, <code>, …) — no lists/headings — so we format with emoji + newlines.
+ * Capped to stay well under Telegram's 4096-char limit.
+ */
+export function renderTelegram(changes) {
+  const lines = [`🎴 <b>Ram-scanner</b> — ${totalChanges(changes)} change(s)`];
+
+  const add = (title, items) => {
+    lines.push('', title);
+    lines.push(...items);
+  };
+
+  if (changes.backInStock.length) {
+    add(
+      `✅ <b>Back in stock (${changes.backInStock.length})</b>`,
+      changes.backInStock.map((p) => `• ${tgName(p)} — <b>${tgEsc(money(p.price, p.currency))}</b>`),
+    );
+  }
+  if (changes.new.length) {
+    add(
+      `🆕 <b>New products (${changes.new.length})</b>`,
+      changes.new.map((p) => {
+        const status = p.status === 'InStock' ? 'in stock' : p.status === 'PreOrder' ? 'preorder' : 'out of stock';
+        return `• ${tgName(p)} — ${tgEsc(money(p.price, p.currency))} (${status})`;
+      }),
+    );
+  }
+  if (changes.priceChanged.length) {
+    add(
+      `💶 <b>Price changes (${changes.priceChanged.length})</b>`,
+      changes.priceChanged.map((p) => {
+        const arrow = p.direction === 'down' ? '🔻' : '🔺';
+        return `• ${arrow} ${tgName(p)} — ${tgEsc(money(p.previousPrice, p.currency))} → <b>${tgEsc(money(p.price, p.currency))}</b>`;
+      }),
+    );
+  }
+
+  let msg = lines.join('\n');
+  if (msg.length > 3900) msg = msg.slice(0, 3900) + '\n…';
+  return msg;
+}
+
 /** Compact one-line-per-section summary for the Actions run log / step summary. */
 export function renderSummary(changes) {
   return (

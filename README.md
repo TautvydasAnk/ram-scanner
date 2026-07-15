@@ -27,7 +27,16 @@ encrypted **repository secrets** — never in the code — so this is safe even 
    - `MAIL_TO` — where alerts should go (can be any inbox, including your main email)
 
 A change is reported exactly once (on the run where it happens); you won't be re-pinged for the
-same thing on later runs. No changes → no email.
+same thing on later runs. No changes → no notification.
+
+### Optional: Telegram push (free, instant phone notification)
+
+Runs alongside the email (both fire on the same change; each is independent). Add two more secrets:
+1. In Telegram, message **@BotFather** → `/newbot` → follow prompts → copy the **bot token**.
+2. Open your new bot and send it any message (so it can reply to you).
+3. Get your **chat ID**: open `https://api.telegram.org/bot<TOKEN>/getUpdates` in a browser and copy
+   `result[].message.chat.id`.
+4. Add repo secrets `TELEGRAM_TOKEN` and `TELEGRAM_CHAT_ID`. If they're absent, the step is skipped.
 
 ## How it works
 
