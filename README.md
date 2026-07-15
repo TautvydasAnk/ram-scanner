@@ -2,31 +2,32 @@
 
 Automated stock tracker for an online Pokémon TCG catalog. Every 30 minutes it scans the whole
 catalog, compares against the previous scan, and —
-**only when something changed** — opens a GitHub Issue (which emails you) reporting:
+**only when something changed** — emails you reporting:
 
 - 🆕 **New products** — a listing that wasn't there before (incl. newly opened preorders)
 - ✅ **Back in stock** — an item that went from out-of-stock / preorder → in stock
 - 💶 **Price changes** — up or down, with old → new price
 
-No servers, no credentials, no cost. It runs entirely on GitHub Actions.
+No servers, no cost. It runs entirely on GitHub Actions and emails you via Gmail.
 
 ---
 
 ## How you get notified
 
-When stock changes, the scheduled workflow opens an **Issue** in this repo, assigns it to you and
-@mentions you. GitHub then sends you an **email** through your normal notification settings — so
-there are no passwords or API keys stored anywhere.
+When stock changes, the workflow sends you an **HTML email** over Gmail SMTP. Credentials live in
+encrypted **repository secrets** — never in the code — so this is safe even in a public repo.
 
-**One-time setup to make sure emails arrive:**
-1. On GitHub → your **Settings → Notifications**, ensure "Email" is enabled for
-   Participating/@mentions (this is the default).
-2. Optionally **Watch** this repo (top-right **Watch → All Activity**) to be emailed for every new
-   issue as well.
+**One-time setup (add three repository secrets):**
+1. Use a Gmail account (a spare/throwaway one is fine). Enable **2-Step Verification**, then create
+   an **App Password**: Google Account → Security → 2-Step Verification → App passwords. Copy the
+   16-character password.
+2. In this repo: **Settings → Secrets and variables → Actions → New repository secret**, add:
+   - `MAIL_USERNAME` — the Gmail address (e.g. `you@gmail.com`)
+   - `MAIL_PASSWORD` — the 16-char App Password (no spaces)
+   - `MAIL_TO` — where alerts should go (can be any inbox, including your main email)
 
-Each change event creates one fresh issue = one email. Close the issue once you've handled it.
 A change is reported exactly once (on the run where it happens); you won't be re-pinged for the
-same thing on later runs.
+same thing on later runs. No changes → no email.
 
 ## How it works
 
@@ -35,7 +36,7 @@ same thing on later runs.
    server-side) — name, stable `productID`, SKU, price, availability, URL.
 3. Products are merged by `productID` using the **best availability seen** (see the gotcha below).
 4. `src/diff.js` compares the new snapshot to `data/state.json` (the previous scan).
-5. If there are changes, `report.md` is generated and the workflow opens the alert issue.
+5. If there are changes, an HTML report is generated and the workflow emails it to you.
 6. The new snapshot is committed back to `data/state.json`, so the next run has something to
    compare against. The git history of that file is a free audit log of every change over time.
 
@@ -78,13 +79,6 @@ Adjust the `cron` if you want a different window. You can also trigger a run any
 > GitHub's scheduled runs are best-effort and can be delayed a few minutes under load. The periodic
 > snapshot commits keep the repo active so the schedule isn't auto-disabled for inactivity.
 
-## Optional: real HTML email instead of issues
-
-If the issue-emails feel clunky, you can switch to proper email without exposing anything publicly —
-GitHub **Actions Secrets** are encrypted and never visible in a public repo's code or logs. Add a
-free [Resend](https://resend.com) API key (or a Gmail App Password) as a repository secret and swap
-the "Open issue" workflow step for a send-email step. Ask and this can be wired up.
-
 ## Project layout
 
 ```
@@ -93,7 +87,7 @@ src/fetch.js    HTTP fetch with browser UA, retry/backoff, timeout
 src/parse.js    JSON-LD → products; sub-category discovery
 src/scan.js     orchestrates fetching + best-status merge
 src/diff.js     new / back-in-stock / price-change detection
-src/report.js   Markdown for the issue/email
+src/report.js   Markdown + HTML email body, and the subject line
 src/index.js    entry point: scan → diff → write state + report
 data/state.json committed snapshot of the last scan
 ```

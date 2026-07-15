@@ -4,4 +4,5 @@ node_modules/
 
 # Local run artifacts (regenerated each run; state.json is the only committed data)
 report.md
+report.html
 changes.json

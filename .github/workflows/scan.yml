@@ -15,7 +15,6 @@ concurrency:
 
 permissions:
   contents: write   # commit the updated data/state.json snapshot
-  issues: write     # open an issue (which emails you) when stock changes
 
 jobs:
   scan:
@@ -45,42 +44,17 @@ jobs:
             echo "No snapshot changes to commit."
           fi
 
-      - name: Open issue on stock changes
+      - name: Email on stock changes
         if: steps.scan.outputs.has_changes == 'true'
-        uses: actions/github-script@v7
+        uses: dawidd6/action-send-mail@v3
         with:
-          script: |
-            const fs = require('fs');
-            const body = fs.readFileSync('report.md', 'utf8');
-            const title = process.env.ISSUE_TITLE || '🎴 Ram-scanner: stock changes';
-            const owner = context.repo.owner;
-            const repo = context.repo.repo;
-
-            // Goal: exactly ONE email per alert, and the issue ends up closed (clean tab).
-            // GitHub emails you for every activity on a thread you're subscribed to, and the
-            // @mention is what subscribes you. So do the non-notifying actions first, then
-            // mention you last:
-            //   1) create the issue WITHOUT mentioning you  -> no notification
-            //   2) close it                                  -> no notification (not subscribed yet)
-            //   3) comment WITH the @mention + full report   -> the single email you receive
-            const { data: issue } = await github.rest.issues.create({
-              owner,
-              repo,
-              title,
-              body: 'Automated stock alert — see the comment below for details.',
-              labels: ['stock-alert'],
-            });
-            await github.rest.issues.update({
-              owner,
-              repo,
-              issue_number: issue.number,
-              state: 'closed',
-            });
-            await github.rest.issues.createComment({
-              owner,
-              repo,
-              issue_number: issue.number,
-              body: `@${owner}\n\n${body}`,
-            });
-        env:
-          ISSUE_TITLE: ${{ steps.scan.outputs.issue_title }}
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          from: Ram Scanner <${{ secrets.MAIL_USERNAME }}>
+          to: ${{ secrets.MAIL_TO }}
+          subject: ${{ steps.scan.outputs.subject }}
+          html_body: file://report.html
+          body: file://report.md
