@@ -54,13 +54,22 @@ jobs:
             const body = fs.readFileSync('report.md', 'utf8');
             const title = process.env.ISSUE_TITLE || '🎴 Ram-scanner: stock changes';
             const owner = context.repo.owner;
-            await github.rest.issues.create({
+            // Creating the issue sends the email (via the @mention). We then close it
+            // immediately so the Issues tab stays clean — the email is already on its way,
+            // and closed issues remain a searchable log of every change.
+            const { data: issue } = await github.rest.issues.create({
               owner,
               repo: context.repo.repo,
               title,
               // @mention triggers GitHub's email notification (one email, with the full report).
               body: `@${owner}\n\n${body}`,
               labels: ['stock-alert'],
+            });
+            await github.rest.issues.update({
+              owner,
+              repo: context.repo.repo,
+              issue_number: issue.number,
+              state: 'closed',
             });
         env:
           ISSUE_TITLE: ${{ steps.scan.outputs.issue_title }}
