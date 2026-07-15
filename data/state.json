@@ -1,25 +1,15 @@
 {
-  "scannedAt": "2026-07-15T11:15:52.838Z",
+  "scannedAt": "2000-01-01T00:00:00.000Z",
   "products": {
     "1": {
       "id": "1",
       "name": "Pokémon TCG: Scarlet & Violet-Journey Together Booster Display Box (36 Packs)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-journey-together-booster-display-box-36-packs.html",
       "sku": "JTG01",
-      "price": 171.57,
+      "price": 181.57,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-journey-together-booster-display-box-36-packs-773740.jpg"
-    },
-    "2": {
-      "id": "2",
-      "name": "Pokémon TCG: Scarlet & Violet-Journey Together Booster Pack",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-journey-together-booster-booster-pack.html",
-      "sku": "JTG02",
-      "price": 4.76,
-      "currency": "EUR",
-      "status": "OutOfStock",
-      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-journey-together-booster-booster-pack-322835.jpg"
     },
     "4": {
       "id": "4",
@@ -868,7 +858,7 @@
       "sku": "PCI10380",
       "price": 205.89,
       "currency": "EUR",
-      "status": "InStock",
+      "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-perfect-order-booster-bundle-copie-834885.webp"
     },
     "796": {
