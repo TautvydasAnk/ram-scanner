@@ -1,7 +1,7 @@
 # 🎴 ram-scanner
 
-Automated stock tracker for the [ramcards.ro Pokémon TCG](https://www.ramcards.ro/en/pokemon-tcg)
-catalog. Every 30 minutes it scans the whole catalog, compares against the previous scan, and —
+Automated stock tracker for an online Pokémon TCG catalog. Every 30 minutes it scans the whole
+catalog, compares against the previous scan, and —
 **only when something changed** — opens a GitHub Issue (which emails you) reporting:
 
 - 🆕 **New products** — a listing that wasn't there before (incl. newly opened preorders)
@@ -40,7 +40,7 @@ same thing on later runs.
    compare against. The git history of that file is a free audit log of every change over time.
 
 ### Why not Playwright / a headless browser?
-The site renders all product data as JSON-LD in the initial HTML, so a plain HTTP request is enough
+The store renders all product data as JSON-LD in the initial HTML, so a plain HTTP request is enough
 — faster and far more reliable in CI. A browser was tested and **did not** improve data quality.
 
 ### The stock-rendering gotcha (important)
@@ -64,7 +64,7 @@ npm run scan
 
 Everything tunable lives in [`src/config.js`](src/config.js):
 
-- **`categories`** — a list, so you can track more sections or even other GoMag stores by adding
+- **`categories`** — a list, so you can track more sections or even other similar stores by adding
   another `{ name, baseUrl }` entry. No other code changes needed.
 - **`REQUEST_DELAY_MS`** — politeness delay between page fetches (default 400 ms).
 - **`SKIP_SLUG`** — sub-category slugs to ignore (the broken rating-filter duplicates).
