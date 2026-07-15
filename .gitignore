@@ -1,0 +1,7 @@
+node_modules/
+*.log
+.DS_Store
+
+# Local run artifacts (regenerated each run; state.json is the only committed data)
+report.md
+changes.json

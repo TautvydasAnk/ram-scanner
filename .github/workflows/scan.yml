@@ -1,0 +1,67 @@
+name: Stock scan
+
+on:
+  # Every 30 min across 04:00–22:30 UTC. Lithuania is UTC+3 (summer) / UTC+2 (winter),
+  # so this window covers ~07:00–24:00 local all year. GitHub cron is UTC-only.
+  schedule:
+    - cron: '*/30 4-22 * * *'
+  # Manual "run now" button in the Actions tab.
+  workflow_dispatch:
+
+# Prevent overlapping runs (a slow scan won't collide with the next schedule tick).
+concurrency:
+  group: stock-scan
+  cancel-in-progress: false
+
+permissions:
+  contents: write   # commit the updated data/state.json snapshot
+  issues: write     # open an issue (which emails you) when stock changes
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run scan
+        id: scan
+        run: npm run scan
+
+      - name: Commit updated snapshot
+        run: |
+          if [[ -n "$(git status --porcelain data/state.json)" ]]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/state.json
+            git commit -m "chore: update stock snapshot [skip ci]"
+            git push
+          else
+            echo "No snapshot changes to commit."
+          fi
+
+      - name: Open issue on stock changes
+        if: steps.scan.outputs.has_changes == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const body = fs.readFileSync('report.md', 'utf8');
+            const title = process.env.ISSUE_TITLE || '🎴 Ram-scanner: stock changes';
+            const owner = context.repo.owner;
+            await github.rest.issues.create({
+              owner,
+              repo: context.repo.repo,
+              title,
+              // @mention + assignee both trigger GitHub's email notification to you.
+              body: `@${owner}\n\n${body}`,
+              assignees: [owner],
+              labels: ['stock-alert'],
+            });
+        env:
+          ISSUE_TITLE: ${{ steps.scan.outputs.issue_title }}

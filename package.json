@@ -1,0 +1,13 @@
+{
+  "name": "ram-scanner",
+  "version": "1.0.0",
+  "description": "Automated stock tracker for ramcards.ro Pokémon TCG — detects new products, restocks, and price changes, and alerts via GitHub Issues.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "scan": "node src/index.js"
+  },
+  "license": "MIT"
+}
