@@ -54,22 +54,33 @@ jobs:
             const body = fs.readFileSync('report.md', 'utf8');
             const title = process.env.ISSUE_TITLE || '🎴 Ram-scanner: stock changes';
             const owner = context.repo.owner;
-            // Creating the issue sends the email (via the @mention). We then close it
-            // immediately so the Issues tab stays clean — the email is already on its way,
-            // and closed issues remain a searchable log of every change.
+            const repo = context.repo.repo;
+
+            // Goal: exactly ONE email per alert, and the issue ends up closed (clean tab).
+            // GitHub emails you for every activity on a thread you're subscribed to, and the
+            // @mention is what subscribes you. So do the non-notifying actions first, then
+            // mention you last:
+            //   1) create the issue WITHOUT mentioning you  -> no notification
+            //   2) close it                                  -> no notification (not subscribed yet)
+            //   3) comment WITH the @mention + full report   -> the single email you receive
             const { data: issue } = await github.rest.issues.create({
               owner,
-              repo: context.repo.repo,
+              repo,
               title,
-              // @mention triggers GitHub's email notification (one email, with the full report).
-              body: `@${owner}\n\n${body}`,
+              body: 'Automated stock alert — see the comment below for details.',
               labels: ['stock-alert'],
             });
             await github.rest.issues.update({
               owner,
-              repo: context.repo.repo,
+              repo,
               issue_number: issue.number,
               state: 'closed',
+            });
+            await github.rest.issues.createComment({
+              owner,
+              repo,
+              issue_number: issue.number,
+              body: `@${owner}\n\n${body}`,
             });
         env:
           ISSUE_TITLE: ${{ steps.scan.outputs.issue_title }}
