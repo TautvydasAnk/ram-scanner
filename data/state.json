@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2000-01-01T00:00:00.000Z",
+  "scannedAt": "2026-07-15T11:38:40.659Z",
   "products": {
     "1": {
       "id": "1",
@@ -1358,7 +1358,7 @@
       "sku": "PCI10404-2762v2",
       "price": 137.26,
       "currency": "EUR",
-      "status": "OutOfStock",
+      "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-chaos-rising-sleeved-booster-pack-copie-976389.png"
     },
     "1413": {
@@ -1371,12 +1371,22 @@
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-first-partner-illustration-collection-series-2-2689339101.jpg"
     },
+    "1415": {
+      "id": "1415",
+      "name": "Preorder Pokemon TCG: Pitch Black Sleeved Booster CASE [24 packs]",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-pitch-black-sleeved-booster-case-24-packs.html",
+      "sku": "PitchBlack06",
+      "price": 123.91,
+      "currency": "EUR",
+      "status": "OutOfStock",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-pitch-black-sleeved-booster-pack-copie-516678.webp"
+    },
     "1416": {
       "id": "1416",
       "name": "Preorder Pokémon TCG: Pitch Black Premium Checklane Blister",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokémon-tcg-pitch-black-premium-checklane-blister.html",
       "sku": "PCI110421-108",
-      "price": 16.84,
+      "price": 9.34,
       "currency": "EUR",
       "status": "PreOrder",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-chaos-rising-premium-checklane-blister-flygon-copie-870599.jpg"
