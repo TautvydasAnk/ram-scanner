@@ -58,9 +58,8 @@ jobs:
               owner,
               repo: context.repo.repo,
               title,
-              // @mention + assignee both trigger GitHub's email notification to you.
+              // @mention triggers GitHub's email notification (one email, with the full report).
               body: `@${owner}\n\n${body}`,
-              assignees: [owner],
               labels: ['stock-alert'],
             });
         env:
