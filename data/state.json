@@ -1,12 +1,12 @@
 {
-  "scannedAt": "2026-07-16T15:12:42.609Z",
+  "scannedAt": "2026-07-16T16:52:13.745Z",
   "products": {
     "1": {
       "id": "1",
       "name": "Pokémon TCG: Scarlet & Violet-Journey Together Booster Display Box (36 Packs)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-journey-together-booster-display-box-36-packs.html",
       "sku": "JTG01",
-      "price": 171.72,
+      "price": 171.71,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-journey-together-booster-display-box-36-packs-773740.jpg"
@@ -106,7 +106,7 @@
       "name": "Pokémon TCG: Mega Evolution - Ascended Heroes Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokémon-tcg-mega-evolution-ascended-heroes-elite-trainer-box.html",
       "sku": "ASC01",
-      "price": 60.87,
+      "price": 60.86,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-mega-evolution-ascended-heroes-elite-trainer-box-782805.jpg"
@@ -866,7 +866,7 @@
       "name": "Pokémon TCG: Perfect Order Booster Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-perfect-order-booster-box.html",
       "sku": "PCI10380",
-      "price": 206.06,
+      "price": 206.05,
       "currency": "EUR",
       "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-perfect-order-booster-bundle-copie-834885.webp"
@@ -876,7 +876,7 @@
       "name": "Pokémon TCG: Perfect Order Checklane Blister - Makuhita",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-perfect-order-checklane-blister-makuhita.html",
       "sku": "POR03",
-      "price": 6.49,
+      "price": 6.48,
       "currency": "EUR",
       "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-perfect-order-checklane-blister-makuhita-876947.jpg"
@@ -886,7 +886,7 @@
       "name": "Pokémon TCG: Perfect Order Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-perfect-order-elite-trainer-box-etb.html",
       "sku": "PCI10372",
-      "price": 68.69,
+      "price": 68.68,
       "currency": "EUR",
       "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-perfect-order-booster-box-copie-452110.webp"
@@ -1036,7 +1036,7 @@
       "name": "Pokémon TCG: Mega Zygarde ex Premium Collection Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-mega-zygarde-ex-premium-collection-box.html",
       "sku": "PCI10359",
-      "price": 59.15,
+      "price": 59.14,
       "currency": "EUR",
       "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-iono-s-bellibolt-ex-premium-collection-copie-804892.webp"
@@ -1076,7 +1076,7 @@
       "name": "Pokémon TCG: Chaos Rising Booster Box Display",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-chaos-rising-booster-box-display.html",
       "sku": "PCI10407",
-      "price": 209.69,
+      "price": 209.68,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-booster-box-display-127381.png"
@@ -1086,7 +1086,7 @@
       "name": "Pokémon TCG: Chaos Rising Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-chaos-rising-elite-trainer-box.html",
       "sku": "PCI10399",
-      "price": 76.13,
+      "price": 76.12,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-elite-trainer-box-725977.png"
@@ -1246,7 +1246,7 @@
       "name": "Pokemon TCG: Pitch Black Booster Box Display (36 Packs)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-pitch-black-booster-box-display.html",
       "sku": "PitchBlack02",
-      "price": 219.42,
+      "price": 219.41,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-booster-box-display-copie-585190.webp"
@@ -1276,7 +1276,7 @@
       "name": "Pokemon TCG: Pitch Black 3 Pack Blister",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-pitch-black-3-pack-blister.html",
       "sku": "PitchBlack05",
-      "price": 22.9,
+      "price": 22.89,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-perfect-order-3-pack-blister-copie-437576.jpg"
@@ -1306,7 +1306,7 @@
       "name": "Pokemon TCG: Mega Moonlit Tin [Mega Gengar ex]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-mega-moonlit-tin-mega-gengar-ex.html",
       "sku": "PCI10389-02",
-      "price": 32.25,
+      "price": 32.24,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-mega-moonlit-tin-mega-clefable-ex-copie-188917.webp"
@@ -1356,7 +1356,7 @@
       "name": "Pokemon TCG: Chaos Rising 24 Sleeved Booster CASE",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-chaos-rising-24-sleeved-booster-case.html",
       "sku": "PCI10404-2762v2",
-      "price": 137.38,
+      "price": 137.37,
       "currency": "EUR",
       "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-chaos-rising-sleeved-booster-pack-copie-976389.png"
@@ -1376,7 +1376,7 @@
       "name": "Pokemon TCG: Pitch Black Sleeved Booster CASE [24 packs]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-pitch-black-sleeved-booster-case-24-packs.html",
       "sku": "PitchBlack06",
-      "price": 128.22,
+      "price": 128.21,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-pitch-black-sleeved-booster-pack-copie-516678.webp"
