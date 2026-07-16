@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-16T08:58:49.236Z",
+  "scannedAt": "2026-07-16T13:45:03.482Z",
   "products": {
     "1": {
       "id": "1",
@@ -1233,17 +1233,17 @@
     },
     "1040": {
       "id": "1040",
-      "name": "Preorder Pokemon TCG: Pitch Black Elite Trainer Box",
+      "name": "Pokemon TCG: Pitch Black Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-pitch-black-elite-trainer-box.html",
       "sku": "PitchBlack01",
       "price": 76.32,
       "currency": "EUR",
-      "status": "OutOfStock",
+      "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-elite-trainer-box-copie-867001.webp"
     },
     "1041": {
       "id": "1041",
-      "name": "Preorder Pokemon TCG: Pitch Black Booster Box Display (36 Packs)",
+      "name": "Pokemon TCG: Pitch Black Booster Box Display (36 Packs)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-pitch-black-booster-box-display.html",
       "sku": "PitchBlack02",
       "price": 219.42,
