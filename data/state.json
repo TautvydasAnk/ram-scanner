@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2000-01-01T00:00:00.000Z",
+  "scannedAt": "2026-07-17T07:16:31.143Z",
   "products": {
     "1": {
       "id": "1",
@@ -860,6 +860,16 @@
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/846851.jpeg"
+    },
+    "795": {
+      "id": "795",
+      "name": "Pokémon TCG: Perfect Order Booster Box",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-perfect-order-booster-box.html",
+      "sku": "PCI10380",
+      "price": 206.05,
+      "currency": "EUR",
+      "status": "InStock",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-perfect-order-booster-bundle-copie-834885.webp"
     },
     "796": {
       "id": "796",
