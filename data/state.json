@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-17T08:30:42.206Z",
+  "scannedAt": "2026-07-17T10:30:42.021Z",
   "products": {
     "1": {
       "id": "1",
@@ -1248,7 +1248,7 @@
       "sku": "PitchBlack02",
       "price": 219.41,
       "currency": "EUR",
-      "status": "InStock",
+      "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-booster-box-display-copie-585190.webp"
     },
     "1042": {
