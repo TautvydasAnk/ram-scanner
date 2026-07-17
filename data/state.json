@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-17T07:16:31.143Z",
+  "scannedAt": "2026-07-17T08:30:42.206Z",
   "products": {
     "1": {
       "id": "1",
@@ -1248,7 +1248,7 @@
       "sku": "PitchBlack02",
       "price": 219.41,
       "currency": "EUR",
-      "status": "OutOfStock",
+      "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-booster-box-display-copie-585190.webp"
     },
     "1042": {
@@ -1258,7 +1258,7 @@
       "sku": "PitchBlack03",
       "price": 47.7,
       "currency": "EUR",
-      "status": "OutOfStock",
+      "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-booster-bundle-copie-407221.jpg"
     },
     "1043": {
