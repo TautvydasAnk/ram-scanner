@@ -1,17 +1,11 @@
 name: Stock scan
 
 on:
-  # Twice per hour at :06 and :36, across 04:00–20:59 UTC. GitHub cron is UTC-only and
-  # does NOT follow DST. Lithuania is UTC+3 (EEST, summer) / UTC+2 (EET, winter), so:
-  #   • summer: ~07:06–23:36 local   • winter: ~06:06–22:36 local
-  # The old upper bound (22 UTC) fired at 01:36 local and, with GitHub's ~1h scheduling
-  # lag, drifted to ~02:40 — hence the night messages. Capping at 20 UTC keeps every run
-  # (even a delayed one) out of the middle of the night while still covering the evening.
-  # Off-peak minutes (not :00/:30) fire more reliably — GitHub drops jobs that pile up on
-  # the hour/half-hour.
-  schedule:
-    - cron: '6,36 4-20 * * *'
-  # Manual "run now" button in the Actions tab.
+  # Timing is driven by an EXTERNAL scheduler (cron-job.org) that calls the GitHub API to
+  # dispatch this workflow on an exact, DST-aware schedule — see README ("Reliable scheduling").
+  # GitHub's built-in `schedule:` cron is intentionally NOT used: it runs late and silently
+  # drops ticks under load. workflow_dispatch is what the API triggers, and it also gives a
+  # manual "Run workflow" button in the Actions tab.
   workflow_dispatch:
 
 # Prevent overlapping runs (a slow scan won't collide with the next schedule tick).

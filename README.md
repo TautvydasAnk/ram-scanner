@@ -78,14 +78,28 @@ Everything tunable lives in [`src/config.js`](src/config.js):
 - **`REQUEST_DELAY_MS`** — politeness delay between page fetches (default 400 ms).
 - **`SKIP_SLUG`** — sub-category slugs to ignore (the broken rating-filter duplicates).
 
-### Schedule
-Defined in [`.github/workflows/scan.yml`](.github/workflows/scan.yml) as `*/30 4-22 * * *`
-(UTC). That covers ~**07:00–24:00 Lithuania time** across both summer (UTC+3) and winter (UTC+2).
-Adjust the `cron` if you want a different window. You can also trigger a run any time from the
-**Actions** tab → **Stock scan** → **Run workflow**.
+### Reliable scheduling (external cron → GitHub)
 
-> GitHub's scheduled runs are best-effort and can be delayed a few minutes under load. The periodic
-> snapshot commits keep the repo active so the schedule isn't auto-disabled for inactivity.
+GitHub's built-in `schedule:` cron is best-effort — it runs late and drops ticks under load — so
+timing is driven by an **external scheduler** ([cron-job.org](https://cron-job.org), free) that calls
+the GitHub API to dispatch the workflow on an exact, timezone-aware schedule. The workflow keeps only
+the `workflow_dispatch` trigger (also the manual **Actions → Stock scan → Run workflow** button).
+
+**Setup:**
+1. Create a **fine-grained Personal Access Token**: GitHub → Settings → Developer settings →
+   Fine-grained tokens → *Generate new token*. Repository access: **only `ram-scanner`**.
+   Permissions: **Actions → Read and write**. Copy the token.
+2. On [cron-job.org](https://cron-job.org), create a job:
+   - **URL:** `https://api.github.com/repos/TautvydasAnk/ram-scanner/actions/workflows/scan.yml/dispatches`
+   - **Method:** `POST`
+   - **Request body:** `{"ref":"main"}`
+   - **Headers:**
+     - `Authorization: Bearer <YOUR_TOKEN>`
+     - `Accept: application/vnd.github+json`
+     - `X-GitHub-Api-Version: 2022-11-28`
+   - **Schedule:** every 30 min, hours **07–23**, timezone **Europe/Vilnius** (DST-correct year-round).
+3. Save. A successful trigger returns HTTP **204** and a run appears in the Actions tab
+   (event = `workflow_dispatch`).
 
 ## Project layout
 
@@ -94,7 +108,7 @@ src/config.js   what to scan + tuning knobs
 src/fetch.js    HTTP fetch with browser UA, retry/backoff, timeout
 src/parse.js    JSON-LD → products; sub-category discovery
 src/scan.js     orchestrates fetching + best-status merge
-src/diff.js     new / back-in-stock / price-change detection
+src/diff.js     new-product / back-in-stock detection
 src/report.js   Markdown + HTML email body, and the subject line
 src/index.js    entry point: scan → diff → write state + report
 data/state.json committed snapshot of the last scan
