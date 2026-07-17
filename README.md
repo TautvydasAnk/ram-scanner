@@ -6,7 +6,6 @@ catalog, compares against the previous scan, and —
 
 - 🆕 **New products** — a listing that wasn't there before (incl. newly opened preorders)
 - ✅ **Back in stock** — an item that went from out-of-stock / preorder → in stock
-- 💶 **Price changes** — up or down, with old → new price
 
 No servers, no cost. It runs entirely on GitHub Actions and emails you via Gmail.
 

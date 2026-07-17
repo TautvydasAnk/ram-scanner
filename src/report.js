@@ -14,7 +14,6 @@ export function renderTitle(changes, scannedAt) {
   const parts = [];
   if (changes.new.length) parts.push(`${changes.new.length} new`);
   if (changes.backInStock.length) parts.push(`${changes.backInStock.length} back in stock`);
-  if (changes.priceChanged.length) parts.push(`${changes.priceChanged.length} price`);
   const when = scannedAt.slice(0, 16).replace('T', ' ');
   return `🎴 Ram-scanner: ${parts.join(', ')} — ${when} UTC`;
 }
@@ -38,18 +37,6 @@ export function renderMarkdown(changes, scannedAt) {
     for (const p of changes.new) {
       const status = p.status === 'InStock' ? 'in stock' : p.status === 'PreOrder' ? 'preorder' : 'out of stock';
       lines.push(`- **${link(p)}** — ${money(p.price, p.currency)} _(${status})_`);
-    }
-    lines.push('');
-  }
-
-  if (changes.priceChanged.length) {
-    lines.push(`## 💶 Price changes (${changes.priceChanged.length})`);
-    for (const p of changes.priceChanged) {
-      const arrow = p.direction === 'down' ? '🔻' : '🔺';
-      lines.push(
-        `- ${arrow} **${link(p)}** — ${money(p.previousPrice, p.currency)} → ` +
-          `**${money(p.price, p.currency)}**`,
-      );
     }
     lines.push('');
   }
@@ -97,17 +84,6 @@ export function renderHtml(changes, scannedAt) {
     parts.push(section(`🆕 New products (${changes.new.length})`, items));
   }
 
-  if (changes.priceChanged.length) {
-    const items = changes.priceChanged.map((p) => {
-      const down = p.direction === 'down';
-      const arrow = down ? '🔻' : '🔺';
-      const color = down ? '#1a7f37' : '#cf222e';
-      return `<li>${arrow} ${htmlName(p)} —
-        <span style="color:#57606a;text-decoration:line-through;">${esc(money(p.previousPrice, p.currency))}</span>
-        → <strong style="color:${color};">${esc(money(p.price, p.currency))}</strong></li>`;
-    });
-    parts.push(section(`💶 Price changes (${changes.priceChanged.length})`, items));
-  }
 
   return `<!doctype html><html><body style="font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;color:#111;max-width:680px;margin:0 auto;padding:8px 4px;">
     <p style="font-size:14px;color:#57606a;margin:0 0 4px;">
@@ -156,15 +132,6 @@ export function renderTelegram(changes) {
       }),
     );
   }
-  if (changes.priceChanged.length) {
-    add(
-      `💶 <b>Price changes (${changes.priceChanged.length})</b>`,
-      changes.priceChanged.map((p) => {
-        const arrow = p.direction === 'down' ? '🔻' : '🔺';
-        return `• ${arrow} ${tgName(p)} — ${tgEsc(money(p.previousPrice, p.currency))} → <b>${tgEsc(money(p.price, p.currency))}</b>`;
-      }),
-    );
-  }
 
   let msg = lines.join('\n');
   if (msg.length > 3900) msg = msg.slice(0, 3900) + '\n…';
@@ -173,9 +140,5 @@ export function renderTelegram(changes) {
 
 /** Compact one-line-per-section summary for the Actions run log / step summary. */
 export function renderSummary(changes) {
-  return (
-    `New: ${changes.new.length} | ` +
-    `Back in stock: ${changes.backInStock.length} | ` +
-    `Price changes: ${changes.priceChanged.length}`
-  );
+  return `New: ${changes.new.length} | Back in stock: ${changes.backInStock.length}`;
 }
