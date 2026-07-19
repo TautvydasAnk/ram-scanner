@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-18T13:30:40.124Z",
+  "scannedAt": "2026-07-19T04:00:54.141Z",
   "products": {
     "1": {
       "id": "1",
@@ -136,7 +136,7 @@
       "name": "Pokémon TCG: Scarlet & Violet-Surging Sparks Booster Display Box (36 Packs)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-surging-sparks-booster-display-box-36-packs.html",
       "sku": "SSP01",
-      "price": 209.87,
+      "price": 209.81,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-surging-sparks-booster-display-box-36-packs-911240.jpg"
@@ -1128,7 +1128,7 @@
       "sku": "PCI10400",
       "price": 38.15,
       "currency": "EUR",
-      "status": "InStock",
+      "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-build-battle-bundle-433737.png"
     },
     "977": {
@@ -1388,7 +1388,7 @@
       "sku": "PCI110421-108",
       "price": 9.35,
       "currency": "EUR",
-      "status": "InStock",
+      "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-chaos-rising-premium-checklane-blister-flygon-copie-870599.jpg"
     }
   }
