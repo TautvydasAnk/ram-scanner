@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-19T12:00:50.996Z",
+  "scannedAt": "2026-07-20T17:30:45.696Z",
   "products": {
     "1": {
       "id": "1",
@@ -1390,6 +1390,106 @@
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-chaos-rising-premium-checklane-blister-flygon-copie-870599.jpg"
+    },
+    "1422": {
+      "id": "1422",
+      "name": "Preorder Pokemon TCG: Q3 Fall Tin",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-q3-fall-tin.html",
+      "sku": "PCI10411",
+      "price": 30.33,
+      "currency": "EUR",
+      "status": "PreOrder",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-moonlit-tin-mega-gengar-ex-copie-797074.png"
+    },
+    "1424": {
+      "id": "1424",
+      "name": "Preorder Pokemon TCG: 30th Anniversary Booster Bundle",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-30th-anniversary-booster-bundle.html",
+      "sku": "PCI10451",
+      "price": 43.68,
+      "currency": "EUR",
+      "status": "PreOrder",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-chaos-rising-booster-bundle-copie-225464.jpeg"
+    },
+    "1425": {
+      "id": "1425",
+      "name": "Preorder Pokemon TCG: 30th Anniversary Mini-Tins Display [10x mini-tins]",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-30th-anniversary-mini-tins-display-10x-mini-tins.html",
+      "sku": "PCI10465",
+      "price": 188.83,
+      "currency": "EUR",
+      "status": "PreOrder",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-30th-anniversary-booster-bundle-copie-670448.jpeg"
+    },
+    "1426": {
+      "id": "1426",
+      "name": "Precomanda Pokemon TCG: 30th Anniversary 2-Pack Blister",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokemon-tcg-30th-anniversary-2-pack-blister.html",
+      "sku": "PCI10666",
+      "price": 19.07,
+      "currency": "EUR",
+      "status": "PreOrder",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-30th-anniversary-booster-bundle-copie-286676.jpg"
+    },
+    "1427": {
+      "id": "1427",
+      "name": "Precomanda Pokemon TCG: 30th Anniversary Greninja ex Box",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokemon-tcg-30th-anniversary-greninja-ex-box.html",
+      "sku": "PCI10463-114",
+      "price": 38.15,
+      "currency": "EUR",
+      "status": "PreOrder",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-30th-anniversary-2-pack-blister-copie-172098.jpg"
+    },
+    "1428": {
+      "id": "1428",
+      "name": "Precomanda Pokemon TCG: 30th Anniversary Sylveon ex Box",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokemon-tcg-30th-anniversary-sylveon-ex-box.html",
+      "sku": "PCI10463-108",
+      "price": 38.15,
+      "currency": "EUR",
+      "status": "PreOrder",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-30th-anniversary-greninja-ex-box-copie-626512.jpg"
+    },
+    "1429": {
+      "id": "1429",
+      "name": "Precomanda Pokemon TCG: 30th Anniversary Elite Trainer Box",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokemon-tcg-30th-anniversary-elite-trainer-box.html",
+      "sku": "PCI10447",
+      "price": 81.06,
+      "currency": "EUR",
+      "status": "OutOfStock",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-30th-anniversary-sylveon-ex-box-copie-116709.webp"
+    },
+    "1430": {
+      "id": "1430",
+      "name": "Precomanda Pokemon TCG: 30th Anniversary Poster Collection",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokemon-tcg-30th-anniversary-poster-collection.html",
+      "sku": "PCI10467",
+      "price": 38.15,
+      "currency": "EUR",
+      "status": "PreOrder",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-30th-anniversary-elite-trainer-box-copie-154834.webp"
+    },
+    "1431": {
+      "id": "1431",
+      "name": "Precomanda Pokemon TCG: 30th Anniversary Binder Collection",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokemon-tcg-30th-anniversary-binder-collection.html",
+      "sku": "PCI10450",
+      "price": 57.22,
+      "currency": "EUR",
+      "status": "PreOrder",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-30th-anniversary-poster-collection-copie-739004.webp"
+    },
+    "1432": {
+      "id": "1432",
+      "name": "Precomanda Pokemon TCG: 30th Anniversary Tech Sticker Collection",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokemon-tcg-30th-anniversary-tech-sticker-collection.html",
+      "sku": "PCI10449",
+      "price": 28.61,
+      "currency": "EUR",
+      "status": "PreOrder",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-30th-anniversary-binder-collection-copie-915671.jpg"
     }
   }
 }
