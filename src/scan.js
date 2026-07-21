@@ -45,6 +45,7 @@ export async function scan({ scannedAt, log = console.log } = {}) {
       `  ${pages.length} pages to fetch ` +
         `(base + ${extraUrls.length} extra + ${subUrls.length} sub-categories)`,
     );
+    for (const u of extraUrls) log(`    ↳ extra view: ${u}`);
 
     for (let i = 0; i < pages.length; i++) {
       const url = pages[i];

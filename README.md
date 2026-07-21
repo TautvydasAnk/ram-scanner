@@ -48,7 +48,7 @@ Runs alongside the email (both fire on the same change; each is independent). Ad
    (the authoritative source) and upgraded if actually available. The listing bug can only ever
    *hide* stock, never invent it, so this closes the blind spot for restocks on buried/broken
    pages. To keep the store footprint reasonable at higher scan frequencies, only the **newest
-   `VERIFY_LIMIT` out-of-stock items** are checked (default 30 — where new arrivals and their
+   `VERIFY_LIMIT` out-of-stock items** are checked (default 50 — where new arrivals and their
    restocks concentrate). Set `VERIFY_LIMIT` in `config.js` to `Infinity` to check all, `0` to skip.
 5. `src/diff.js` compares the new snapshot to `data/state.json` (the previous scan).
 6. If there are changes, an HTML report is generated and the workflow emails it to you.

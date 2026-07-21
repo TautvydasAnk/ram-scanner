@@ -37,7 +37,7 @@ export const REQUEST_TIMEOUT_MS = 30_000;
 // store footprint reasonable at higher scan frequencies (e.g. every 15 min), only the
 // N most recently-added out-of-stock items (highest product IDs) are verified — that's
 // where new arrivals and their restocks concentrate. Set to 0 to disable, Infinity for all.
-export const VERIFY_LIMIT = 30;
+export const VERIFY_LIMIT = 50;
 
 // A real browser User-Agent — the store serves the SSR JSON-LD to browsers.
 export const USER_AGENT =
