@@ -44,9 +44,13 @@ Runs alongside the email (both fire on the same change; each is independent). Ad
 2. `src/parse.js` reads each page's embedded **JSON-LD** (structured product data the site renders
    server-side) — name, stable `productID`, SKU, price, availability, URL.
 3. Products are merged by `productID` using the **best availability seen** (see the gotcha below).
-4. `src/diff.js` compares the new snapshot to `data/state.json` (the previous scan).
-5. If there are changes, an HTML report is generated and the workflow emails it to you.
-6. The new snapshot is committed back to `data/state.json`, so the next run has something to
+4. **Verification pass:** every product still showing out-of-stock is re-checked against its own
+   **detail page** (the authoritative source) and upgraded if actually available. The listing bug
+   can only ever *hide* stock, never invent it, so this closes the last blind spot for restocks on
+   buried/broken pages. Adds ~2 min/run (dozens of extra fetches); fine on a public repo.
+5. `src/diff.js` compares the new snapshot to `data/state.json` (the previous scan).
+6. If there are changes, an HTML report is generated and the workflow emails it to you.
+7. The new snapshot is committed back to `data/state.json`, so the next run has something to
    compare against. The git history of that file is a free audit log of every change over time.
 
 ### Why not Playwright / a headless browser?

@@ -57,6 +57,33 @@ export async function scan({ scannedAt, log = console.log } = {}) {
     }
   }
 
+  // Verification pass. Listing views can only ever *hide* stock (the paginated-page bug
+  // shows real in-stock items as OutOfStock; it never invents stock). So anything already
+  // In/PreOrder is certain — but every provisionally-OutOfStock item is re-checked against
+  // its own detail page, which is the authoritative source, and upgraded if actually
+  // available. This closes the last blind spot for restocks on buried/broken pages.
+  const toVerify = [...products.values()].filter((p) => p.status === 'OutOfStock' && p.url);
+  if (toVerify.length) {
+    log(`\n▶ Verifying ${toVerify.length} out-of-stock items against their detail pages`);
+    let corrected = 0;
+    for (let i = 0; i < toVerify.length; i++) {
+      const p = toVerify[i];
+      try {
+        const found = extractProducts(await politeFetch(p.url));
+        const detail = found.find((d) => d.id === p.id) ?? found[0];
+        if (detail && detail.status !== 'OutOfStock') {
+          p.status = detail.status; // upgrade OutOfStock → InStock / PreOrder
+          if (detail.price != null) p.price = detail.price;
+          corrected++;
+        }
+      } catch (err) {
+        log(`  ⚠ could not verify ${p.id} (${p.name}): ${err.message}`);
+      }
+      if (i < toVerify.length - 1) await sleep(REQUEST_DELAY_MS);
+    }
+    log(`  corrected ${corrected} item(s) that were actually available`);
+  }
+
   const bucket = { InStock: 0, PreOrder: 0, OutOfStock: 0 };
   for (const p of products.values()) bucket[p.status]++;
   log(
