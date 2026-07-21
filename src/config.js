@@ -31,6 +31,14 @@ export const REQUEST_DELAY_MS = 400; // pause between page fetches
 export const MAX_RETRIES = 3; // per request, on network / 5xx / 429
 export const REQUEST_TIMEOUT_MS = 30_000;
 
+// Detail-page verification pass: after the listing scan, re-check out-of-stock items
+// against their authoritative detail page (the listing bug can only hide stock, never
+// invent it). Verifying ALL out-of-stock items is ~120 extra fetches/run; to keep the
+// store footprint reasonable at higher scan frequencies (e.g. every 15 min), only the
+// N most recently-added out-of-stock items (highest product IDs) are verified — that's
+// where new arrivals and their restocks concentrate. Set to 0 to disable, Infinity for all.
+export const VERIFY_LIMIT = 30;
+
 // A real browser User-Agent — the store serves the SSR JSON-LD to browsers.
 export const USER_AGENT =
   'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) ' +

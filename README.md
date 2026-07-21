@@ -44,10 +44,12 @@ Runs alongside the email (both fire on the same change; each is independent). Ad
 2. `src/parse.js` reads each page's embedded **JSON-LD** (structured product data the site renders
    server-side) — name, stable `productID`, SKU, price, availability, URL.
 3. Products are merged by `productID` using the **best availability seen** (see the gotcha below).
-4. **Verification pass:** every product still showing out-of-stock is re-checked against its own
-   **detail page** (the authoritative source) and upgraded if actually available. The listing bug
-   can only ever *hide* stock, never invent it, so this closes the last blind spot for restocks on
-   buried/broken pages. Adds ~2 min/run (dozens of extra fetches); fine on a public repo.
+4. **Verification pass:** the out-of-stock items are re-checked against their own **detail page**
+   (the authoritative source) and upgraded if actually available. The listing bug can only ever
+   *hide* stock, never invent it, so this closes the blind spot for restocks on buried/broken
+   pages. To keep the store footprint reasonable at higher scan frequencies, only the **newest
+   `VERIFY_LIMIT` out-of-stock items** are checked (default 30 — where new arrivals and their
+   restocks concentrate). Set `VERIFY_LIMIT` in `config.js` to `Infinity` to check all, `0` to skip.
 5. `src/diff.js` compares the new snapshot to `data/state.json` (the previous scan).
 6. If there are changes, an HTML report is generated and the workflow emails it to you.
 7. The new snapshot is committed back to `data/state.json`, so the next run has something to

@@ -1,4 +1,4 @@
-import { categories, REQUEST_DELAY_MS } from './config.js';
+import { categories, REQUEST_DELAY_MS, VERIFY_LIMIT } from './config.js';
 import { politeFetch } from './fetch.js';
 import { extractProducts, discoverSubcategories } from './parse.js';
 
@@ -62,9 +62,19 @@ export async function scan({ scannedAt, log = console.log } = {}) {
   // In/PreOrder is certain — but every provisionally-OutOfStock item is re-checked against
   // its own detail page, which is the authoritative source, and upgraded if actually
   // available. This closes the last blind spot for restocks on buried/broken pages.
-  const toVerify = [...products.values()].filter((p) => p.status === 'OutOfStock' && p.url);
+  const numId = (p) => {
+    const n = Number(p.id);
+    return Number.isFinite(n) ? n : -Infinity;
+  };
+  const oos = [...products.values()].filter((p) => p.status === 'OutOfStock' && p.url);
+  // Newest first (highest product ID), then cap — that's where new arrivals / restocks live.
+  oos.sort((a, b) => numId(b) - numId(a));
+  const toVerify = oos.slice(0, VERIFY_LIMIT);
   if (toVerify.length) {
-    log(`\n▶ Verifying ${toVerify.length} out-of-stock items against their detail pages`);
+    log(
+      `\n▶ Verifying ${toVerify.length} of ${oos.length} out-of-stock items ` +
+        `(newest first) against their detail pages`,
+    );
     let corrected = 0;
     for (let i = 0; i < toVerify.length; i++) {
       const p = toVerify[i];
