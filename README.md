@@ -39,7 +39,8 @@ Runs alongside the email (both fire on the same change; each is independent). Ad
 
 ## How it works
 
-1. `src/scan.js` fetches the category landing page and every type/set **sub-category** page.
+1. `src/scan.js` fetches the category landing page, the **newest-added view** (`?o=news`, the
+   earliest place a fresh listing appears), and every type/set **sub-category** page.
 2. `src/parse.js` reads each page's embedded **JSON-LD** (structured product data the site renders
    server-side) — name, stable `productID`, SKU, price, availability, URL.
 3. Products are merged by `productID` using the **best availability seen** (see the gotcha below).
