@@ -10,6 +10,11 @@ export const categories = [
     // The category landing page. Its stock is rendered correctly, and it also
     // links to every type/set sub-category we crawl for full coverage.
     baseUrl: 'https://www.ramcards.ro/en/pokemon-tcg',
+    // Extra listing views to also scan (merged by product ID). `?o=news` sorts by
+    // newest-added, so brand-new listings appear at the top there — often days before
+    // they climb the default "Most purchased" sort, and while still out of stock. This
+    // is our earliest signal for a freshly added product. It renders correct stock too.
+    extraUrls: ['https://www.ramcards.ro/en/pokemon-tcg?o=news'],
   },
 ];
 

@@ -38,8 +38,13 @@ export async function scan({ scannedAt, log = console.log } = {}) {
     log(`\n▶ Scanning ${category.name} (${category.baseUrl})`);
     const baseHtml = await politeFetch(category.baseUrl);
     const subUrls = discoverSubcategories(baseHtml, category.baseUrl);
-    const pages = [category.baseUrl, ...subUrls];
-    log(`  ${pages.length} pages to fetch (base + ${subUrls.length} sub-categories)`);
+    const extraUrls = category.extraUrls ?? [];
+    // Dedup while preserving order; baseUrl stays first so index 0 reuses baseHtml.
+    const pages = [...new Set([category.baseUrl, ...extraUrls, ...subUrls])];
+    log(
+      `  ${pages.length} pages to fetch ` +
+        `(base + ${extraUrls.length} extra + ${subUrls.length} sub-categories)`,
+    );
 
     for (let i = 0; i < pages.length; i++) {
       const url = pages[i];
