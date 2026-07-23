@@ -1,12 +1,12 @@
 {
-  "scannedAt": "2026-07-22T12:01:16.830Z",
+  "scannedAt": "2026-07-23T04:01:17.840Z",
   "products": {
     "1": {
       "id": "1",
       "name": "Pokémon TCG: Scarlet & Violet-Journey Together Booster Display Box (36 Packs)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-journey-together-booster-display-box-36-packs.html",
       "sku": "JTG01",
-      "price": 171.81,
+      "price": 171.79,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-journey-together-booster-display-box-36-packs-773740.jpg"
@@ -246,7 +246,7 @@
       "name": "Pokémon TCG: Phantasmal Flames Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-phantasmal-flames-elite-trainer-box.html",
       "sku": "PFL01",
-      "price": 85.84,
+      "price": 85.9,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-phantasmal-flare-elite-trainer-box-194859.jpg"
@@ -406,7 +406,7 @@
       "name": "Pokémon TCG: Phantasmal Flames Booster Bundle",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-phantasmal-flames-booster-bundle.html",
       "sku": "PFL02",
-      "price": 47.69,
+      "price": 47.72,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-phantasmal-flare-booster-bundle-045892.jpg"
@@ -446,7 +446,7 @@
       "name": "Pokémon TCG: Phantasmal Flames Build & Battle Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-phantasmal-flames-build-battle-box.html",
       "sku": "PFL03",
-      "price": 47.69,
+      "price": 47.72,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-phantasmal-flames-build-battle-box-126528.jpg"
@@ -686,7 +686,7 @@
       "name": "Pokémon TCG: Scarlet & Violet Single Pack Blister [Espathra]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-single-pack-blister-espanthra.html",
       "sku": "SVI02",
-      "price": 8.58,
+      "price": 8.59,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-single-pack-blister-espanthra-792076.jpg"
@@ -706,7 +706,7 @@
       "name": "Pokémon TCG: Scarlet & Violet Single Pack Blister [Spidops]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-single-pack-blister-spidops.html",
       "sku": "SVI04",
-      "price": 8.58,
+      "price": 8.59,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-single-pack-blister-spidops-323289.jpg"
@@ -726,7 +726,7 @@
       "name": "Pokemon TCG: Pokémon Day 2026 Collection (30th anniversary)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-pokémon-day-2026-collection-30th-anniversary.html",
       "sku": "30TH-01",
-      "price": 25.75,
+      "price": 25.77,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-pokemon-day-2026-collection-30th-anniversary-717878.jpg"
@@ -866,7 +866,7 @@
       "name": "Pokémon TCG: Perfect Order Booster Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-perfect-order-booster-box.html",
       "sku": "PCI10380",
-      "price": 206.17,
+      "price": 206.15,
       "currency": "EUR",
       "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-perfect-order-booster-bundle-copie-834885.webp"
@@ -886,7 +886,7 @@
       "name": "Pokémon TCG: Perfect Order Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-perfect-order-elite-trainer-box-etb.html",
       "sku": "PCI10372",
-      "price": 68.72,
+      "price": 68.71,
       "currency": "EUR",
       "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-perfect-order-booster-box-copie-452110.webp"
@@ -926,7 +926,7 @@
       "name": "Pokémon TCG: Phantasmal Flames Mini Portofolio",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-perfect-order-mini-portofolio.html",
       "sku": "PFL0100",
-      "price": 6.48,
+      "price": 6.49,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-phantasmal-flames-mini-portofolio-434492.webp"
@@ -1036,7 +1036,7 @@
       "name": "Pokémon TCG: Mega Zygarde ex Premium Collection Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-mega-zygarde-ex-premium-collection-box.html",
       "sku": "PCI10359",
-      "price": 59.18,
+      "price": 59.17,
       "currency": "EUR",
       "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-iono-s-bellibolt-ex-premium-collection-copie-804892.webp"
@@ -1076,7 +1076,7 @@
       "name": "Pokémon TCG: Chaos Rising Booster Box Display",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-chaos-rising-booster-box-display.html",
       "sku": "PCI10407",
-      "price": 209.8,
+      "price": 209.78,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-booster-box-display-127381.png"
@@ -1236,7 +1236,7 @@
       "name": "Pokemon TCG: Pitch Black Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-pitch-black-elite-trainer-box.html",
       "sku": "PitchBlack01",
-      "price": 76.36,
+      "price": 76.35,
       "currency": "EUR",
       "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-elite-trainer-box-copie-867001.webp"
@@ -1246,7 +1246,7 @@
       "name": "Pokemon TCG: Pitch Black Booster Box Display (36 Packs)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-pitch-black-booster-box-display.html",
       "sku": "PitchBlack02",
-      "price": 219.53,
+      "price": 219.51,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-booster-box-display-copie-585190.webp"
@@ -1286,7 +1286,7 @@
       "name": "Pokemon TCG: Mega Greninja ex Premium Collection Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-mega-greninja-ex-premium-collection-box.html",
       "sku": "PCI10413",
-      "price": 57.08,
+      "price": 57.07,
       "currency": "EUR",
       "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-zygarde-ex-premium-collection-box-copie-048891.webp"
@@ -1326,7 +1326,7 @@
       "name": "Pokemon TCG: Calyrex VMAX League Battle Deck - Shadow Rider",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-calyrex-vmax-league-battle-deck-shadow-rider.html",
       "sku": "DECK-POKEMON-01",
-      "price": 43.72,
+      "price": 43.71,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-world-championship-deck-2025-gholdengo-copie-544374.jpg"
@@ -1336,7 +1336,7 @@
       "name": "Pokemon TCG: Calyrex VMAX League Battle Deck - Ice Rider",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-calyrex-vmax-league-battle-deck-ice-rider.html",
       "sku": "DECK-POKEMON-02",
-      "price": 43.72,
+      "price": 43.71,
       "currency": "EUR",
       "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-calyrex-vmax-league-battle-deck-shadow-rider-copie-271936.jpg"
@@ -1346,7 +1346,7 @@
       "name": "Pokemon TCG: Pokemon GO V Battle Deck - Mewtwo vs. Melmetal",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-pokemon-go-v-battle-deck-mewtwo-vs-melmetal.html",
       "sku": "DECK-POKEMON-03",
-      "price": 43.72,
+      "price": 43.71,
       "currency": "EUR",
       "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-calyrex-vmax-league-battle-deck-ice-rider-copie-447592.jpg"
@@ -1356,7 +1356,7 @@
       "name": "Pokemon TCG: Chaos Rising 24 Sleeved Booster CASE",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-chaos-rising-24-sleeved-booster-case.html",
       "sku": "PCI10404-2762v2",
-      "price": 137.45,
+      "price": 137.43,
       "currency": "EUR",
       "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-chaos-rising-sleeved-booster-pack-copie-976389.png"
@@ -1376,7 +1376,7 @@
       "name": "Pokemon TCG: Pitch Black Sleeved Booster CASE [24 packs]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-pitch-black-sleeved-booster-case-24-packs.html",
       "sku": "PitchBlack06",
-      "price": 128.28,
+      "price": 128.27,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-pitch-black-sleeved-booster-pack-copie-516678.webp"
@@ -1406,7 +1406,7 @@
       "name": "Preorder Pokemon TCG: 30th Anniversary Booster Bundle",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-30th-anniversary-booster-bundle.html",
       "sku": "PCI10451",
-      "price": 43.72,
+      "price": 43.71,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-chaos-rising-booster-bundle-copie-225464.jpeg"
@@ -1416,7 +1416,7 @@
       "name": "Preorder Pokemon TCG: 30th Anniversary Mini-Tins Display [10x mini-tins]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-30th-anniversary-mini-tins-display-10x-mini-tins.html",
       "sku": "PCI10465",
-      "price": 188.99,
+      "price": 188.97,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-30th-anniversary-booster-bundle-copie-670448.jpeg"
@@ -1456,7 +1456,7 @@
       "name": "Precomanda Pokemon TCG: 30th Anniversary Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokemon-tcg-30th-anniversary-elite-trainer-box.html",
       "sku": "PCI10447",
-      "price": 81.13,
+      "price": 81.12,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-30th-anniversary-sylveon-ex-box-copie-116709.webp"
@@ -1476,7 +1476,7 @@
       "name": "Precomanda Pokemon TCG: 30th Anniversary Binder Collection",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokemon-tcg-30th-anniversary-binder-collection.html",
       "sku": "PCI10450",
-      "price": 57.27,
+      "price": 57.26,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-30th-anniversary-poster-collection-copie-739004.webp"
