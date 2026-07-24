@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-23T20:46:18.832Z",
+  "scannedAt": "2026-07-24T04:01:15.158Z",
   "products": {
     "1": {
       "id": "1",
@@ -136,7 +136,7 @@
       "name": "Pokémon TCG: Scarlet & Violet-Surging Sparks Booster Display Box (36 Packs)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-surging-sparks-booster-display-box-36-packs.html",
       "sku": "SSP01",
-      "price": 209.97,
+      "price": 210.1,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-surging-sparks-booster-display-box-36-packs-911240.jpg"
@@ -146,7 +146,7 @@
       "name": "Pokémon TCG: Scarlet & Violet-Surging Sparks Booster Pack",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-surging-sparks-booster-pack.html",
       "sku": "SSP02",
-      "price": 6.68,
+      "price": 6.69,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-surging-sparks-booster-pack-249839.jpg"
@@ -626,7 +626,7 @@
       "name": "Pokémon TCG: Surging Sparks Premium Checklane Blister [Alakazam]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-surging-sparks-premium-checklane-blister-alakazam.html",
       "sku": "SSP03",
-      "price": 9.54,
+      "price": 9.55,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-surging-sparks-premium-checklane-blister-abra-059087.jpg"
@@ -666,7 +666,7 @@
       "name": "Pokémon TCG: Back to School Eraser Blister [Gengar]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-back-to-school-eraser-blister-gengar.html",
       "sku": "Pokemon12",
-      "price": 23.86,
+      "price": 23.88,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-back-to-school-eraser-blister-gengar-004929.jpg"
@@ -1026,7 +1026,7 @@
       "name": "Pokémon TCG: Back to School Eraser Blister [Bellibolt]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-back-to-school-eraser-blister-bellibolt.html",
       "sku": "Pokemon-EraserBlister",
-      "price": 23.86,
+      "price": 23.88,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-back-to-school-eraser-blister-gengar-copie-702679.jpg"
