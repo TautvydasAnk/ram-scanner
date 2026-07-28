@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-28T09:01:16.345Z",
+  "scannedAt": "2026-07-28T12:31:16.252Z",
   "products": {
     "1": {
       "id": "1",
@@ -46,7 +46,7 @@
       "name": "Pokémon TCG: Scarlet & Violet-Prismatic Evolutions Mini Tin (Vaporeon)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-vaporeon.html",
       "sku": "PRE03",
-      "price": 20.82,
+      "price": 20.83,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-espeon-copie-092945.jpg"
@@ -56,7 +56,7 @@
       "name": "Pokémon TCG: Scarlet & Violet-Prismatic Evolutions Mini Tin (Glaceon)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-glaceon.html",
       "sku": "PRE04",
-      "price": 20.82,
+      "price": 20.83,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-vaporeon-copie-145172.jpg"
@@ -66,7 +66,7 @@
       "name": "Pokémon TCG: Scarlet & Violet-Prismatic Evolutions Mini Tin (Jolteon)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-jolteon.html",
       "sku": "PRE05",
-      "price": 20.84,
+      "price": 20.83,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-glaceon-copie-578938.jpg"
@@ -1370,16 +1370,6 @@
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-first-partner-illustration-collection-series-2-2689339101.jpg"
-    },
-    "1415": {
-      "id": "1415",
-      "name": "Pokemon TCG: Pitch Black Sleeved Booster CASE [24 packs]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-pitch-black-sleeved-booster-case-24-packs.html",
-      "sku": "PitchBlack06",
-      "price": 128.37,
-      "currency": "EUR",
-      "status": "OutOfStock",
-      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-pitch-black-sleeved-booster-pack-copie-516678.webp"
     },
     "1416": {
       "id": "1416",
