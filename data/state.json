@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-07-30T04:31:14.258Z",
+  "scannedAt": "2026-07-30T04:46:18.225Z",
   "products": {
     "1": {
       "id": "1",
@@ -156,7 +156,7 @@
       "name": "Pokémon TCG: Mega Charizard X ex Ultra-Premium Collection",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-charizard-x-ex-ultra-premium-collection.html",
       "sku": "UPC01",
-      "price": 210.3,
+      "price": 210.28,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection-477247.jpg"
@@ -176,7 +176,7 @@
       "name": "Pokémon TCG: Mega Heroes Mini Tin Display (10 Mini Tins)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-heroes-mini-tin-display-10-mini-tins.html",
       "sku": "MEG01",
-      "price": 172.06,
+      "price": 172.05,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-heroes-mini-tin-display-10-mini-tins-858576.jpg"
@@ -336,7 +336,7 @@
       "name": "Pokémon TCG: Mega Evolution Build & Battle Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-evolution-build-battle-box.html",
       "sku": "MEG04",
-      "price": 47.8,
+      "price": 47.79,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-evolution-build-battle-box-388452.jpg"
@@ -536,7 +536,7 @@
       "name": "Pokémon TCG: Mega Latias ex Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-latias-ex-box.html",
       "sku": "MEG06",
-      "price": 33.46,
+      "price": 33.45,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-latias-ex-box-021049.jpg"
