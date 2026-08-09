@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-08-09T04:01:17.485Z",
+  "scannedAt": "2026-08-09T04:16:19.576Z",
   "products": {
     "1": {
       "id": "1",
@@ -546,7 +546,7 @@
       "name": "Pokémon TCG: Paradox Destinies Tin [Iron Boulder ex]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-paradox-destinies-tin-iron-boulder-ex.html",
       "sku": "PAR01",
-      "price": 28.56,
+      "price": 28.54,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-paradox-destinies-tin-iron-boulder-ex-002221.jpg"
@@ -596,7 +596,7 @@
       "name": "Pokémon TCG: Paradox Destinies Tin [Iron Crown ex]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-paradox-destinies-tin-iron-crown-ex.html",
       "sku": "PAR04",
-      "price": 28.56,
+      "price": 28.54,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-paradox-destinies-tin-iron-crown-ex-688562.jpg"
@@ -616,7 +616,7 @@
       "name": "Pokémon TCG: Paradox Destinies Tin [Raging Bolt ex]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-paradox-destinies-tin-raging-bolt-ex.html",
       "sku": "PAR05",
-      "price": 28.56,
+      "price": 28.54,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-paradox-destinies-tin-raging-bolt-ex-434534.jpg"
@@ -636,7 +636,7 @@
       "name": "Pokémon TCG: Paradox Rift 3 Pack Blister [Arctibax]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-paradox-rift-3-pack-blister-arctibax.html",
       "sku": "PAR06",
-      "price": 28.56,
+      "price": 28.54,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-paradox-rift-3-pack-blister-arctibax-515506.jpg"
@@ -1348,7 +1348,7 @@
       "sku": "PCI10404-2762v2",
       "price": 137,
       "currency": "EUR",
-      "status": "InStock",
+      "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-chaos-rising-sleeved-booster-pack-copie-976389.png"
     },
     "1413": {
