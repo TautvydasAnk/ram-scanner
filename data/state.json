@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-08-18T18:16:20.631Z",
+  "scannedAt": "2026-08-18T18:46:16.307Z",
   "products": {
     "1": {
       "id": "1",
@@ -236,7 +236,7 @@
       "name": "Pokémon TCG: White Flare Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-white-flare-elite-trainer-box.html",
       "sku": "WHT01",
-      "price": 76.28,
+      "price": 76.31,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-white-flare-elite-trainer-box-518015.jpg"
@@ -346,7 +346,7 @@
       "name": "Pokémon TCG: White Flare Booster Bundle",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-white-flare-booster-bundle.html",
       "sku": "WHT02",
-      "price": 52.44,
+      "price": 52.46,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-white-flare-booster-bundle-586362.jpeg"
