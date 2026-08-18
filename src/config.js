@@ -30,6 +30,15 @@ export const SKIP_SLUG = /^r\d-5$/;
 // this just prevents an unbounded loop if pagination ever misbehaves.
 export const MAX_LISTING_PAGES = 30;
 
+// Coverage safeguards (guard against silent scan regressions / the store blocking us).
+// - A run that finds fewer than MIN_COVERAGE_RATIO of the previous product count is treated
+//   as an unreliable scrape: it does NOT overwrite the saved snapshot and does NOT emit
+//   new/restock alerts (which would be false) — instead it sends a coverage-anomaly alert.
+// - A smaller drop of at least COVERAGE_DROP_ALERT products still updates normally but adds
+//   a heads-up line to the notification.
+export const MIN_COVERAGE_RATIO = 0.5;
+export const COVERAGE_DROP_ALERT = 5;
+
 // Politeness / robustness knobs.
 export const REQUEST_DELAY_MS = 400; // pause between page fetches
 export const MAX_RETRIES = 3; // per request, on network / 5xx / 429

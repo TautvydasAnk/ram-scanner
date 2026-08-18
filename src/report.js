@@ -9,20 +9,28 @@ function link(p) {
   return p.url ? `[${p.name}](${p.url})` : p.name;
 }
 
-/** Email subject line. */
-export function renderTitle(changes, scannedAt) {
+/** Email subject line. `notice` is an optional coverage-warning string. */
+export function renderTitle(changes, scannedAt, notice = null) {
+  const when = scannedAt.slice(0, 16).replace('T', ' ');
   const parts = [];
   if (changes.new.length) parts.push(`${changes.new.length} new`);
   if (changes.backInStock.length) parts.push(`${changes.backInStock.length} back in stock`);
-  const when = scannedAt.slice(0, 16).replace('T', ' ');
-  return `🎴 Ram-scanner: ${parts.join(', ')} — ${when} UTC`;
+  if (parts.length === 0 && notice) return `⚠️ Ram-scanner: coverage warning — ${when} UTC`;
+  const prefix = notice ? '⚠️ ' : '🎴 ';
+  return `${prefix}Ram-scanner: ${parts.join(', ')} — ${when} UTC`;
 }
 
 /** Markdown body — used as the plain-text email fallback and the Actions step summary. */
-export function renderMarkdown(changes, scannedAt) {
+export function renderMarkdown(changes, scannedAt, notice = null) {
   const lines = [];
-  lines.push(`**${totalChanges(changes)} change(s)** detected at ${scannedAt} UTC.`);
-  lines.push('');
+  if (notice) {
+    lines.push(`> ⚠️ **Coverage warning:** ${notice}`);
+    lines.push('');
+  }
+  if (totalChanges(changes) > 0) {
+    lines.push(`**${totalChanges(changes)} change(s)** detected at ${scannedAt} UTC.`);
+    lines.push('');
+  }
 
   if (changes.backInStock.length) {
     lines.push(`## ✅ Back in stock (${changes.backInStock.length})`);
@@ -60,12 +68,18 @@ function htmlName(p) {
 }
 
 /** HTML email body — a clean, self-contained (inline-styled) message. */
-export function renderHtml(changes, scannedAt) {
+export function renderHtml(changes, scannedAt, notice = null) {
   const section = (title, items) => `
     <h2 style="font-size:16px;margin:20px 0 8px;color:#111;">${title}</h2>
     <ul style="margin:0;padding-left:20px;line-height:1.6;">${items.join('')}</ul>`;
 
   const parts = [];
+
+  if (notice) {
+    parts.push(`<div style="background:#fff8c5;border:1px solid #d4a72c;border-radius:6px;
+      padding:10px 12px;margin:0 0 16px;color:#7a5c00;font-size:14px;">
+      ⚠️ <strong>Coverage warning:</strong> ${esc(notice)}</div>`);
+  }
 
   if (changes.backInStock.length) {
     const items = changes.backInStock.map(
@@ -85,9 +99,14 @@ export function renderHtml(changes, scannedAt) {
   }
 
 
+  const countLine =
+    totalChanges(changes) > 0
+      ? `<p style="font-size:14px;color:#57606a;margin:0 0 4px;">
+          <strong>${totalChanges(changes)} change(s)</strong> detected at ${esc(scannedAt)} UTC.</p>`
+      : '';
+
   return `<!doctype html><html><body style="font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;color:#111;max-width:680px;margin:0 auto;padding:8px 4px;">
-    <p style="font-size:14px;color:#57606a;margin:0 0 4px;">
-      <strong>${totalChanges(changes)} change(s)</strong> detected at ${esc(scannedAt)} UTC.</p>
+    ${countLine}
     ${parts.join('')}
     <hr style="border:none;border-top:1px solid #d0d7de;margin:24px 0 8px;">
     <p style="font-size:12px;color:#8c959f;">Automated by ram-scanner.</p>
@@ -109,8 +128,14 @@ function tgName(p) {
  * (<b>, <i>, <a>, <code>, …) — no lists/headings — so we format with emoji + newlines.
  * Capped to stay well under Telegram's 4096-char limit.
  */
-export function renderTelegram(changes) {
-  const lines = [`🎴 <b>Ram-scanner</b> — ${totalChanges(changes)} change(s)`];
+export function renderTelegram(changes, notice = null) {
+  const lines = [];
+  if (notice) lines.push(`⚠️ <b>Coverage warning:</b> ${tgEsc(notice)}`, '');
+  if (totalChanges(changes) > 0) {
+    lines.push(`🎴 <b>Ram-scanner</b> — ${totalChanges(changes)} change(s)`);
+  } else if (notice) {
+    lines.push('🎴 <b>Ram-scanner</b>');
+  }
 
   const add = (title, items) => {
     lines.push('', title);

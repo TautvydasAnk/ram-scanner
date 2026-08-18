@@ -58,6 +58,16 @@ Runs alongside the email (both fire on the same change; each is independent). Ad
 7. The new snapshot is committed back to `data/state.json`, so the next run has something to
    compare against. The git history of that file is a free audit log of every change over time.
 
+### Coverage safeguards
+Because no single view on this store is complete, a future site change could silently hide products
+again. Two guards in `src/index.js` catch that:
+- **Anomaly guard** — if a run finds fewer than `MIN_COVERAGE_RATIO` (default 50%) of the previous
+  product count, the run is treated as an unreliable scrape: the snapshot is **not** overwritten and
+  no new/restock alerts are sent (they'd be false); instead a **coverage-anomaly alert** is emailed/
+  pinged. This prevents a block or layout change from corrupting the baseline and flooding you later.
+- **Coverage-drop notice** — a smaller drop (≥ `COVERAGE_DROP_ALERT`, default 5) still processes
+  normally but adds a heads-up line to the notification. Both thresholds live in `config.js`.
+
 ### Why not Playwright / a headless browser?
 The store renders all product data as JSON-LD in the initial HTML, so a plain HTTP request is enough
 — faster and far more reliable in CI. A browser was tested and **did not** improve data quality.
