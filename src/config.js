@@ -26,6 +26,10 @@ export const SITE_ORIGIN = 'https://www.ramcards.ro';
 // state, so we skip them entirely (type + set sub-categories already cover everything).
 export const SKIP_SLUG = /^r\d-5$/;
 
+// Safety cap on how many main-listing pages (?p=1..N) to walk. The catalog is ~3 pages;
+// this just prevents an unbounded loop if pagination ever misbehaves.
+export const MAX_LISTING_PAGES = 30;
+
 // Politeness / robustness knobs.
 export const REQUEST_DELAY_MS = 400; // pause between page fetches
 export const MAX_RETRIES = 3; // per request, on network / 5xx / 429

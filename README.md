@@ -40,7 +40,10 @@ Runs alongside the email (both fire on the same change; each is independent). Ad
 ## How it works
 
 1. `src/scan.js` fetches the category landing page, the **newest-added view** (`?o=news`, the
-   earliest place a fresh listing appears), and every type/set **sub-category** page.
+   earliest place a fresh listing appears), **every page of the main listing** (`?p=1..N`), and
+   every type/set **sub-category** page. No single view is complete on this store — a freshly
+   added item can live *only* on a deep main-listing page (not yet tagged into any sub-filter,
+   and not surfaced by the news sort) — so we union all of them by product ID for full coverage.
 2. `src/parse.js` reads each page's embedded **JSON-LD** (structured product data the site renders
    server-side) — name, stable `productID`, SKU, price, availability, URL.
 3. Products are merged by `productID` using the **best availability seen** (see the gotcha below).

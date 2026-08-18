@@ -1,4 +1,4 @@
-import { categories, REQUEST_DELAY_MS, VERIFY_LIMIT } from './config.js';
+import { categories, REQUEST_DELAY_MS, VERIFY_LIMIT, MAX_LISTING_PAGES } from './config.js';
 import { politeFetch } from './fetch.js';
 import { extractProducts, discoverSubcategories } from './parse.js';
 
@@ -56,6 +56,31 @@ export async function scan({ scannedAt, log = console.log } = {}) {
       }
       if (i < pages.length - 1) await sleep(REQUEST_DELAY_MS);
     }
+
+    // Fully paginate the MAIN listing (?p=1..N). No single view is complete on this store:
+    // some products live only on a deep main-listing page (e.g. a freshly added item not yet
+    // tagged into any sub-filter, and not surfaced by the news sort). These secondary pages
+    // render broken stock (all out-of-stock), but that's fine here — they're for *discovery*;
+    // best-status merge + the detail-page verification pass below resolve true stock.
+    let pageProducts = 0;
+    let pageCount = 0;
+    for (let p = 1; p <= MAX_LISTING_PAGES; p++) {
+      let html;
+      try {
+        html = await politeFetch(`${category.baseUrl}?p=${p}`);
+      } catch (err) {
+        break; // 404 = past the last page (or unrecoverable — stop paginating)
+      }
+      const found = extractProducts(html);
+      if (found.length === 0) break;
+      pageCount++;
+      for (const prod of found) {
+        if (!products.has(prod.id)) pageProducts++;
+        products.set(prod.id, mergeProduct(products.get(prod.id), prod));
+      }
+      await sleep(REQUEST_DELAY_MS);
+    }
+    log(`  main-listing pagination: ${pageCount} pages, +${pageProducts} products not seen elsewhere`);
   }
 
   // Verification pass. Listing views can only ever *hide* stock (the paginated-page bug
