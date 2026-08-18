@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-08-18T09:46:18.728Z",
+  "scannedAt": "2026-08-18T10:05:22.128Z",
   "products": {
     "1": {
       "id": "1",
@@ -1470,6 +1470,16 @@
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-30th-anniversary-binder-collection-copie-915671.jpg"
+    },
+    "1506": {
+      "id": "1506",
+      "name": "Pokemon TCG: Destined Rivals Elite Trainer Box",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-destined-rivals-elite-trainer-box.html",
+      "sku": "DRI-ETB-01",
+      "price": 66.77,
+      "currency": "EUR",
+      "status": "OutOfStock",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-30th-anniversary-elite-trainer-box-copie-360182.webp"
     }
   }
 }
