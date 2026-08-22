@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-08-22T04:16:17.148Z",
+  "scannedAt": "2026-08-22T05:01:15.169Z",
   "products": {
     "1": {
       "id": "1",
@@ -336,7 +336,7 @@
       "name": "Pokémon TCG: Mega Evolution Build & Battle Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-evolution-build-battle-box.html",
       "sku": "MEG04",
-      "price": 47.59,
+      "price": 47.55,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-evolution-build-battle-box-388452.jpg"
@@ -476,7 +476,7 @@
       "name": "Pokémon TCG: Mega Lucario ex Premium Figure Collection",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-lucario-ex-premium-figure-collection.html",
       "sku": "MEG05",
-      "price": 66.62,
+      "price": 66.56,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-lucario-ex-premium-figure-collection-930680.webp"
@@ -536,7 +536,7 @@
       "name": "Pokémon TCG: Mega Latias ex Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-latias-ex-box.html",
       "sku": "MEG06",
-      "price": 33.31,
+      "price": 33.28,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-latias-ex-box-021049.jpg"
@@ -576,7 +576,7 @@
       "name": "Pokémon TCG: Mega Evolution 3 Pack Blister [Psyduck]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-evolution-3-pack-blister-psyduck.html",
       "sku": "MEG07",
-      "price": 28.55,
+      "price": 28.53,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-evolution-3-pack-blister-psyduck-224471.jpg"
@@ -586,7 +586,7 @@
       "name": "Pokémon TCG: Mega Evolution 3 Pack Blister [Golduck]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-evolution-3-pack-blister-golduck.html",
       "sku": "MEG08",
-      "price": 23.79,
+      "price": 23.77,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-evolution-3-pack-blister-golduck-512904.jpg"
