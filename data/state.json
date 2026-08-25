@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-08-25T04:01:24.395Z",
+  "scannedAt": "2026-08-25T04:31:17.616Z",
   "products": {
     "1": {
       "id": "1",
@@ -856,7 +856,7 @@
       "name": "Pokémon TCG: Perfect Order Booster Bundle",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-perfect-order-booster-bundle.html",
       "sku": "PCI10377-101",
-      "price": 29.48,
+      "price": 29.5,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/846851.jpeg"
@@ -866,7 +866,7 @@
       "name": "Pokémon TCG: Perfect Order Booster Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-perfect-order-booster-box.html",
       "sku": "PCI10380",
-      "price": 188.28,
+      "price": 188.44,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-perfect-order-booster-bundle-copie-834885.webp"
@@ -916,7 +916,7 @@
       "name": "Pokémon TCG: Perfect Order Sleeved Booster Pack",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-perfect-order-sleeved-booster-pack.html",
       "sku": "PCI10378",
-      "price": 4.94,
+      "price": 4.95,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-perfect-order-premium-checklane-blister-meganium-copie-759924.jpeg"
@@ -1016,7 +1016,7 @@
       "name": "Pokémon TCG: Perfect Order Build & Battle Bundle",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-perfect-order-build-and-battle-bundle.html",
       "sku": "PCI10373",
-      "price": 30.43,
+      "price": 30.45,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-ascended-heroes-booster-bundle-copie-419672.jpg"
