@@ -1,12 +1,12 @@
 {
-  "scannedAt": "2026-08-25T16:46:15.110Z",
+  "scannedAt": "2026-08-26T04:01:17.058Z",
   "products": {
     "1": {
       "id": "1",
       "name": "Pokémon TCG: Scarlet & Violet-Journey Together Booster Display Box (36 Packs)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-journey-together-booster-display-box-36-packs.html",
       "sku": "JTG01",
-      "price": 171.31,
+      "price": 171.32,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-journey-together-booster-display-box-36-packs-773740.jpg"
@@ -96,7 +96,7 @@
       "name": "Pokémon TCG: Scarlet & Violet-Prismatic Evolutions Mini Tin (Umbreon)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-umbreon.html",
       "sku": "PRE08",
-      "price": 23.79,
+      "price": 23.8,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-flareon-copie-660198.jpg"
@@ -116,7 +116,7 @@
       "name": "Pokémon TCG: Scarlet & Violet-Stellar Crown Booster Display Box (36 Packs)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-stellar-crown-booster-display-box-36-packs.html",
       "sku": "SCR01",
-      "price": 171.31,
+      "price": 171.32,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-stellar-crown-booster-display-box-36-packs-082012.jpg"
@@ -136,7 +136,7 @@
       "name": "Pokémon TCG: Scarlet & Violet-Surging Sparks Booster Display Box (36 Packs)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-surging-sparks-booster-display-box-36-packs.html",
       "sku": "SSP01",
-      "price": 171.31,
+      "price": 171.32,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-surging-sparks-booster-display-box-36-packs-911240.jpg"
@@ -156,7 +156,7 @@
       "name": "Pokémon TCG: Mega Charizard X ex Ultra-Premium Collection",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-charizard-x-ex-ultra-premium-collection.html",
       "sku": "UPC01",
-      "price": 209.38,
+      "price": 209.4,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection-477247.jpg"
@@ -166,7 +166,7 @@
       "name": "Pokémon TCG: Scarlet & Violet-Prismatic Evolutions Mini Tin Display (8 Mini Tins)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-display-8-mini-tins.html",
       "sku": "PRE09",
-      "price": 171.31,
+      "price": 171.32,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-display-8-mini-tins-511361.jpg"
@@ -176,7 +176,7 @@
       "name": "Pokémon TCG: Mega Heroes Mini Tin Display (10 Mini Tins)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-heroes-mini-tin-display-10-mini-tins.html",
       "sku": "MEG01",
-      "price": 171.31,
+      "price": 171.32,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-heroes-mini-tin-display-10-mini-tins-858576.jpg"
@@ -186,7 +186,7 @@
       "name": "Pokémon TCG: Unova Mini Tin Display (8 Mini Tins)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-unova-mini-tin-display-8-mini-tins.html",
       "sku": "BLK01",
-      "price": 171.31,
+      "price": 171.32,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-unova-mini-tin-display-8-mini-tins-673773.jpg"
@@ -196,7 +196,7 @@
       "name": "Pokémon TCG: Prismatic Evolutions Premium Figure Collection",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-prismatic-evolutions-premium-figure-collection.html",
       "sku": "PRE10",
-      "price": 190.35,
+      "price": 190.36,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-prismatic-evolutions-premium-figure-collection-103700.jpg"
@@ -316,7 +316,7 @@
       "name": "Pokémon TCG: Black Bolt Booster Bundle",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-black-bolt-booster-bundle.html",
       "sku": "BLK03",
-      "price": 47.55,
+      "price": 47.59,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-black-bolt-booster-bundle-222890.jpg"
@@ -1076,7 +1076,7 @@
       "name": "Pokémon TCG: Chaos Rising Booster Box Display",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-chaos-rising-booster-box-display.html",
       "sku": "PCI10407",
-      "price": 218.9,
+      "price": 218.91,
       "currency": "EUR",
       "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-booster-box-display-127381.png"
@@ -1236,7 +1236,7 @@
       "name": "Pokemon TCG: Pitch Black Booster Box Display (36 Packs)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-pitch-black-booster-box-display.html",
       "sku": "PitchBlack02",
-      "price": 218.9,
+      "price": 218.91,
       "currency": "EUR",
       "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-booster-box-display-copie-585190.webp"
@@ -1466,7 +1466,7 @@
       "name": "Pokemon TCG: Destined Rivals Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-destined-rivals-elite-trainer-box.html",
       "sku": "DRI-ETB-01",
-      "price": 66.62,
+      "price": 66.63,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-30th-anniversary-elite-trainer-box-copie-360182.webp"
