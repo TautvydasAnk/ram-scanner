@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-08-30T09:16:17.125Z",
+  "scannedAt": "2026-08-30T10:46:22.090Z",
   "products": {
     "1": {
       "id": "1",
@@ -1076,7 +1076,7 @@
       "name": "Pokémon TCG: Chaos Rising Booster Box Display",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-chaos-rising-booster-box-display.html",
       "sku": "PCI10407",
-      "price": 218.68,
+      "price": 218.7,
       "currency": "EUR",
       "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-booster-box-display-127381.png"
@@ -1286,7 +1286,7 @@
       "name": "Pokemon TCG: Mega Moonlit Tin [Mega Clefable ex]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-mega-moonlit-tin-mega-clefable-ex.html",
       "sku": "PCI10389-01",
-      "price": 28.52,
+      "price": 28.53,
       "currency": "EUR",
       "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-summer-tin-assorted-copie-326579.webp"
@@ -1480,6 +1480,46 @@
       "currency": "EUR",
       "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-chaos-rising-build-battle-bundle-copie-176241.png"
+    },
+    "1510": {
+      "id": "1510",
+      "name": "Pokemon TCG: Zacian V-Union Chinese Collection",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-zacian-v-union-chinese-collection.html",
+      "sku": "POKEMON-CHINESE-01",
+      "price": 28.53,
+      "currency": "EUR",
+      "status": "InStock",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-30th-anniversary-sylveon-ex-box-copie-479798.png"
+    },
+    "1511": {
+      "id": "1511",
+      "name": "Pokemon TCG: Greninja V-Union Chinese Collection",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-greninja-v-union-chinese-collection.html",
+      "sku": "POKEMON-CHINESE-02",
+      "price": 28.53,
+      "currency": "EUR",
+      "status": "InStock",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-zacian-v-union-chinese-collection-copie-593522.png"
+    },
+    "1512": {
+      "id": "1512",
+      "name": "Pokemon TCG: Dream Painting Vol.2 Water Ecology Figure Set",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-dream-painting-vol-2-water-ecology-figure-set.html",
+      "sku": "POKEMON-CHINESE-03",
+      "price": 28.53,
+      "currency": "EUR",
+      "status": "InStock",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-greninja-v-union-chinese-collection-copie-177617.png"
+    },
+    "1514": {
+      "id": "1514",
+      "name": "Pokemon TCG: Gem Pack Vol. 5 Chinese Booster Box (18 Packs)",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-gem-pack-vol-5-chinese-booster-box-18-packs.html",
+      "sku": "POKEMON-CHINESE-04",
+      "price": 70.36,
+      "currency": "EUR",
+      "status": "InStock",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-dream-painting-vol-2-water-ecology-figure-set-copie-179862.png"
     }
   }
 }
