@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-03T10:46:15.329Z",
+  "scannedAt": "2026-09-03T14:31:16.960Z",
   "products": {
     "1": {
       "id": "1",
@@ -156,7 +156,7 @@
       "name": "Pokémon TCG: Mega Charizard X ex Ultra-Premium Collection",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-charizard-x-ex-ultra-premium-collection.html",
       "sku": "UPC01",
-      "price": 209.3,
+      "price": 209.22,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection-477247.jpg"
@@ -166,7 +166,7 @@
       "name": "Pokémon TCG: Scarlet & Violet-Prismatic Evolutions Mini Tin Display (8 Mini Tins)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-display-8-mini-tins.html",
       "sku": "PRE09",
-      "price": 171.25,
+      "price": 171.18,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-display-8-mini-tins-511361.jpg"
@@ -176,7 +176,7 @@
       "name": "Pokémon TCG: Mega Heroes Mini Tin Display (10 Mini Tins)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-heroes-mini-tin-display-10-mini-tins.html",
       "sku": "MEG01",
-      "price": 171.25,
+      "price": 171.18,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-heroes-mini-tin-display-10-mini-tins-858576.jpg"
@@ -186,7 +186,7 @@
       "name": "Pokémon TCG: Unova Mini Tin Display (8 Mini Tins)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-unova-mini-tin-display-8-mini-tins.html",
       "sku": "BLK01",
-      "price": 171.25,
+      "price": 171.18,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-unova-mini-tin-display-8-mini-tins-673773.jpg"
@@ -196,7 +196,7 @@
       "name": "Pokémon TCG: Prismatic Evolutions Premium Figure Collection",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-prismatic-evolutions-premium-figure-collection.html",
       "sku": "PRE10",
-      "price": 190.28,
+      "price": 190.2,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-prismatic-evolutions-premium-figure-collection-103700.jpg"
@@ -206,7 +206,7 @@
       "name": "Pokémon TCG: Mega Evolution Elite Trainer Box [Mega Lucario]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-evolution-elite-trainer-box-mega-lucario.html",
       "sku": "MEG02",
-      "price": 85.62,
+      "price": 85.59,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-evolution-elite-trainer-box-mega-lucario-431279.jpg"
@@ -216,7 +216,7 @@
       "name": "Pokémon TCG: Mega Evolution Elite Trainer Box [Mega Gardevoir]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-evolution-elite-trainer-box-mega-gardevoir.html",
       "sku": "MEG03",
-      "price": 85.62,
+      "price": 85.59,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-evolution-elite-trainer-box-mega-gardevoir-684166.jpg"
@@ -226,7 +226,7 @@
       "name": "Pokémon TCG: Black Bolt Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-black-bolt-elite-trainer-box.html",
       "sku": "BLK02",
-      "price": 76.11,
+      "price": 76.08,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-black-bolt-elite-trainer-box-342513.jpg"
@@ -1516,10 +1516,80 @@
       "name": "Pokemon TCG: Gem Pack Vol. 5 Chinese Booster Box (18 Packs)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-gem-pack-vol-5-chinese-booster-box-18-packs.html",
       "sku": "POKEMON-CHINESE-04",
-      "price": 70.4,
+      "price": 66.6,
       "currency": "EUR",
       "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-dream-painting-vol-2-water-ecology-figure-set-copie-179862.png"
+    },
+    "1645": {
+      "id": "1645",
+      "name": "Pokemon TCG: Mega Evolution - Nihil Zero Booster Display (30 Packs) [Japanese]",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-mega-evolution-nihil-zero-booster-display-30-packs-japanese.html",
+      "sku": "POKEMON-CHINESE-04-2656",
+      "price": 95.14,
+      "currency": "EUR",
+      "status": "PreOrder",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-gem-pack-vol-5-chinese-booster-box-18-packs-copie-608484.png"
+    },
+    "1646": {
+      "id": "1646",
+      "name": "Pokemon TCG: Mega Evolution - Ninja Spinner Booster Display (30 Packs) [Japanese]",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-mega-evolution-nihil-zero-booster-display-30-packs-japanese-1646.html",
+      "sku": "POKEMON-M4-01",
+      "price": 114.17,
+      "currency": "EUR",
+      "status": "PreOrder",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-evolution-nihil-zero-booster-display-30-packs-japanese-copie-371706.png"
+    },
+    "1647": {
+      "id": "1647",
+      "name": "Pokemon TCG: Gem Pack Vol. 4 Chinese Booster Box (18 Packs)",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-gem-pack-vol-4-chinese-booster-box-18-packs.html",
+      "sku": "POKEMON-CHINESE-05",
+      "price": 47.57,
+      "currency": "EUR",
+      "status": "PreOrder",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-gem-pack-vol-5-chinese-booster-box-18-packs-copie-163761.png"
+    },
+    "1648": {
+      "id": "1648",
+      "name": "Pokemon TCG: Gem Pack Vol. 6 Chinese Booster Box (18 Packs)",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-gem-pack-vol-6-chinese-booster-box-18-packs.html",
+      "sku": "POKEMON-CHINESE-06",
+      "price": 51.37,
+      "currency": "EUR",
+      "status": "PreOrder",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-gem-pack-vol-4-chinese-booster-box-18-packs-copie-416057.png"
+    },
+    "1649": {
+      "id": "1649",
+      "name": "Pokemon TCG: Pokemon Center Tohoku [Japanese Special Box - Limited Edition]",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-pokemon-center-tohoku-japanese-special-box-limited-edition.html",
+      "sku": "POKEMON-CHINESE-07",
+      "price": 171.25,
+      "currency": "EUR",
+      "status": "PreOrder",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-gem-pack-vol-6-chinese-booster-box-18-packs-copie-710331.png"
+    },
+    "1650": {
+      "id": "1650",
+      "name": "Pokemon TCG: Pokemon Center Fukuoka [Japanese Special Box - Limited Edition] - Copie",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-pokemon-center-fukuoka-japanese-special-box-limited-edition-copie.html",
+      "sku": "POKEMON-CHINESE-08",
+      "price": 190.28,
+      "currency": "EUR",
+      "status": "PreOrder",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-pokemon-center-tohoku-japanese-special-box-limited-edition-copie-258720.png"
+    },
+    "1651": {
+      "id": "1651",
+      "name": "Pokemon TCG: Pokemon Center Hiroshima [Japanese Special Box - Limited Edition]",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-pokemon-center-hiroshima-japanese-special-box-limited-edition.html",
+      "sku": "POKEMON-CHINESE-09",
+      "price": 190.28,
+      "currency": "EUR",
+      "status": "PreOrder",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-pokemon-center-fukuoka-japanese-special-box-limited-edition-copie-copie-058135.png"
     }
   }
 }
