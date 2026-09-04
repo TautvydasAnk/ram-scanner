@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-04T07:46:53.123Z",
+  "scannedAt": "2026-09-04T11:46:17.634Z",
   "products": {
     "1": {
       "id": "1",
@@ -1498,7 +1498,7 @@
       "sku": "POKEMON-CHINESE-02",
       "price": 28.55,
       "currency": "EUR",
-      "status": "InStock",
+      "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-zacian-v-union-chinese-collection-copie-593522.png"
     },
     "1512": {
@@ -1518,7 +1518,7 @@
       "sku": "POKEMON-CHINESE-04",
       "price": 66.62,
       "currency": "EUR",
-      "status": "InStock",
+      "status": "PreOrder",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-dream-painting-vol-2-water-ecology-figure-set-copie-179862.png"
     },
     "1645": {
