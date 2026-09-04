@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-04T12:01:18.166Z",
+  "scannedAt": "2026-09-04T15:16:17.703Z",
   "products": {
     "1": {
       "id": "1",
@@ -326,7 +326,7 @@
       "name": "Pokémon TCG: Prismatic Evolutions Accesory Pouch Special Collection",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-prismatic-evolutions-accesory-pouch-special-collection.html",
       "sku": "PRE11",
-      "price": 57.06,
+      "price": 57.1,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-prismatic-evolutions-accesory-pouch-special-collection-323243.jpg"
@@ -396,7 +396,7 @@
       "name": "Pokémon TCG: Prismatic Evolutions Surprise Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-prismatic-evolutions-surprise-box.html",
       "sku": "PRE12",
-      "price": 57.06,
+      "price": 57.1,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-prismatic-evolutions-surprise-box-046130.jpg"
@@ -626,7 +626,7 @@
       "name": "Pokémon TCG: Surging Sparks Premium Checklane Blister [Alakazam]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-surging-sparks-premium-checklane-blister-alakazam.html",
       "sku": "SSP03",
-      "price": 9.51,
+      "price": 9.52,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-surging-sparks-premium-checklane-blister-abra-059087.jpg"
@@ -1046,7 +1046,7 @@
       "name": "Pokémon TCG: Chaos Rising 3 Pack Blister",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-chaos-rising-3-pack-blister.html",
       "sku": "PCI10401",
-      "price": 17.12,
+      "price": 17.13,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-3-pack-blister-322658.png"
@@ -1086,7 +1086,7 @@
       "name": "Pokémon TCG: Chaos Rising Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-chaos-rising-elite-trainer-box.html",
       "sku": "PCI10399",
-      "price": 62.58,
+      "price": 62.62,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-elite-trainer-box-725977.png"
@@ -1116,7 +1116,7 @@
       "name": "Pokémon TCG: League Battle Deck [Mega Lucario ex]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-chaos-rising-battle-deck.html",
       "sku": "PCI10360",
-      "price": 37.85,
+      "price": 37.88,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-league-battle-deck-890105.png"
@@ -1126,7 +1126,7 @@
       "name": "Pokémon TCG: Chaos Rising Build & Battle Bundle",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-chaos-rising-build-and-battle-bundle.html",
       "sku": "PCI10400",
-      "price": 28.53,
+      "price": 28.55,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-build-battle-bundle-433737.png"
@@ -1136,7 +1136,7 @@
       "name": "Pokémon TCG: Chaos Rising Mini Tins Display (10 mini tins)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-chaos-rising-mini-tins-display.html",
       "sku": "PCI10392",
-      "price": 123.44,
+      "price": 123.53,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-mini-tins-display-10-mini-tins-027830.png"
@@ -1146,7 +1146,7 @@
       "name": "Pokémon TCG: Chaos Rising Summer Tin Assorted",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-chaos-rising-summer-tin-assorted.html",
       "sku": "PCI10389",
-      "price": 24.54,
+      "price": 24.55,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-summer-tin-assorted-813180.png"
@@ -1206,7 +1206,7 @@
       "name": "Pokemon TCG: Prismatic Evolutions Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-prismatic-evolutions-elite-trainer-box.html",
       "sku": "PRE101",
-      "price": 62.58,
+      "price": 62.62,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-prismatic-evolutions-elite-trainer-box-895188.png"
@@ -1228,7 +1228,7 @@
       "sku": "PitchBlack01",
       "price": 76.14,
       "currency": "EUR",
-      "status": "InStock",
+      "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-elite-trainer-box-copie-867001.webp"
     },
     "1041": {
@@ -1288,7 +1288,7 @@
       "sku": "PCI10389-01",
       "price": 28.55,
       "currency": "EUR",
-      "status": "InStock",
+      "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-summer-tin-assorted-copie-326579.webp"
     },
     "1275": {
