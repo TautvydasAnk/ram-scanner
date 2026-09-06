@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-06T07:46:18.025Z",
+  "scannedAt": "2026-09-06T11:46:16.715Z",
   "products": {
     "1": {
       "id": "1",
@@ -1278,7 +1278,7 @@
       "sku": "PCI10413",
       "price": 60.73,
       "currency": "EUR",
-      "status": "InStock",
+      "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-zygarde-ex-premium-collection-box-copie-048891.webp"
     },
     "1274": {
