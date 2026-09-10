@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-10T11:46:15.791Z",
+  "scannedAt": "2026-09-10T12:46:24.029Z",
   "products": {
     "1": {
       "id": "1",
@@ -156,7 +156,7 @@
       "name": "Pokémon TCG: Mega Charizard X ex Ultra-Premium Collection",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-charizard-x-ex-ultra-premium-collection.html",
       "sku": "UPC01",
-      "price": 209.43,
+      "price": 209.36,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection-477247.jpg"
@@ -166,7 +166,7 @@
       "name": "Pokémon TCG: Scarlet & Violet-Prismatic Evolutions Mini Tin Display (8 Mini Tins)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-display-8-mini-tins.html",
       "sku": "PRE09",
-      "price": 171.35,
+      "price": 171.29,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-display-8-mini-tins-511361.jpg"
@@ -176,7 +176,7 @@
       "name": "Pokémon TCG: Mega Heroes Mini Tin Display (10 Mini Tins)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-heroes-mini-tin-display-10-mini-tins.html",
       "sku": "MEG01",
-      "price": 171.35,
+      "price": 171.29,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-heroes-mini-tin-display-10-mini-tins-858576.jpg"
@@ -186,7 +186,7 @@
       "name": "Pokémon TCG: Unova Mini Tin Display (8 Mini Tins)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-unova-mini-tin-display-8-mini-tins.html",
       "sku": "BLK01",
-      "price": 171.35,
+      "price": 171.29,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-unova-mini-tin-display-8-mini-tins-673773.jpg"
@@ -196,7 +196,7 @@
       "name": "Pokémon TCG: Prismatic Evolutions Premium Figure Collection",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-prismatic-evolutions-premium-figure-collection.html",
       "sku": "PRE10",
-      "price": 190.39,
+      "price": 190.32,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-prismatic-evolutions-premium-figure-collection-103700.jpg"
@@ -206,7 +206,7 @@
       "name": "Pokémon TCG: Mega Evolution Elite Trainer Box [Mega Lucario]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-evolution-elite-trainer-box-mega-lucario.html",
       "sku": "MEG02",
-      "price": 85.68,
+      "price": 85.65,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-evolution-elite-trainer-box-mega-lucario-431279.jpg"
@@ -216,7 +216,7 @@
       "name": "Pokémon TCG: Mega Evolution Elite Trainer Box [Mega Gardevoir]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-evolution-elite-trainer-box-mega-gardevoir.html",
       "sku": "MEG03",
-      "price": 85.68,
+      "price": 85.65,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-evolution-elite-trainer-box-mega-gardevoir-684166.jpg"
@@ -226,7 +226,7 @@
       "name": "Pokémon TCG: Black Bolt Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-black-bolt-elite-trainer-box.html",
       "sku": "BLK02",
-      "price": 76.16,
+      "price": 76.13,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-black-bolt-elite-trainer-box-342513.jpg"
@@ -236,7 +236,7 @@
       "name": "Pokémon TCG: White Flare Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-white-flare-elite-trainer-box.html",
       "sku": "WHT01",
-      "price": 76.16,
+      "price": 76.13,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-white-flare-elite-trainer-box-518015.jpg"
@@ -246,7 +246,7 @@
       "name": "Pokémon TCG: Phantasmal Flames Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-phantasmal-flames-elite-trainer-box.html",
       "sku": "PFL01",
-      "price": 85.68,
+      "price": 85.65,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-phantasmal-flare-elite-trainer-box-194859.jpg"
@@ -256,7 +256,7 @@
       "name": "Pokémon TCG: Paldean Fates Tin [Great Tusk ex] USA edition",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-paldean-fates-tin-great-tusk-ex-usa-edition.html",
       "sku": "PAF01",
-      "price": 76.16,
+      "price": 76.13,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-paldean-fates-tin-great-tusk-ex-usa-edition-632080.jpg"
@@ -266,7 +266,7 @@
       "name": "Pokémon TCG: Paldean Fates Tin [Great Tusk ex] EU edition",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-paldean-fates-tin-great-tusk-ex-eu-edition.html",
       "sku": "PAF02",
-      "price": 57.12,
+      "price": 57.1,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-paldean-fates-tin-great-tusk-ex-eu-edition-864102.jpg"
@@ -326,7 +326,7 @@
       "name": "Pokémon TCG: Prismatic Evolutions Accesory Pouch Special Collection",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-prismatic-evolutions-accesory-pouch-special-collection.html",
       "sku": "PRE11",
-      "price": 57.12,
+      "price": 57.1,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-prismatic-evolutions-accesory-pouch-special-collection-323243.jpg"
@@ -356,7 +356,7 @@
       "name": "Pokémon TCG: Paldea Partners Tin [Quaquaval ex]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-paldea-partners-tin-quaquaval-ex.html",
       "sku": "PAL02",
-      "price": 28.57,
+      "price": 28.55,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-paldea-partners-tin-quaquaval-ex-998684.jpg"
@@ -366,7 +366,7 @@
       "name": "Pokémon TCG: Paldea Partners Tin [Meowscarada ex]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-paldea-partners-tin-meowscarada-ex.html",
       "sku": "PAL03",
-      "price": 28.57,
+      "price": 28.55,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-paldea-partners-tin-meowscarada-ex-410230.jpg"
@@ -386,7 +386,7 @@
       "name": "Pokémon TCG: Fall 2023 Collector Chest - Lunch box [Charizard]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-fall-2023-collector-chest-lunch-box-charizard.html",
       "sku": "Pokemon05",
-      "price": 47.61,
+      "price": 47.58,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-fall-2023-collector-chest-lunch-box-charizard-833967.jpg"
@@ -396,7 +396,7 @@
       "name": "Pokémon TCG: Prismatic Evolutions Surprise Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-prismatic-evolutions-surprise-box.html",
       "sku": "PRE12",
-      "price": 57.12,
+      "price": 57.1,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-prismatic-evolutions-surprise-box-046130.jpg"
@@ -466,7 +466,7 @@
       "name": "Pokémon TCG: Back to School 2024 Collector Chest",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-back-to-school-2024-collector-chest.html",
       "sku": "Pokemon06",
-      "price": 45.71,
+      "price": 45.68,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-back-to-school-2024-collector-chest-132164.jpg"
@@ -476,7 +476,7 @@
       "name": "Pokémon TCG: Mega Lucario ex Premium Figure Collection",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-lucario-ex-premium-figure-collection.html",
       "sku": "MEG05",
-      "price": 66.62,
+      "price": 66.61,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-lucario-ex-premium-figure-collection-930680.webp"
@@ -516,7 +516,7 @@
       "name": "Pokémon TCG: Shrouded Fable 3 Pack Blister [Pecharunt]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-shrouded-fable-3-pack-blister-pecharunt.html",
       "sku": "SFA01",
-      "price": 28.57,
+      "price": 28.55,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-shrouded-fable-3-pack-blister-pecharunt-775728.jpg"
@@ -686,7 +686,7 @@
       "name": "Pokémon TCG: Scarlet & Violet Single Pack Blister [Espathra]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-single-pack-blister-espanthra.html",
       "sku": "SVI02",
-      "price": 8.57,
+      "price": 8.56,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-single-pack-blister-espanthra-792076.jpg"
@@ -706,7 +706,7 @@
       "name": "Pokémon TCG: Scarlet & Violet Single Pack Blister [Spidops]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-single-pack-blister-spidops.html",
       "sku": "SVI04",
-      "price": 8.57,
+      "price": 8.56,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-single-pack-blister-spidops-323289.jpg"
@@ -1206,7 +1206,7 @@
       "name": "Pokemon TCG: Prismatic Evolutions Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-prismatic-evolutions-elite-trainer-box.html",
       "sku": "PRE101",
-      "price": 62.64,
+      "price": 62.62,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-prismatic-evolutions-elite-trainer-box-895188.png"
