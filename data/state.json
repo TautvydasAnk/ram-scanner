@@ -1,12 +1,12 @@
 {
-  "scannedAt": "2026-09-10T15:31:17.037Z",
+  "scannedAt": "2026-09-10T16:16:19.287Z",
   "products": {
     "1": {
       "id": "1",
       "name": "Pokémon TCG: Scarlet & Violet-Journey Together Booster Display Box (36 Packs)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-journey-together-booster-display-box-36-packs.html",
       "sku": "JTG01",
-      "price": 171.29,
+      "price": 171.31,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-journey-together-booster-display-box-36-packs-773740.jpg"
@@ -106,7 +106,7 @@
       "name": "Pokémon TCG: Mega Evolution - Ascended Heroes Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokémon-tcg-mega-evolution-ascended-heroes-elite-trainer-box.html",
       "sku": "ASC01",
-      "price": 60.71,
+      "price": 60.72,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-mega-evolution-ascended-heroes-elite-trainer-box-782805.jpg"
@@ -116,7 +116,7 @@
       "name": "Pokémon TCG: Scarlet & Violet-Stellar Crown Booster Display Box (36 Packs)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-stellar-crown-booster-display-box-36-packs.html",
       "sku": "SCR01",
-      "price": 171.29,
+      "price": 171.31,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-stellar-crown-booster-display-box-36-packs-082012.jpg"
@@ -136,7 +136,7 @@
       "name": "Pokémon TCG: Scarlet & Violet-Surging Sparks Booster Display Box (36 Packs)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-surging-sparks-booster-display-box-36-packs.html",
       "sku": "SSP01",
-      "price": 171.29,
+      "price": 171.31,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-surging-sparks-booster-display-box-36-packs-911240.jpg"
@@ -886,7 +886,7 @@
       "name": "Pokémon TCG: Perfect Order Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-perfect-order-elite-trainer-box-etb.html",
       "sku": "PCI10372",
-      "price": 76.13,
+      "price": 76.14,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-perfect-order-booster-box-copie-452110.webp"
@@ -1036,7 +1036,7 @@
       "name": "Pokémon TCG: Mega Zygarde ex Premium Collection Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-mega-zygarde-ex-premium-collection-box.html",
       "sku": "PCI10359",
-      "price": 55,
+      "price": 55.01,
       "currency": "EUR",
       "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-iono-s-bellibolt-ex-premium-collection-copie-804892.webp"
@@ -1066,7 +1066,7 @@
       "name": "Pokémon TCG: Chaos Rising Booster Bundle",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-chaos-rising-booster-bundle.html",
       "sku": "PCI10403",
-      "price": 47.39,
+      "price": 47.4,
       "currency": "EUR",
       "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-booster-bundle-522457.png"
@@ -1076,7 +1076,7 @@
       "name": "Pokémon TCG: Chaos Rising Booster Box Display",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-chaos-rising-booster-box-display.html",
       "sku": "PCI10407",
-      "price": 218.87,
+      "price": 218.89,
       "currency": "EUR",
       "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-booster-box-display-127381.png"
@@ -1226,7 +1226,7 @@
       "name": "Pokemon TCG: Pitch Black Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-pitch-black-elite-trainer-box.html",
       "sku": "PitchBlack01",
-      "price": 76.13,
+      "price": 76.14,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-elite-trainer-box-copie-867001.webp"
@@ -1236,7 +1236,7 @@
       "name": "Pokemon TCG: Pitch Black Booster Box Display (36 Packs)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-pitch-black-booster-box-display.html",
       "sku": "PitchBlack02",
-      "price": 218.87,
+      "price": 218.89,
       "currency": "EUR",
       "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-booster-box-display-copie-585190.webp"
@@ -1276,7 +1276,7 @@
       "name": "Pokemon TCG: Mega Greninja ex Premium Collection Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-mega-greninja-ex-premium-collection-box.html",
       "sku": "PCI10413",
-      "price": 60.71,
+      "price": 60.72,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-zygarde-ex-premium-collection-box-copie-048891.webp"
@@ -1326,7 +1326,7 @@
       "name": "Pokemon TCG: Calyrex VMAX League Battle Deck - Ice Rider",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-calyrex-vmax-league-battle-deck-ice-rider.html",
       "sku": "DECK-POKEMON-02",
-      "price": 43.58,
+      "price": 43.59,
       "currency": "EUR",
       "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-calyrex-vmax-league-battle-deck-shadow-rider-copie-271936.jpg"
@@ -1336,7 +1336,7 @@
       "name": "Pokemon TCG: Pokemon GO V Battle Deck - Mewtwo vs. Melmetal",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-pokemon-go-v-battle-deck-mewtwo-vs-melmetal.html",
       "sku": "DECK-POKEMON-03",
-      "price": 43.58,
+      "price": 43.59,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-calyrex-vmax-league-battle-deck-ice-rider-copie-447592.jpg"
@@ -1466,7 +1466,7 @@
       "name": "Pokemon TCG: Destined Rivals Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-destined-rivals-elite-trainer-box.html",
       "sku": "DRI-ETB-01",
-      "price": 66.61,
+      "price": 66.62,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-30th-anniversary-elite-trainer-box-copie-360182.webp"
@@ -1476,7 +1476,7 @@
       "name": "Pokémon TCG: Pitch Black Build & Battle Bundle",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-pitch-black-build-battle-bundle.html",
       "sku": "PITCH-11",
-      "price": 38.06,
+      "price": 38.07,
       "currency": "EUR",
       "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-chaos-rising-build-battle-bundle-copie-176241.png"
@@ -1516,7 +1516,7 @@
       "name": "Pokemon TCG: Gem Pack Vol. 5 Chinese Booster Box (18 Packs)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-gem-pack-vol-5-chinese-booster-box-18-packs.html",
       "sku": "POKEMON-CHINESE-04",
-      "price": 66.61,
+      "price": 66.62,
       "currency": "EUR",
       "status": "PreOrder",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-dream-painting-vol-2-water-ecology-figure-set-copie-179862.png"
@@ -1526,7 +1526,7 @@
       "name": "Pokemon TCG: Mega Evolution - Nihil Zero Booster Display (30 Packs) [Japanese]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-mega-evolution-nihil-zero-booster-display-30-packs-japanese.html",
       "sku": "POKEMON-CHINESE-04-2656",
-      "price": 95.16,
+      "price": 95.17,
       "currency": "EUR",
       "status": "PreOrder",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-gem-pack-vol-5-chinese-booster-box-18-packs-copie-608484.png"
@@ -1536,7 +1536,7 @@
       "name": "Pokemon TCG: Mega Evolution - Ninja Spinner Booster Display (30 Packs) [Japanese]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-mega-evolution-nihil-zero-booster-display-30-packs-japanese-1646.html",
       "sku": "POKEMON-M4-01",
-      "price": 114.19,
+      "price": 114.21,
       "currency": "EUR",
       "status": "PreOrder",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-evolution-nihil-zero-booster-display-30-packs-japanese-copie-371706.png"
@@ -1546,7 +1546,7 @@
       "name": "Pokemon TCG: Gem Pack Vol. 4 Chinese Booster Box (18 Packs)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-gem-pack-vol-4-chinese-booster-box-18-packs.html",
       "sku": "POKEMON-CHINESE-05",
-      "price": 47.58,
+      "price": 47.59,
       "currency": "EUR",
       "status": "PreOrder",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-gem-pack-vol-5-chinese-booster-box-18-packs-copie-163761.png"
@@ -1566,7 +1566,7 @@
       "name": "Pokemon TCG: Pokemon Center Tohoku [Japanese Special Box - Limited Edition]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-pokemon-center-tohoku-japanese-special-box-limited-edition.html",
       "sku": "POKEMON-CHINESE-07",
-      "price": 171.29,
+      "price": 171.31,
       "currency": "EUR",
       "status": "PreOrder",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-gem-pack-vol-6-chinese-booster-box-18-packs-copie-710331.png"
@@ -1576,7 +1576,7 @@
       "name": "Pokemon TCG: Pokemon Center Fukuoka [Japanese Special Box - Limited Edition] - Copie",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-pokemon-center-fukuoka-japanese-special-box-limited-edition-copie.html",
       "sku": "POKEMON-CHINESE-08",
-      "price": 190.32,
+      "price": 190.34,
       "currency": "EUR",
       "status": "PreOrder",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-pokemon-center-tohoku-japanese-special-box-limited-edition-copie-258720.png"
@@ -1586,7 +1586,7 @@
       "name": "Pokemon TCG: Pokemon Center Hiroshima [Japanese Special Box - Limited Edition]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-pokemon-center-hiroshima-japanese-special-box-limited-edition.html",
       "sku": "POKEMON-CHINESE-09",
-      "price": 190.32,
+      "price": 190.34,
       "currency": "EUR",
       "status": "PreOrder",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-pokemon-center-fukuoka-japanese-special-box-limited-edition-copie-copie-058135.png"
@@ -1596,7 +1596,7 @@
       "name": "Pokemon TCG: 30th Celebration (30th C) - Simplified Chinese Booster Box (20 Packs)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-30th-celebration-30th-c-simplified-chinese-booster-box-20-packs.html",
       "sku": "POKEMON-CHINESE-CEL",
-      "price": 133.23,
+      "price": 133.24,
       "currency": "EUR",
       "status": "PreOrder",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-gem-pack-vol-4-chinese-booster-box-18-packs-copie-347421.png"
@@ -1606,7 +1606,7 @@
       "name": "Pokemon TCG: Espeon & Umbreon ex - Simplified Chinese Celebration Box (15 Packs)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-espeon-umbreon-ex-simplified-chinese-celebration-box-15-packs.html",
       "sku": "POKEMON-CHINESE-CEL-02",
-      "price": 190.32,
+      "price": 190.34,
       "currency": "EUR",
       "status": "PreOrder",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-30th-celebration-30th-c-simplified-chinese-booster-box-20-packs-copie-495027.png"
