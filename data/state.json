@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-10T12:46:24.029Z",
+  "scannedAt": "2026-09-10T14:46:17.585Z",
   "products": {
     "1": {
       "id": "1",
@@ -1600,6 +1600,16 @@
       "currency": "EUR",
       "status": "PreOrder",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-gem-pack-vol-4-chinese-booster-box-18-packs-copie-347421.png"
+    },
+    "1931": {
+      "id": "1931",
+      "name": "Pokemon TCG: Espeon & Umbreon ex - Simplified Chinese Celebration Box (15 Packs)",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-espeon-umbreon-ex-simplified-chinese-celebration-box-15-packs.html",
+      "sku": "POKEMON-CHINESE-CEL-02",
+      "price": 190.32,
+      "currency": "EUR",
+      "status": "PreOrder",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-30th-celebration-30th-c-simplified-chinese-booster-box-20-packs-copie-495027.png"
     }
   }
 }
