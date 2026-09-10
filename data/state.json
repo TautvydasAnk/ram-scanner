@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-10T11:16:15.522Z",
+  "scannedAt": "2026-09-10T11:46:15.791Z",
   "products": {
     "1": {
       "id": "1",
@@ -156,7 +156,7 @@
       "name": "Pokémon TCG: Mega Charizard X ex Ultra-Premium Collection",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-charizard-x-ex-ultra-premium-collection.html",
       "sku": "UPC01",
-      "price": 209.36,
+      "price": 209.43,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection-477247.jpg"
@@ -1590,6 +1590,16 @@
       "currency": "EUR",
       "status": "PreOrder",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-pokemon-center-fukuoka-japanese-special-box-limited-edition-copie-copie-058135.png"
+    },
+    "1889": {
+      "id": "1889",
+      "name": "Pokemon TCG: 30th Celebration (30th C) - Simplified Chinese Booster Box (20 Packs)",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-30th-celebration-30th-c-simplified-chinese-booster-box-20-packs.html",
+      "sku": "POKEMON-CHINESE-CEL",
+      "price": 133.23,
+      "currency": "EUR",
+      "status": "PreOrder",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-gem-pack-vol-4-chinese-booster-box-18-packs-copie-347421.png"
     }
   }
 }
