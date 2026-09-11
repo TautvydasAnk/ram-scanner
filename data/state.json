@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-11T09:01:16.857Z",
+  "scannedAt": "2026-09-11T15:01:16.622Z",
   "products": {
     "1": {
       "id": "1",
@@ -1396,9 +1396,9 @@
       "name": "Precomanda Pokemon TCG: 30th Anniversary 2-Pack Blister",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokemon-tcg-30th-anniversary-2-pack-blister.html",
       "sku": "PCI10666",
-      "price": 13.32,
+      "price": 22.84,
       "currency": "EUR",
-      "status": "OutOfStock",
+      "status": "PreOrder",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-30th-anniversary-booster-bundle-copie-286676.jpg"
     },
     "1427": {
@@ -1446,9 +1446,9 @@
       "name": "Precomanda Pokemon TCG: 30th Anniversary Binder Collection",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokemon-tcg-30th-anniversary-binder-collection.html",
       "sku": "PCI10450",
-      "price": 47.59,
+      "price": 66.62,
       "currency": "EUR",
-      "status": "OutOfStock",
+      "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-30th-anniversary-poster-collection-copie-739004.webp"
     },
     "1432": {
