@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-11T06:01:14.464Z",
+  "scannedAt": "2026-09-11T09:01:16.857Z",
   "products": {
     "1": {
       "id": "1",
@@ -296,7 +296,7 @@
       "name": "Pokémon TCG: Charizard ex Special Collection",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-charizard-ex-special-collection.html",
       "sku": "Pokemon02",
-      "price": 47.58,
+      "price": 47.59,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-charizard-ex-special-collection-084006.jpg"
@@ -336,7 +336,7 @@
       "name": "Pokémon TCG: Mega Evolution Build & Battle Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-evolution-build-battle-box.html",
       "sku": "MEG04",
-      "price": 47.58,
+      "price": 47.59,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-evolution-build-battle-box-388452.jpg"
@@ -386,7 +386,7 @@
       "name": "Pokémon TCG: Fall 2023 Collector Chest - Lunch box [Charizard]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-fall-2023-collector-chest-lunch-box-charizard.html",
       "sku": "Pokemon05",
-      "price": 47.58,
+      "price": 47.59,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-fall-2023-collector-chest-lunch-box-charizard-833967.jpg"
@@ -406,7 +406,7 @@
       "name": "Pokémon TCG: Phantasmal Flames Booster Bundle",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-phantasmal-flames-booster-bundle.html",
       "sku": "PFL02",
-      "price": 47.58,
+      "price": 47.59,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-phantasmal-flare-booster-bundle-045892.jpg"
@@ -416,7 +416,7 @@
       "name": "Pokémon TCG: Team Rocket Tin [Persian]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-team-rocket-tin-persian.html",
       "sku": "DRI01",
-      "price": 37.87,
+      "price": 37.88,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-team-rocket-tin-persian-735475.png"
@@ -426,7 +426,7 @@
       "name": "Pokémon TCG: Team Rocket Tin [Mewtwo]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-team-rocket-tin-mewtwo.html",
       "sku": "DRI02",
-      "price": 37.87,
+      "price": 37.88,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-team-rocket-tin-mewtwo-028389.png"
@@ -436,7 +436,7 @@
       "name": "Pokémon TCG: Team Rocket Tin [Nidoking]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-team-rocket-tin-nidoking.html",
       "sku": "DRI03",
-      "price": 37.87,
+      "price": 37.88,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-team-rocket-tin-nidoking-880758.webp"
@@ -446,7 +446,7 @@
       "name": "Pokémon TCG: Phantasmal Flames Build & Battle Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-phantasmal-flames-build-battle-box.html",
       "sku": "PFL03",
-      "price": 47.58,
+      "price": 47.59,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-phantasmal-flames-build-battle-box-126528.jpg"
@@ -456,7 +456,7 @@
       "name": "Pokémon TCG: Team Rocket/'s Mewtwo ex Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-team-rocket-s-mewtwo-ex-box.html",
       "sku": "DRI04",
-      "price": 47.58,
+      "price": 47.59,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-team-rocket-s-mewtwo-ex-box-384625.jpg"
@@ -476,7 +476,7 @@
       "name": "Pokémon TCG: Mega Lucario ex Premium Figure Collection",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-lucario-ex-premium-figure-collection.html",
       "sku": "MEG05",
-      "price": 66.61,
+      "price": 66.62,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-lucario-ex-premium-figure-collection-930680.webp"
@@ -866,7 +866,7 @@
       "name": "Pokémon TCG: Perfect Order Booster Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-perfect-order-booster-box.html",
       "sku": "PCI10380",
-      "price": 188.42,
+      "price": 188.44,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-perfect-order-booster-bundle-copie-834885.webp"
@@ -1176,7 +1176,7 @@
       "name": "BUNDLE: 4x Booster Packs Destined Rivals (DRI) + Album 4 Pocket A5",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/bundle-4x-booster-packs-destined-rivals-dri-album-4-pocket-a5.html",
       "sku": "BUNDLE-DESTINED",
-      "price": 38.06,
+      "price": 38.07,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/bundle-4x-booster-packs-destined-rivals-dri-album-4-pocket-a5-714067.png"
@@ -1196,7 +1196,7 @@
       "name": "Pokémon TCG: Scarlet & Violet-Destined Rivals Booster Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-scarlet-violet-destined-rivals-booster-box.html",
       "sku": "PCI10617-8255",
-      "price": 171.29,
+      "price": 171.31,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-destined-rivals-booster-pack-copie-729429.jpg"
