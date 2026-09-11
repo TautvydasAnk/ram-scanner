@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-11T15:31:16.992Z",
+  "scannedAt": "2026-09-11T16:46:17.738Z",
   "products": {
     "1": {
       "id": "1",
@@ -1448,7 +1448,7 @@
       "sku": "PCI10450",
       "price": 66.62,
       "currency": "EUR",
-      "status": "InStock",
+      "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-30th-anniversary-poster-collection-copie-739004.webp"
     },
     "1432": {
@@ -1618,7 +1618,7 @@
       "sku": "PCI10466",
       "price": 41.88,
       "currency": "EUR",
-      "status": "InStock",
+      "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-q3-fall-tin-copie-849205.jpg"
     }
   }
