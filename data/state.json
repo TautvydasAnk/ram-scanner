@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-11T15:01:16.622Z",
+  "scannedAt": "2026-09-11T15:16:17.823Z",
   "products": {
     "1": {
       "id": "1",
@@ -1610,6 +1610,16 @@
       "currency": "EUR",
       "status": "PreOrder",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-30th-celebration-30th-c-simplified-chinese-booster-box-20-packs-copie-495027.png"
+    },
+    "1963": {
+      "id": "1963",
+      "name": "Precomanda Pokemon TCG: 30th Celebration Tin",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokemon-tcg-30th-celebration-tin.html",
+      "sku": "PCI10466",
+      "price": 41.88,
+      "currency": "EUR",
+      "status": "PreOrder",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-q3-fall-tin-copie-849205.jpg"
     }
   }
 }
