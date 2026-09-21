@@ -10,7 +10,7 @@ against the previous scan, and — **only when something changed** — notifies 
 | Shop | Source | Notes |
 |------|--------|-------|
 | **RamCards** (ramcards.ro) | HTML + JSON-LD (GoMag) | Full catalog via base + `?o=news` + `?p=1..N` + sub-categories, with detail-page stock verification |
-| **Žaislų pasaulis** (xszaislai.lt) | GraphQL API (Magento PWA) | `pokemon asmodee` search (~123 items); structured stock/price direct from the API |
+| **Žaislų pasaulis** (xszaislai.lt) | GraphQL API (Magento PWA) | `pokemon asmodee` search + the `promotion/promo10` category, unioned (~125 items); structured stock/price direct from the API |
 
 Each shop is a small **adapter** in `src/shops/` that returns a normalized product list; the diff,
 reporting, notification and coverage-guard logic are shared. Adding another store = one new adapter
@@ -67,8 +67,10 @@ Runs alongside the email (both fire on the same change; each is independent). Ad
   the newest `VERIFY_LIMIT` (default 50) out-of-stock items against their authoritative **detail
   page** — the listing bug can only *hide* stock, never invent it, so this catches buried restocks.
 - **Žaislų pasaulis** (`src/shops/xszaislai.js`): Magento PWA — the HTML is a JS shell, so we query
-  the **GraphQL API** directly (`pokemon asmodee` search). Stock/price come structured from the API;
-  no scraping or verification pass needed.
+  the **GraphQL API** directly and union two sources by SKU: the `pokemon asmodee` **search** (broad
+  set) and the `promotion/promo10` **category** (curated list the shop updates first, which includes a
+  few items the search misses). The category id is resolved at runtime from its URL so it survives
+  store changes. Stock/price come structured from the API; no scraping or verification pass needed.
 
 ### Coverage safeguards
 Because no single view on this store is complete, a future site change could silently hide products
