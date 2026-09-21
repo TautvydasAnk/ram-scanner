@@ -2,7 +2,7 @@ node_modules/
 *.log
 .DS_Store
 
-# Local run artifacts (regenerated each run; state.json is the only committed data)
+# Local run artifacts (regenerated each run; only data/state*.json is committed)
 report.md
 report.html
 report.telegram.txt

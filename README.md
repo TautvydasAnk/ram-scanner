@@ -1,13 +1,23 @@
 # 🎴 ram-scanner
 
-Automated stock tracker for an online Pokémon TCG catalog. Every 30 minutes it scans the whole
-catalog, compares against the previous scan, and —
-**only when something changed** — emails you reporting:
+Automated stock tracker for online Pokémon TCG shops. On a schedule it scans each shop, compares
+against the previous scan, and — **only when something changed** — notifies you (email + Telegram):
 
 - 🆕 **New products** — a listing that wasn't there before (incl. newly opened preorders)
 - ✅ **Back in stock** — an item that went from out-of-stock / preorder → in stock
 
-No servers, no cost. It runs entirely on GitHub Actions and emails you via Gmail.
+### Tracked shops
+| Shop | Source | Notes |
+|------|--------|-------|
+| **RamCards** (ramcards.ro) | HTML + JSON-LD (GoMag) | Full catalog via base + `?o=news` + `?p=1..N` + sub-categories, with detail-page stock verification |
+| **Žaislų pasaulis** (xszaislai.lt) | GraphQL API (Magento PWA) | `pokemon asmodee` search (~123 items); structured stock/price direct from the API |
+
+Each shop is a small **adapter** in `src/shops/` that returns a normalized product list; the diff,
+reporting, notification and coverage-guard logic are shared. Adding another store = one new adapter
+in `src/shops/` plus an entry in `src/shops/registry.js`. Each shop keeps its own snapshot file in
+`data/`, and a run sends a **single combined notification** grouped by shop.
+
+No servers, no cost. It runs entirely on GitHub Actions and notifies via Gmail + Telegram.
 
 ---
 
@@ -39,24 +49,26 @@ Runs alongside the email (both fire on the same change; each is independent). Ad
 
 ## How it works
 
-1. `src/scan.js` fetches the category landing page, the **newest-added view** (`?o=news`, the
-   earliest place a fresh listing appears), **every page of the main listing** (`?p=1..N`), and
-   every type/set **sub-category** page. No single view is complete on this store — a freshly
-   added item can live *only* on a deep main-listing page (not yet tagged into any sub-filter,
-   and not surfaced by the news sort) — so we union all of them by product ID for full coverage.
-2. `src/parse.js` reads each page's embedded **JSON-LD** (structured product data the site renders
-   server-side) — name, stable `productID`, SKU, price, availability, URL.
-3. Products are merged by `productID` using the **best availability seen** (see the gotcha below).
-4. **Verification pass:** the out-of-stock items are re-checked against their own **detail page**
-   (the authoritative source) and upgraded if actually available. The listing bug can only ever
-   *hide* stock, never invent it, so this closes the blind spot for restocks on buried/broken
-   pages. To keep the store footprint reasonable at higher scan frequencies, only the **newest
-   `VERIFY_LIMIT` out-of-stock items** are checked (default 50 — where new arrivals and their
-   restocks concentrate). Set `VERIFY_LIMIT` in `config.js` to `Infinity` to check all, `0` to skip.
-5. `src/diff.js` compares the new snapshot to `data/state.json` (the previous scan).
-6. If there are changes, an HTML report is generated and the workflow emails it to you.
-7. The new snapshot is committed back to `data/state.json`, so the next run has something to
-   compare against. The git history of that file is a free audit log of every change over time.
+1. For each shop in `src/shops/registry.js`, `src/index.js` calls the shop's **adapter** to get a
+   normalized product list (`{ id, name, url, price, currency, status }`, status ∈
+   `InStock | PreOrder | OutOfStock`).
+2. `src/diff.js` compares that list to the shop's previous snapshot (`data/state*.json`) and emits
+   two signals: **new products** and **back-in-stock**.
+3. If any shop has changes (or a coverage warning), `src/report.js` builds **one combined**
+   HTML/Markdown/Telegram report grouped by shop, and the workflow sends it via email + Telegram.
+4. Each changed snapshot is committed back to `data/`, so the next run has something to compare
+   against. The git history of those files is a free audit log of every change over time.
+
+### Shop adapters
+- **RamCards** (`src/shops/ramcards.js` → `src/scan.js` + `src/parse.js`): the GoMag store renders
+  server-side **JSON-LD**. No single listing view is complete, so it unions the base page, the
+  newest-added view (`?o=news`), **every main-listing page** (`?p=1..N`), and every sub-category,
+  merging by product ID with the **best availability seen**. Then a **verification pass** re-checks
+  the newest `VERIFY_LIMIT` (default 50) out-of-stock items against their authoritative **detail
+  page** — the listing bug can only *hide* stock, never invent it, so this catches buried restocks.
+- **Žaislų pasaulis** (`src/shops/xszaislai.js`): Magento PWA — the HTML is a JS shell, so we query
+  the **GraphQL API** directly (`pokemon asmodee` search). Stock/price come structured from the API;
+  no scraping or verification pass needed.
 
 ### Coverage safeguards
 Because no single view on this store is complete, a future site change could silently hide products
@@ -68,17 +80,19 @@ again. Two guards in `src/index.js` catch that:
 - **Coverage-drop notice** — a smaller drop (≥ `COVERAGE_DROP_ALERT`, default 5) still processes
   normally but adds a heads-up line to the notification. Both thresholds live in `config.js`.
 
-### Why not Playwright / a headless browser?
-The store renders all product data as JSON-LD in the initial HTML, so a plain HTTP request is enough
+### RamCards: why not Playwright / a headless browser?
+RamCards renders all product data as JSON-LD in the initial HTML, so a plain HTTP request is enough
 — faster and far more reliable in CI. A browser was tested and **did not** improve data quality.
+(xszaislai.lt is the opposite — a JS shell — but its GraphQL API sidesteps the need for a browser too.)
 
-### The stock-rendering gotcha (important)
-Only the **first** 48-product listing view reports correct stock. Secondary paginated views
-(`?p=2`, `?p=3`, and the `r1-5…r4-5` rating filters) are served with **everything marked
-out-of-stock**. The bug only ever *under*-reports stock (never the reverse), so the scanner fetches
-the base page **plus the small type/set sub-category pages** (which each render correctly) and takes
-the **best status seen per product**. This provably recovers the true stock and covers all ~139
-products. This is why we crawl sub-categories instead of paginating.
+### RamCards: the stock-rendering gotcha (important)
+Only the **first** 48-product view of any RamCards listing reports correct stock. Secondary
+paginated views (`?p=2`, `?p=3`, the `r1-5…r4-5` rating filters) are served with **everything marked
+out-of-stock**. The bug only ever *under*-reports stock (never the reverse), so the scanner unions
+several correctly-rendered views (base, `?o=news`, the paginated main listing, and small
+sub-category pages), takes the **best status seen per product**, and then verifies any remaining
+out-of-stock items against their detail page. Paginated pages are still fetched for *discovery*
+(product IDs are correct there even when stock isn't).
 
 ## Run it locally
 
@@ -86,17 +100,18 @@ products. This is why we crawl sub-categories instead of paginating.
 npm run scan
 ```
 
-- First run (no `data/state.json`): establishes a **baseline** and sends no alert.
-- Later runs: print a summary and, if anything changed, write `report.md` + `changes.json`.
+- First run for a shop (no `data/state*.json`): establishes a **baseline** and sends no alert.
+- Later runs: print a per-shop summary and, if anything changed, write `report.md` / `report.html` /
+  `report.telegram.txt`.
 
 ## Configuration
 
-Everything tunable lives in [`src/config.js`](src/config.js):
-
-- **`categories`** — a list, so you can track more sections or even other similar stores by adding
-  another `{ name, baseUrl }` entry. No other code changes needed.
-- **`REQUEST_DELAY_MS`** — politeness delay between page fetches (default 400 ms).
-- **`SKIP_SLUG`** — sub-category slugs to ignore (the broken rating-filter duplicates).
+- **Add a shop:** create an adapter in [`src/shops/`](src/shops/) exposing
+  `{ id, name, stateFile, scan({ scannedAt, log }) }` (returns a product map) and register it in
+  [`src/shops/registry.js`](src/shops/registry.js).
+- **RamCards tuning** lives in [`src/config.js`](src/config.js): `categories`, `VERIFY_LIMIT`,
+  `MAX_LISTING_PAGES`, `REQUEST_DELAY_MS`, `SKIP_SLUG`.
+- **Coverage guards** (all shops): `MIN_COVERAGE_RATIO`, `COVERAGE_DROP_ALERT` in `config.js`.
 
 ### Reliable scheduling (external cron → GitHub)
 
@@ -124,12 +139,16 @@ the `workflow_dispatch` trigger (also the manual **Actions → Stock scan → Ru
 ## Project layout
 
 ```
-src/config.js   what to scan + tuning knobs
-src/fetch.js    HTTP fetch with browser UA, retry/backoff, timeout
-src/parse.js    JSON-LD → products; sub-category discovery
-src/scan.js     orchestrates fetching + best-status merge
-src/diff.js     new-product / back-in-stock detection
-src/report.js   Markdown + HTML email body, and the subject line
-src/index.js    entry point: scan → diff → write state + report
-data/state.json committed snapshot of the last scan
+src/index.js            orchestrator: for each shop → scan → diff → coverage guard → combined report
+src/shops/registry.js   the list of shops to scan
+src/shops/ramcards.js   RamCards adapter (wraps scan.js/parse.js)
+src/shops/xszaislai.js  Žaislų pasaulis adapter (Magento GraphQL)
+src/scan.js             RamCards scan engine (multi-view union + verification pass)
+src/parse.js            JSON-LD → products; sub-category discovery (RamCards)
+src/fetch.js            HTTP GET (HTML) + POST (GraphQL) with browser UA, retry/backoff, timeout
+src/diff.js             new-product / back-in-stock detection (shared)
+src/report.js           combined email/Telegram report + subject (shared)
+src/config.js           RamCards tuning + shared coverage-guard knobs
+data/state.json             RamCards snapshot          (committed)
+data/state-xszaislai.json   Žaislų pasaulis snapshot   (committed)
 ```

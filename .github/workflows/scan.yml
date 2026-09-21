@@ -32,12 +32,12 @@ jobs:
         id: scan
         run: npm run scan
 
-      - name: Commit updated snapshot
+      - name: Commit updated snapshots
         run: |
-          if [[ -n "$(git status --porcelain data/state.json)" ]]; then
+          if [[ -n "$(git status --porcelain data/)" ]]; then
             git config user.name  "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add data/state.json
+            git add data/
             git commit -m "chore: update stock snapshot [skip ci]"
             git push
           else

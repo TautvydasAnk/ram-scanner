@@ -1,169 +1,151 @@
 import { totalChanges } from './diff.js';
 
+// A "report" is one shop's result: { name, changes, notice }. renderReport() combines
+// several into a single email / Telegram message and subject, grouped by shop.
+
 function money(value, currency) {
   if (value == null) return 'n/a';
   return `${Number(value).toFixed(2)} ${currency || 'EUR'}`;
 }
 
-function link(p) {
-  return p.url ? `[${p.name}](${p.url})` : p.name;
+const statusWord = (s) => (s === 'InStock' ? 'in stock' : s === 'PreOrder' ? 'preorder' : 'out of stock');
+
+// ---- aggregate helpers -------------------------------------------------------
+function totals(reports) {
+  let neu = 0;
+  let back = 0;
+  let notices = 0;
+  for (const r of reports) {
+    neu += r.changes?.new.length ?? 0;
+    back += r.changes?.backInStock.length ?? 0;
+    if (r.notice) notices++;
+  }
+  return { neu, back, notices };
 }
 
-/** Email subject line. `notice` is an optional coverage-warning string. */
-export function renderTitle(changes, scannedAt, notice = null) {
+/** Email / message subject summarising all shops. */
+export function renderSubject(reports, scannedAt) {
   const when = scannedAt.slice(0, 16).replace('T', ' ');
+  const { neu, back, notices } = totals(reports);
   const parts = [];
-  if (changes.new.length) parts.push(`${changes.new.length} new`);
-  if (changes.backInStock.length) parts.push(`${changes.backInStock.length} back in stock`);
-  if (parts.length === 0 && notice) return `⚠️ Ram-scanner: coverage warning — ${when} UTC`;
-  const prefix = notice ? '⚠️ ' : '🎴 ';
+  if (neu) parts.push(`${neu} new`);
+  if (back) parts.push(`${back} back in stock`);
+  if (parts.length === 0 && notices) return `⚠️ Ram-scanner: coverage warning — ${when} UTC`;
+  const prefix = notices ? '⚠️ ' : '🎴 ';
   return `${prefix}Ram-scanner: ${parts.join(', ')} — ${when} UTC`;
 }
 
-/** Markdown body — used as the plain-text email fallback and the Actions step summary. */
-export function renderMarkdown(changes, scannedAt, notice = null) {
-  const lines = [];
-  if (notice) {
-    lines.push(`> ⚠️ **Coverage warning:** ${notice}`);
-    lines.push('');
-  }
-  if (totalChanges(changes) > 0) {
-    lines.push(`**${totalChanges(changes)} change(s)** detected at ${scannedAt} UTC.`);
-    lines.push('');
-  }
+// ---- Markdown (plain-text email fallback + Actions step summary) --------------
+function mdLink(p) {
+  return p.url ? `[${p.name}](${p.url})` : p.name;
+}
 
-  if (changes.backInStock.length) {
-    lines.push(`## ✅ Back in stock (${changes.backInStock.length})`);
-    for (const p of changes.backInStock) {
-      lines.push(`- **${link(p)}** — ${money(p.price, p.currency)} _(was ${p.previousStatus})_`);
-    }
+function shopMarkdown(r) {
+  const lines = [`## ${r.name}`];
+  if (r.notice) lines.push(`> ⚠️ **Coverage warning:** ${r.notice}`, '');
+  const c = r.changes;
+  if (c?.backInStock.length) {
+    lines.push(`### ✅ Back in stock (${c.backInStock.length})`);
+    for (const p of c.backInStock)
+      lines.push(`- **${mdLink(p)}** — ${money(p.price, p.currency)} _(was ${p.previousStatus})_`);
     lines.push('');
   }
-
-  if (changes.new.length) {
-    lines.push(`## 🆕 New products (${changes.new.length})`);
-    for (const p of changes.new) {
-      const status = p.status === 'InStock' ? 'in stock' : p.status === 'PreOrder' ? 'preorder' : 'out of stock';
-      lines.push(`- **${link(p)}** — ${money(p.price, p.currency)} _(${status})_`);
-    }
+  if (c?.new.length) {
+    lines.push(`### 🆕 New products (${c.new.length})`);
+    for (const p of c.new)
+      lines.push(`- **${mdLink(p)}** — ${money(p.price, p.currency)} _(${statusWord(p.status)})_`);
     lines.push('');
   }
+  return lines;
+}
 
-  lines.push('---');
-  lines.push('_Automated by ram-scanner._');
+export function renderMarkdown(reports, scannedAt) {
+  const lines = [`Ram-scanner update — ${scannedAt} UTC`, ''];
+  for (const r of reports) lines.push(...shopMarkdown(r));
+  lines.push('---', '_Automated by ram-scanner._');
   return lines.join('\n');
 }
 
+// ---- HTML email --------------------------------------------------------------
 function esc(s) {
-  return String(s)
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;');
+  return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 }
-
 function htmlName(p) {
-  const name = esc(p.name);
-  return p.url ? `<a href="${esc(p.url)}" style="color:#0969da;text-decoration:none;">${name}</a>` : name;
+  const n = esc(p.name);
+  return p.url ? `<a href="${esc(p.url)}" style="color:#0969da;text-decoration:none;">${n}</a>` : n;
+}
+function shopHtml(r) {
+  const c = r.changes;
+  const section = (title, items) => `
+    <h3 style="font-size:15px;margin:16px 0 6px;color:#111;">${title}</h3>
+    <ul style="margin:0;padding-left:20px;line-height:1.6;">${items.join('')}</ul>`;
+  const parts = [`<h2 style="font-size:18px;margin:22px 0 6px;color:#111;border-bottom:1px solid #d0d7de;padding-bottom:4px;">${esc(r.name)}</h2>`];
+  if (r.notice) {
+    parts.push(`<div style="background:#fff8c5;border:1px solid #d4a72c;border-radius:6px;
+      padding:10px 12px;margin:0 0 12px;color:#7a5c00;font-size:14px;">
+      ⚠️ <strong>Coverage warning:</strong> ${esc(r.notice)}</div>`);
+  }
+  if (c?.backInStock.length) {
+    parts.push(section(`✅ Back in stock (${c.backInStock.length})`, c.backInStock.map(
+      (p) => `<li>${htmlName(p)} — <strong>${esc(money(p.price, p.currency))}</strong>
+        <span style="color:#57606a;">(was ${esc(p.previousStatus)})</span></li>`)));
+  }
+  if (c?.new.length) {
+    parts.push(section(`🆕 New products (${c.new.length})`, c.new.map(
+      (p) => `<li>${htmlName(p)} — ${esc(money(p.price, p.currency))}
+        <span style="color:#57606a;">(${statusWord(p.status)})</span></li>`)));
+  }
+  return parts.join('');
 }
 
-/** HTML email body — a clean, self-contained (inline-styled) message. */
-export function renderHtml(changes, scannedAt, notice = null) {
-  const section = (title, items) => `
-    <h2 style="font-size:16px;margin:20px 0 8px;color:#111;">${title}</h2>
-    <ul style="margin:0;padding-left:20px;line-height:1.6;">${items.join('')}</ul>`;
-
-  const parts = [];
-
-  if (notice) {
-    parts.push(`<div style="background:#fff8c5;border:1px solid #d4a72c;border-radius:6px;
-      padding:10px 12px;margin:0 0 16px;color:#7a5c00;font-size:14px;">
-      ⚠️ <strong>Coverage warning:</strong> ${esc(notice)}</div>`);
-  }
-
-  if (changes.backInStock.length) {
-    const items = changes.backInStock.map(
-      (p) => `<li>${htmlName(p)} — <strong>${esc(money(p.price, p.currency))}</strong>
-        <span style="color:#57606a;">(was ${esc(p.previousStatus)})</span></li>`,
-    );
-    parts.push(section(`✅ Back in stock (${changes.backInStock.length})`, items));
-  }
-
-  if (changes.new.length) {
-    const items = changes.new.map((p) => {
-      const status = p.status === 'InStock' ? 'in stock' : p.status === 'PreOrder' ? 'preorder' : 'out of stock';
-      return `<li>${htmlName(p)} — ${esc(money(p.price, p.currency))}
-        <span style="color:#57606a;">(${status})</span></li>`;
-    });
-    parts.push(section(`🆕 New products (${changes.new.length})`, items));
-  }
-
-
-  const countLine =
-    totalChanges(changes) > 0
-      ? `<p style="font-size:14px;color:#57606a;margin:0 0 4px;">
-          <strong>${totalChanges(changes)} change(s)</strong> detected at ${esc(scannedAt)} UTC.</p>`
-      : '';
-
+export function renderHtml(reports, scannedAt) {
   return `<!doctype html><html><body style="font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;color:#111;max-width:680px;margin:0 auto;padding:8px 4px;">
-    ${countLine}
-    ${parts.join('')}
+    ${reports.map(shopHtml).join('')}
     <hr style="border:none;border-top:1px solid #d0d7de;margin:24px 0 8px;">
-    <p style="font-size:12px;color:#8c959f;">Automated by ram-scanner.</p>
+    <p style="font-size:12px;color:#8c959f;">Automated by ram-scanner · ${esc(scannedAt)} UTC</p>
   </body></html>`;
 }
 
-// Escape for Telegram's HTML parse mode (only &, <, > are special in text/attrs).
+// ---- Telegram (HTML parse mode, small tag subset) ----------------------------
 function tgEsc(s) {
   return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 }
-
 function tgName(p) {
-  const name = tgEsc(p.name);
-  return p.url ? `<a href="${tgEsc(p.url)}">${name}</a>` : name;
+  const n = tgEsc(p.name);
+  return p.url ? `<a href="${tgEsc(p.url)}">${n}</a>` : n;
+}
+function shopTelegram(r) {
+  const lines = [`🏬 <b>${tgEsc(r.name)}</b>`];
+  if (r.notice) lines.push(`⚠️ <b>Coverage warning:</b> ${tgEsc(r.notice)}`);
+  const c = r.changes;
+  if (c?.backInStock.length) {
+    lines.push(`✅ <b>Back in stock (${c.backInStock.length})</b>`);
+    for (const p of c.backInStock) lines.push(`• ${tgName(p)} — <b>${tgEsc(money(p.price, p.currency))}</b>`);
+  }
+  if (c?.new.length) {
+    lines.push(`🆕 <b>New products (${c.new.length})</b>`);
+    for (const p of c.new) lines.push(`• ${tgName(p)} — ${tgEsc(money(p.price, p.currency))} (${statusWord(p.status)})`);
+  }
+  return lines;
 }
 
-/**
- * Telegram message body (HTML parse mode). Telegram only supports a small tag subset
- * (<b>, <i>, <a>, <code>, …) — no lists/headings — so we format with emoji + newlines.
- * Capped to stay well under Telegram's 4096-char limit.
- */
-export function renderTelegram(changes, notice = null) {
-  const lines = [];
-  if (notice) lines.push(`⚠️ <b>Coverage warning:</b> ${tgEsc(notice)}`, '');
-  if (totalChanges(changes) > 0) {
-    lines.push(`🎴 <b>Ram-scanner</b> — ${totalChanges(changes)} change(s)`);
-  } else if (notice) {
-    lines.push('🎴 <b>Ram-scanner</b>');
+export function renderTelegram(reports) {
+  const lines = ['🎴 <b>Ram-scanner</b>'];
+  for (const r of reports) {
+    lines.push('');
+    lines.push(...shopTelegram(r));
   }
-
-  const add = (title, items) => {
-    lines.push('', title);
-    lines.push(...items);
-  };
-
-  if (changes.backInStock.length) {
-    add(
-      `✅ <b>Back in stock (${changes.backInStock.length})</b>`,
-      changes.backInStock.map((p) => `• ${tgName(p)} — <b>${tgEsc(money(p.price, p.currency))}</b>`),
-    );
-  }
-  if (changes.new.length) {
-    add(
-      `🆕 <b>New products (${changes.new.length})</b>`,
-      changes.new.map((p) => {
-        const status = p.status === 'InStock' ? 'in stock' : p.status === 'PreOrder' ? 'preorder' : 'out of stock';
-        return `• ${tgName(p)} — ${tgEsc(money(p.price, p.currency))} (${status})`;
-      }),
-    );
-  }
-
   let msg = lines.join('\n');
   if (msg.length > 3900) msg = msg.slice(0, 3900) + '\n…';
   return msg;
 }
 
-/** Compact one-line-per-section summary for the Actions run log / step summary. */
-export function renderSummary(changes) {
-  return `New: ${changes.new.length} | Back in stock: ${changes.backInStock.length}`;
+/** Everything the workflow needs for one combined notification. */
+export function renderReport(reports, scannedAt) {
+  return {
+    subject: renderSubject(reports, scannedAt),
+    markdown: renderMarkdown(reports, scannedAt),
+    html: renderHtml(reports, scannedAt),
+    telegram: renderTelegram(reports),
+  };
 }
