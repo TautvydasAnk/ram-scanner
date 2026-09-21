@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-20T13:31:16.503Z",
+  "scannedAt": "2026-09-21T11:16:36.038Z",
   "products": {
     "1": {
       "id": "1",
@@ -1620,6 +1620,76 @@
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-q3-fall-tin-copie-849205.jpg"
+    },
+    "2009": {
+      "id": "2009",
+      "name": "Pokemon TCG: Mega Evolution - Storm Emerald Booster Display (30 Packs) [Japanese]",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-mega-evolution-storm-emerald-booster-display-30-packs-japanese.html",
+      "sku": "POKEMON-M7-01",
+      "price": 131.07,
+      "currency": "EUR",
+      "status": "PreOrder",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-evolution-ninja-spinner-booster-display-30-packs-japanese-copie-857231.png"
+    },
+    "2011": {
+      "id": "2011",
+      "name": "Pokemon TCG: Black Crystal Blaze (CSV5C) Chinese Booster Box (15 Packs)",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-black-crystal-blaze-csv5c-chinese-booster-box-15-packs.html",
+      "sku": "POKEMON-CHINESE-10",
+      "price": 47.49,
+      "currency": "EUR",
+      "status": "PreOrder",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-gem-pack-vol-4-chinese-booster-box-18-packs-copie-463370.png"
+    },
+    "2012": {
+      "id": "2012",
+      "name": "Pokemon TCG: Stellar Crystal (CSV9C) Chinese Booster Box (15 Packs)",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-stellar-crystal-csv9c-chinese-booster-box-15-packs.html",
+      "sku": "POKEMON-CHINESE-11",
+      "price": 52.24,
+      "currency": "EUR",
+      "status": "PreOrder",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-black-crystal-blaze-csv5c-chinese-booster-box-15-packs-copie-324595.png"
+    },
+    "2013": {
+      "id": "2013",
+      "name": "Pokemon TCG: Dream Painting Vol.1 Water Ecology Figure Set",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-dream-painting-vol-1-water-ecology-figure-set.html",
+      "sku": "POKEMON-CHINESE-14",
+      "price": 36.09,
+      "currency": "EUR",
+      "status": "PreOrder",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-dream-painting-vol-2-water-ecology-figure-set-copie-755486.png"
+    },
+    "2015": {
+      "id": "2015",
+      "name": "Pokemon TCG: Chasing Glory Together (CSV10C) Slim Chinese Booster Box (15 Packs)",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-chasing-glory-together-csv10c-chinese-booster-box-15-packs.html",
+      "sku": "POKEMON-CHINESE-15",
+      "price": 52.24,
+      "currency": "EUR",
+      "status": "PreOrder",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-stellar-crystal-csv9c-chinese-booster-box-15-packs-copie-868692.png"
+    },
+    "2016": {
+      "id": "2016",
+      "name": "Pokemon TCG: Dream Painting Eevee & Evolutions (Eevee & Friends)",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-dream-painting-eevee-evolutions-eevee-friends.html",
+      "sku": "POKEMON-CHINESE-16",
+      "price": 36.09,
+      "currency": "EUR",
+      "status": "PreOrder",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-dream-painting-vol-1-water-ecology-figure-set-copie-439545.png"
+    },
+    "2017": {
+      "id": "2017",
+      "name": "Pokemon TCG: Dream Painting Pikachu 30th Celebration",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-dream-painting-pikachu-30th-celebration.html",
+      "sku": "POKEMON-CHINESE-17",
+      "price": 36.09,
+      "currency": "EUR",
+      "status": "PreOrder",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-dream-painting-eevee-evolutions-eevee-friends-copie-846766.png"
     }
   }
 }
