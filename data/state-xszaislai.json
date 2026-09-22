@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-22T04:01:16.932Z",
+  "scannedAt": "2026-09-22T05:01:16.726Z",
   "products": {
     "POK10360101": {
       "id": "POK10360101",
@@ -1024,6 +1024,30 @@
       "price": 33.99,
       "currency": "EUR",
       "status": "OutOfStock"
+    },
+    "OPCGEB04JP": {
+      "id": "OPCGEB04JP",
+      "name": "ONE PIECE Card Game Extra Booster \"EGGHEAD CRISIS\" (EB-04) – Japanese booster",
+      "url": "https://www.xszaislai.lt/one-piece-card-game-extra-booster-egghead-crisis-eb-04-japanese-booster-opcgeb04jp",
+      "price": 11.99,
+      "currency": "EUR",
+      "status": "InStock"
+    },
+    "OPCGOP15JP": {
+      "id": "OPCGOP15JP",
+      "name": "ONE PIECE Card Game Booster Pack \"Adventure on the Island of God\" (OP-15) – Japanese booster",
+      "url": "https://www.xszaislai.lt/one-piece-card-game-booster-pack-adventure-on-the-island-of-god-op-15-japanese-booster-opcgop15jp",
+      "price": 11.99,
+      "currency": "EUR",
+      "status": "InStock"
+    },
+    "OPCGOP16JP": {
+      "id": "OPCGOP16JP",
+      "name": "ONE PIECE Card Game Booster Pack \"The Moment of Battle\" (OP-16) – Japanese booster",
+      "url": "https://www.xszaislai.lt/one-piece-card-game-booster-pack-the-moment-of-battle-op-16-japanese-booster-opcgop16jp",
+      "price": 11.99,
+      "currency": "EUR",
+      "status": "InStock"
     },
     "37EB6D9F6": {
       "id": "37EB6D9F6",
