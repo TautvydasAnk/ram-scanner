@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-23T04:01:29.862Z",
+  "scannedAt": "2026-09-23T07:31:17.919Z",
   "products": {
     "POK10360101": {
       "id": "POK10360101",
@@ -97,19 +97,19 @@
       "currency": "EUR",
       "status": "OutOfStock"
     },
-    "ULT16128": {
-      "id": "ULT16128",
-      "name": "ASMODEE Pokémon Portfolio 4-P Poke Scorching Summit albumas",
-      "url": "https://www.xszaislai.lt/asmodee-pokemon-portfolio-4-p-poke-scorching-summit-albumas-ult16128",
-      "price": 13.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
     "ULT16129": {
       "id": "ULT16129",
       "name": "ASMODEE Pokémon Portfolio 9-P Poke Scorching Summit albumas",
       "url": "https://www.xszaislai.lt/asmodee-pokemon-portfolio-9-p-poke-scorching-summit-albumas-ult16129",
       "price": 22.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
+    "ULT16128": {
+      "id": "ULT16128",
+      "name": "ASMODEE Pokémon Portfolio 4-P Poke Scorching Summit albumas",
+      "url": "https://www.xszaislai.lt/asmodee-pokemon-portfolio-4-p-poke-scorching-summit-albumas-ult16128",
+      "price": 13.99,
       "currency": "EUR",
       "status": "OutOfStock"
     },
@@ -289,6 +289,14 @@
       "currency": "EUR",
       "status": "OutOfStock"
     },
+    "POK10313101": {
+      "id": "POK10313101",
+      "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės ex Box",
+      "url": "https://www.xszaislai.lt/pokemon-tcg-mega-evolution-kolekcines-korteles-ex-box-pok10313101",
+      "price": 44.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
     "POK10041": {
       "id": "POK10041",
       "name": "POKEMON SV8.5 Prismatic Evolutions Kolekcinės kortelės Poster Collection",
@@ -302,6 +310,14 @@
       "name": "POKEMON Scarlet & Violet 7 Stellar Crown kolekcinės kortelės 3-Pack Blister",
       "url": "https://www.xszaislai.lt/pokemon-scarlet-violet-7-stellar-crown-kolekcines-korteles-3-pack-blister-pok85907",
       "price": 26.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
+    "POK10374108": {
+      "id": "POK10374108",
+      "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės Premium Checklane",
+      "url": "https://www.xszaislai.lt/pokemon-tcg-mega-evolution-kolekcines-korteles-premium-checklane-pok10374108",
+      "price": 12.99,
       "currency": "EUR",
       "status": "OutOfStock"
     },
@@ -321,29 +337,13 @@
       "currency": "EUR",
       "status": "OutOfStock"
     },
-    "POK10313101": {
-      "id": "POK10313101",
-      "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės ex Box",
-      "url": "https://www.xszaislai.lt/pokemon-tcg-mega-evolution-kolekcines-korteles-ex-box-pok10313101",
-      "price": 44.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
-    "POK10374108": {
-      "id": "POK10374108",
-      "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės Premium Checklane",
-      "url": "https://www.xszaislai.lt/pokemon-tcg-mega-evolution-kolekcines-korteles-premium-checklane-pok10374108",
-      "price": 12.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
     "POK10106": {
       "id": "POK10106",
       "name": "POKEMON Kolekcinės kortelės Prismatic Evolutions Super Premium Collection SV8.5 - Eevee",
       "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-prismatic-evolutions-super-premium-collection-sv8-5-eevee-pok10106",
       "price": 359.99,
       "currency": "EUR",
-      "status": "OutOfStock"
+      "status": "InStock"
     },
     "POK10416101": {
       "id": "POK10416101",
