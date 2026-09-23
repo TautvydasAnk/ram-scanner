@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-22T20:46:17.466Z",
+  "scannedAt": "2026-09-23T04:01:29.862Z",
   "products": {
     "POK10360101": {
       "id": "POK10360101",
@@ -30,22 +30,6 @@
       "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės Booster",
       "url": "https://www.xszaislai.lt/pokemon-tcg-mega-evolution-kolekcines-korteles-booster-pok10425101",
       "price": 9.99,
-      "currency": "EUR",
-      "status": "InStock"
-    },
-    "POK10463101": {
-      "id": "POK10463101",
-      "name": "POKEMON Kolekcinės kortelės \"30th Celebration\" EX Box",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-ex-box-pok10463101",
-      "price": 69.99,
-      "currency": "EUR",
-      "status": "InStock"
-    },
-    "POK10466101": {
-      "id": "POK10466101",
-      "name": "POKEMON Kolekcinės kortelės \"30th Celebration\" EX Tin",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-ex-tin-pok10466101",
-      "price": 69.99,
       "currency": "EUR",
       "status": "InStock"
     },
@@ -89,18 +73,18 @@
       "currency": "EUR",
       "status": "OutOfStock"
     },
-    "POK85663": {
-      "id": "POK85663",
-      "name": "ASMODEE Pokémon Scarlet & Violet 5 Blisters kortelės",
-      "url": "https://www.xszaislai.lt/asmodee-pokemon-scarlet-violet-5-blisters-korteles-pok85663",
-      "price": 7.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
     "POK85728": {
       "id": "POK85728",
       "name": "ASMODEE Pokémon Scarlet & Violet 4 Blisters kortelės",
       "url": "https://www.xszaislai.lt/asmodee-pokemon-scarlet-violet-4-blisters-korteles-pok85728",
+      "price": 7.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
+    "POK85663": {
+      "id": "POK85663",
+      "name": "ASMODEE Pokémon Scarlet & Violet 5 Blisters kortelės",
+      "url": "https://www.xszaislai.lt/asmodee-pokemon-scarlet-violet-5-blisters-korteles-pok85663",
       "price": 7.99,
       "currency": "EUR",
       "status": "OutOfStock"
@@ -113,19 +97,19 @@
       "currency": "EUR",
       "status": "OutOfStock"
     },
-    "ULT16129": {
-      "id": "ULT16129",
-      "name": "ASMODEE Pokémon Portfolio 9-P Poke Scorching Summit albumas",
-      "url": "https://www.xszaislai.lt/asmodee-pokemon-portfolio-9-p-poke-scorching-summit-albumas-ult16129",
-      "price": 22.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
     "ULT16128": {
       "id": "ULT16128",
       "name": "ASMODEE Pokémon Portfolio 4-P Poke Scorching Summit albumas",
       "url": "https://www.xszaislai.lt/asmodee-pokemon-portfolio-4-p-poke-scorching-summit-albumas-ult16128",
       "price": 13.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
+    "ULT16129": {
+      "id": "ULT16129",
+      "name": "ASMODEE Pokémon Portfolio 9-P Poke Scorching Summit albumas",
+      "url": "https://www.xszaislai.lt/asmodee-pokemon-portfolio-9-p-poke-scorching-summit-albumas-ult16129",
+      "price": 22.99,
       "currency": "EUR",
       "status": "OutOfStock"
     },
@@ -153,19 +137,19 @@
       "currency": "EUR",
       "status": "OutOfStock"
     },
-    "POK10352": {
-      "id": "POK10352",
-      "name": "POKEMON Kolekcinės kortelės SV9 Journey Together premium checklanes",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-sv9-journey-together-premium-checklanes-pok10352",
-      "price": 12.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
     "POK10336": {
       "id": "POK10336",
       "name": "POKEMON Kolekcinės kortelės SV9 Journey Together - 3packs",
       "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-sv9-journey-together-3packs-pok10336",
       "price": 27.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
+    "POK10352": {
+      "id": "POK10352",
+      "name": "POKEMON Kolekcinės kortelės SV9 Journey Together premium checklanes",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-sv9-journey-together-premium-checklanes-pok10352",
+      "price": 12.99,
       "currency": "EUR",
       "status": "OutOfStock"
     },
@@ -257,19 +241,19 @@
       "currency": "EUR",
       "status": "OutOfStock"
     },
-    "POK85933": {
-      "id": "POK85933",
-      "name": "POKEMON Scarlet & Violet 8 Surging Sparks Sleeved Kolekcinės kortelės Booster",
-      "url": "https://www.xszaislai.lt/pokemon-scarlet-violet-8-surging-sparks-sleeved-kolekcines-korteles-booster-pok85933",
-      "price": 8.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
     "POK10357101": {
       "id": "POK10357101",
       "name": "POKEMON TCG Kolekcinės kortelės Mini Album + booster",
       "url": "https://www.xszaislai.lt/pokemon-tcg-kolekcines-korteles-mini-album-booster-pok10357101",
       "price": 10.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
+    "POK85933": {
+      "id": "POK85933",
+      "name": "POKEMON Scarlet & Violet 8 Surging Sparks Sleeved Kolekcinės kortelės Booster",
+      "url": "https://www.xszaislai.lt/pokemon-scarlet-violet-8-surging-sparks-sleeved-kolekcines-korteles-booster-pok85933",
+      "price": 8.99,
       "currency": "EUR",
       "status": "OutOfStock"
     },
@@ -305,14 +289,6 @@
       "currency": "EUR",
       "status": "OutOfStock"
     },
-    "POK10313101": {
-      "id": "POK10313101",
-      "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės ex Box",
-      "url": "https://www.xszaislai.lt/pokemon-tcg-mega-evolution-kolekcines-korteles-ex-box-pok10313101",
-      "price": 44.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
     "POK10041": {
       "id": "POK10041",
       "name": "POKEMON SV8.5 Prismatic Evolutions Kolekcinės kortelės Poster Collection",
@@ -329,14 +305,6 @@
       "currency": "EUR",
       "status": "OutOfStock"
     },
-    "POK10374108": {
-      "id": "POK10374108",
-      "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės Premium Checklane",
-      "url": "https://www.xszaislai.lt/pokemon-tcg-mega-evolution-kolekcines-korteles-premium-checklane-pok10374108",
-      "price": 12.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
     "POK10055109": {
       "id": "POK10055109",
       "name": "POKEMON MEGA EVOLUTION Kolekcinių kortelių papildymo pakuotė",
@@ -350,6 +318,22 @@
       "name": "POKEMON Scarlet & Violet 7 Stellar Crown Sleeved kolekcinės kortelės Booster",
       "url": "https://www.xszaislai.lt/pokemon-scarlet-violet-7-stellar-crown-sleeved-kolekcines-korteles-booster-pok85901",
       "price": 7.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
+    "POK10313101": {
+      "id": "POK10313101",
+      "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės ex Box",
+      "url": "https://www.xszaislai.lt/pokemon-tcg-mega-evolution-kolekcines-korteles-ex-box-pok10313101",
+      "price": 44.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
+    "POK10374108": {
+      "id": "POK10374108",
+      "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės Premium Checklane",
+      "url": "https://www.xszaislai.lt/pokemon-tcg-mega-evolution-kolekcines-korteles-premium-checklane-pok10374108",
+      "price": 12.99,
       "currency": "EUR",
       "status": "OutOfStock"
     },
@@ -453,6 +437,14 @@
       "id": "POK10113101",
       "name": "POKEMON Kolekcinės kortelės „Tin Pokémonball 2025“",
       "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-tin-pokemonball-2025-pok10113101",
+      "price": 29.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
+    "POK10273104": {
+      "id": "POK10273104",
+      "name": "POKEMON Kortelės „ Pokeball Tin 2026“",
+      "url": "https://www.xszaislai.lt/pokemon-korteles-pokeball-tin-2026-pok10273104",
       "price": 29.99,
       "currency": "EUR",
       "status": "OutOfStock"
@@ -561,26 +553,18 @@
       "currency": "EUR",
       "status": "OutOfStock"
     },
-    "POK10617": {
-      "id": "POK10617",
-      "name": "POKEMON Kolekcinės kortelės SV10 boosters",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-sv10-boosters-pok10617",
-      "price": 8.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
-    "POK10273104": {
-      "id": "POK10273104",
-      "name": "POKEMON Kortelės „ Pokeball Tin 2026“",
-      "url": "https://www.xszaislai.lt/pokemon-korteles-pokeball-tin-2026-pok10273104",
-      "price": 29.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
     "POK10407101": {
       "id": "POK10407101",
       "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės Booster",
       "url": "https://www.xszaislai.lt/pokemon-tcg-mega-evolution-kolekcines-korteles-booster-pok10407101",
+      "price": 8.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
+    "POK10617": {
+      "id": "POK10617",
+      "name": "POKEMON Kolekcinės kortelės SV10 boosters",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-sv10-boosters-pok10617",
       "price": 8.99,
       "currency": "EUR",
       "status": "OutOfStock"
@@ -889,6 +873,14 @@
       "currency": "EUR",
       "status": "OutOfStock"
     },
+    "POK85918": {
+      "id": "POK85918",
+      "name": "POKEMON Scarlet & Violet 7 Stellar Crown Premium Checklane kolekcinės kortelės",
+      "url": "https://www.xszaislai.lt/pokemon-scarlet-violet-7-stellar-crown-premium-checklane-kolekcines-korteles-pok85918",
+      "price": 11.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
     "POK10053102": {
       "id": "POK10053102",
       "name": "POKEMON MEGA EVOLUTION Kolekcinės kortelės „Checklane“",
@@ -921,14 +913,6 @@
       "currency": "EUR",
       "status": "OutOfStock"
     },
-    "POK85918": {
-      "id": "POK85918",
-      "name": "POKEMON Scarlet & Violet 7 Stellar Crown Premium Checklane kolekcinės kortelės",
-      "url": "https://www.xszaislai.lt/pokemon-scarlet-violet-7-stellar-crown-premium-checklane-kolekcines-korteles-pok85918",
-      "price": 11.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
     "ULT89433": {
       "id": "ULT89433",
       "name": "POKEMON Albumas Pokemonų kortelėms",
@@ -942,6 +926,22 @@
       "name": "POKEMON Kolekcinės kortelės \"30th Celebration\" Binder Collection",
       "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-binder-collection-pok10450101",
       "price": 99.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
+    "POK10463101": {
+      "id": "POK10463101",
+      "name": "POKEMON Kolekcinės kortelės \"30th Celebration\" EX Box",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-ex-box-pok10463101",
+      "price": 69.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
+    "POK10466101": {
+      "id": "POK10466101",
+      "name": "POKEMON Kolekcinės kortelės \"30th Celebration\" EX Tin",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-ex-tin-pok10466101",
+      "price": 69.99,
       "currency": "EUR",
       "status": "OutOfStock"
     },
@@ -974,14 +974,6 @@
       "name": "POKEMON Kolekcionieriaus albumas „White Flare“",
       "url": "https://www.xszaislai.lt/pokemon-kolekcionieriaus-albumas-white-flare-pok10039rsv",
       "price": 71.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
-    "POK10128ZSV": {
-      "id": "POK10128ZSV",
-      "name": "POKEMON Kolekcinės kortelės su lipdukais „Black Bolt“",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-su-lipdukais-black-bolt-pok10128zsv",
-      "price": 33.99,
       "currency": "EUR",
       "status": "OutOfStock"
     },
@@ -1029,6 +1021,14 @@
       "id": "POK10116RSV",
       "name": "POKEMON Kolekcinės kortelės su lipdukais „White Flare“",
       "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-su-lipdukais-white-flare-pok10116rsv",
+      "price": 33.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
+    "POK10128ZSV": {
+      "id": "POK10128ZSV",
+      "name": "POKEMON Kolekcinės kortelės su lipdukais „Black Bolt“",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-su-lipdukais-black-bolt-pok10128zsv",
       "price": 33.99,
       "currency": "EUR",
       "status": "OutOfStock"
