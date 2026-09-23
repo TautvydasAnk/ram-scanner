@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-23T13:31:16.139Z",
+  "scannedAt": "2026-09-23T20:46:16.697Z",
   "products": {
     "POK10360101": {
       "id": "POK10360101",
@@ -54,6 +54,14 @@
       "name": "POKEMON Kolekcinės kortelės \"30th Celebration\" Poster Collection",
       "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-poster-collection-pok10467101",
       "price": 49.99,
+      "currency": "EUR",
+      "status": "InStock"
+    },
+    "POK10447101": {
+      "id": "POK10447101",
+      "name": "POKEMON Kolekcinės kortelės „30th Celebration“, trenerio rinkinys",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-trenerio-rinkinys-pok10447101",
+      "price": 169.99,
       "currency": "EUR",
       "status": "InStock"
     },
@@ -193,19 +201,19 @@
       "currency": "EUR",
       "status": "OutOfStock"
     },
-    "POK85777": {
-      "id": "POK85777",
-      "name": "POKEMON „Scarlet & Violet 6 Twilight Masquerade“ kolekcinės kortelės, 10 vnt.",
-      "url": "https://www.xszaislai.lt/pokemon-scarlet-violet-6-twilight-masquerade-kolekcines-korteles-10-vnt-pok85777",
-      "price": 7.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
     "POK85788": {
       "id": "POK85788",
       "name": "POKEMON „Scarlet & Violet 6-10 Checklane“ kolekcinės kortelės",
       "url": "https://www.xszaislai.lt/pokemon-scarlet-violet-6-10-checklane-kolekcines-korteles-pok85788",
       "price": 13.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
+    "POK85777": {
+      "id": "POK85777",
+      "name": "POKEMON „Scarlet & Violet 6 Twilight Masquerade“ kolekcinės kortelės, 10 vnt.",
+      "url": "https://www.xszaislai.lt/pokemon-scarlet-violet-6-twilight-masquerade-kolekcines-korteles-10-vnt-pok85777",
+      "price": 7.99,
       "currency": "EUR",
       "status": "OutOfStock"
     },
@@ -961,14 +969,6 @@
       "currency": "EUR",
       "status": "OutOfStock"
     },
-    "POK10447101": {
-      "id": "POK10447101",
-      "name": "POKEMON Kolekcinės kortelės „30th Celebration“, trenerio rinkinys",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-trenerio-rinkinys-pok10447101",
-      "price": 169.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
     "POK10039RSV": {
       "id": "POK10039RSV",
       "name": "POKEMON Kolekcionieriaus albumas „White Flare“",
@@ -1017,18 +1017,18 @@
       "currency": "EUR",
       "status": "OutOfStock"
     },
-    "POK10128ZSV": {
-      "id": "POK10128ZSV",
-      "name": "POKEMON Kolekcinės kortelės su lipdukais „Black Bolt“",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-su-lipdukais-black-bolt-pok10128zsv",
-      "price": 33.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
     "POK10116RSV": {
       "id": "POK10116RSV",
       "name": "POKEMON Kolekcinės kortelės su lipdukais „White Flare“",
       "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-su-lipdukais-white-flare-pok10116rsv",
+      "price": 33.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
+    "POK10128ZSV": {
+      "id": "POK10128ZSV",
+      "name": "POKEMON Kolekcinės kortelės su lipdukais „Black Bolt“",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-su-lipdukais-black-bolt-pok10128zsv",
       "price": 33.99,
       "currency": "EUR",
       "status": "OutOfStock"
