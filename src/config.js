@@ -39,6 +39,13 @@ export const MAX_LISTING_PAGES = 30;
 export const MIN_COVERAGE_RATIO = 0.5;
 export const COVERAGE_DROP_ALERT = 5;
 
+// Hysteresis for the anomaly guard: a broken scrape recovers within a run or two, but a
+// genuine large catalog change persists. If the low count sticks for this many consecutive
+// runs, accept it as the new normal (re-baseline + resume alerts) instead of warning forever.
+// The guard warns once when the drop first appears, then stays quiet until it resolves or is
+// accepted — so a real change never leaves the tracker stuck.
+export const ANOMALY_PERSIST_RUNS = 3;
+
 // Politeness / robustness knobs.
 export const REQUEST_DELAY_MS = 400; // pause between page fetches
 export const MAX_RETRIES = 3; // per request, on network / 5xx / 429

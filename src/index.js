@@ -1,6 +1,6 @@
 import { readFile, writeFile, mkdir, appendFile } from 'node:fs/promises';
 import { dirname } from 'node:path';
-import { MIN_COVERAGE_RATIO, COVERAGE_DROP_ALERT } from './config.js';
+import { MIN_COVERAGE_RATIO, COVERAGE_DROP_ALERT, ANOMALY_PERSIST_RUNS } from './config.js';
 import { shops } from './shops/registry.js';
 import { diff, hasChanges, totalChanges } from './diff.js';
 import { renderReport } from './report.js';
@@ -67,27 +67,41 @@ async function processShop(shop, scannedAt) {
     };
   }
 
-  const snapshot = { scannedAt, products };
   const currCount = Object.keys(products).length;
   const prevCount = isFirstRun ? null : Object.keys(previous.products).length;
+  const prevStreak = previous?.guard?.anomalyStreak ?? 0;
+  const writeState = (prods, streak) =>
+    writeFileEnsured(shop.stateFile, JSON.stringify({ scannedAt, products: prods, guard: { anomalyStreak: streak } }, null, 2) + '\n');
 
-  // Coverage anomaly guard: a run finding far fewer products than last time is almost
-  // certainly a broken scrape — don't overwrite the baseline, don't emit (false) alerts.
-  if (prevCount != null && currCount < Math.max(1, Math.floor(prevCount * MIN_COVERAGE_RATIO))) {
+  // Coverage anomaly guard (with hysteresis). A run finding far fewer products than the
+  // baseline is *usually* a broken scrape (block/layout/API glitch) — but it can also be a
+  // genuine large catalog change. A glitch clears within a run or two; a real change persists.
+  // So: while the drop is fresh, hold the baseline and don't emit (false) new/restock alerts.
+  // Once it has persisted for ANOMALY_PERSIST_RUNS runs, accept it as the new normal.
+  const isAnomaly = prevCount != null && currCount < Math.max(1, Math.floor(prevCount * MIN_COVERAGE_RATIO));
+  if (isAnomaly && prevStreak + 1 < ANOMALY_PERSIST_RUNS) {
+    const streak = prevStreak + 1;
+    await writeState(previous.products, streak); // hold the baseline, remember the streak
     const notice =
-      `scan found only ${currCount} products vs ${prevCount} last run — treating this run as ` +
-      `unreliable. The snapshot was NOT updated. The site may be blocking requests or have changed.`;
-    console.warn(`[${shop.id}] ⚠️ coverage anomaly: ${notice}`);
+      `scan found only ${currCount} products vs ${prevCount} last run — holding the baseline ` +
+      `(run ${streak}/${ANOMALY_PERSIST_RUNS}) in case it's a temporary glitch. If it keeps up it'll ` +
+      `be accepted as the new normal and alerts resume.`;
+    console.warn(`[${shop.id}] ⚠️ coverage anomaly ${currCount} vs ${prevCount} (streak ${streak}/${ANOMALY_PERSIST_RUNS})`);
     return {
-      report: { name: shop.name, changes: { new: [], backInStock: [] }, notice },
-      summaryLine: `- **${shop.name}**: ⚠️ coverage anomaly (${currCount} vs ${prevCount})`,
+      // Warn only on the first detection, then stay quiet until it resolves or is accepted.
+      report: streak === 1 ? { name: shop.name, changes: { new: [], backInStock: [] }, notice } : null,
+      summaryLine: `- **${shop.name}**: ⚠️ coverage anomaly ${currCount} vs ${prevCount} (run ${streak}/${ANOMALY_PERSIST_RUNS}, baseline held)`,
     };
   }
+  if (isAnomaly) {
+    log(`coverage drop persisted ${prevStreak + 1} runs — accepting ${currCount} products as the new baseline`);
+  }
 
+  const snapshot = { scannedAt, products };
   const changes = diff(previous, snapshot);
 
-  if (isFirstRun || productsChanged(previous.products, products)) {
-    await writeFileEnsured(shop.stateFile, JSON.stringify(snapshot, null, 2) + '\n');
+  if (isFirstRun || prevStreak > 0 || productsChanged(previous.products, products)) {
+    await writeState(products, 0); // reset the streak on any normal/accepted run
   }
 
   if (isFirstRun) {
