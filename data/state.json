@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-25T16:31:17.040Z",
+  "scannedAt": "2026-09-25T17:31:19.541Z",
   "products": {
     "1": {
       "id": "1",
@@ -1698,7 +1698,7 @@
       "sku": "DELTA-ETB-01",
       "price": 73.91,
       "currency": "EUR",
-      "status": "OutOfStock",
+      "status": "PreOrder",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-destined-rivals-elite-trainer-box-copie-592525.webp"
     },
     "2380": {
@@ -1708,7 +1708,7 @@
       "sku": "DELTA-BB-01",
       "price": 204.66,
       "currency": "EUR",
-      "status": "OutOfStock",
+      "status": "PreOrder",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-pitch-black-booster-box-display-36-packs-copie-127099.webp"
     },
     "2381": {
@@ -1718,7 +1718,7 @@
       "sku": "DELTA-PACKS-01",
       "price": 5.69,
       "currency": "EUR",
-      "status": "OutOfStock",
+      "status": "PreOrder",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-pitch-black-sleeved-booster-pack-copie-463438.webp"
     },
     "2382": {
@@ -1728,7 +1728,7 @@
       "sku": "DELTA-BUNDLES-01",
       "price": 41.69,
       "currency": "EUR",
-      "status": "OutOfStock",
+      "status": "PreOrder",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-pitch-black-booster-bundle-copie-729340.webp"
     },
     "2383": {
@@ -1738,7 +1738,7 @@
       "sku": "DELTA-BLISTER-01",
       "price": 18.76,
       "currency": "EUR",
-      "status": "OutOfStock",
+      "status": "PreOrder",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-pitch-black-3-pack-blister-copie-865553.webp"
     }
   },
