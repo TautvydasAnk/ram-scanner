@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-25T11:46:16.812Z",
+  "scannedAt": "2026-09-25T15:46:19.074Z",
   "products": {
     "1": {
       "id": "1",
@@ -1690,6 +1690,46 @@
       "currency": "EUR",
       "status": "PreOrder",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-dream-painting-eevee-evolutions-eevee-friends-copie-846766.png"
+    },
+    "2379": {
+      "id": "2379",
+      "name": "Preorder Pokemon TCG: Delta Reign Elite Trainer Box",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-delta-reign-elite-trainer-box.html",
+      "sku": "DELTA-ETB-01",
+      "price": 73.91,
+      "currency": "EUR",
+      "status": "OutOfStock",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-destined-rivals-elite-trainer-box-copie-592525.webp"
+    },
+    "2381": {
+      "id": "2381",
+      "name": "Preorder Pokemon TCG: Delta Reign Sleeved Booster Pack",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-delta-reign-sleeved-booster-pack.html",
+      "sku": "DELTA-PACKS-01",
+      "price": 5.69,
+      "currency": "EUR",
+      "status": "OutOfStock",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-pitch-black-sleeved-booster-pack-copie-463438.webp"
+    },
+    "2382": {
+      "id": "2382",
+      "name": "Preorder Pokemon TCG: Delta Reign Booster Bundle",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-delta-reign-booster-bundle.html",
+      "sku": "DELTA-BUNDLES-01",
+      "price": 41.69,
+      "currency": "EUR",
+      "status": "OutOfStock",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-pitch-black-booster-bundle-copie-729340.webp"
+    },
+    "2383": {
+      "id": "2383",
+      "name": "Preorder Pokemon TCG: Delta Reign 3 Pack Blister",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-delta-reign-3-pack-blister.html",
+      "sku": "DELTA-BLISTER-01",
+      "price": 18.76,
+      "currency": "EUR",
+      "status": "OutOfStock",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-pitch-black-3-pack-blister-copie-865553.webp"
     }
   },
   "guard": {
