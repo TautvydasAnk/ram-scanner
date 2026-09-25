@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-25T17:31:19.541Z",
+  "scannedAt": "2026-09-25T18:46:19.741Z",
   "products": {
     "1": {
       "id": "1",
@@ -1698,7 +1698,7 @@
       "sku": "DELTA-ETB-01",
       "price": 73.91,
       "currency": "EUR",
-      "status": "PreOrder",
+      "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-destined-rivals-elite-trainer-box-copie-592525.webp"
     },
     "2380": {
