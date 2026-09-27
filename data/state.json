@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-27T06:16:17.477Z",
+  "scannedAt": "2026-09-27T11:46:17.294Z",
   "products": {
     "1": {
       "id": "1",
@@ -878,7 +878,7 @@
       "sku": "POR03",
       "price": 6.45,
       "currency": "EUR",
-      "status": "InStock",
+      "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-perfect-order-checklane-blister-makuhita-876947.jpg"
     },
     "798": {
