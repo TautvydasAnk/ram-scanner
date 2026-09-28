@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-27T20:31:16.068Z",
+  "scannedAt": "2026-09-28T13:16:21.745Z",
   "products": {
     "1": {
       "id": "1",
@@ -1498,7 +1498,7 @@
       "sku": "POKEMON-CHINESE-02",
       "price": 28.45,
       "currency": "EUR",
-      "status": "OutOfStock",
+      "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-zacian-v-union-chinese-collection-copie-593522.png"
     },
     "1512": {
