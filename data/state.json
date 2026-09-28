@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-28T14:16:17.831Z",
+  "scannedAt": "2026-09-28T20:01:17.787Z",
   "products": {
     "1": {
       "id": "1",
@@ -1728,7 +1728,7 @@
       "sku": "DELTA-BUNDLES-01",
       "price": 41.73,
       "currency": "EUR",
-      "status": "PreOrder",
+      "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-pitch-black-booster-bundle-copie-729340.webp"
     },
     "2383": {
