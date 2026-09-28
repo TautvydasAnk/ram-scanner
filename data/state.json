@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-28T13:16:21.745Z",
+  "scannedAt": "2026-09-28T14:16:17.831Z",
   "products": {
     "1": {
       "id": "1",
@@ -1740,6 +1740,46 @@
       "currency": "EUR",
       "status": "PreOrder",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-pitch-black-3-pack-blister-copie-865553.webp"
+    },
+    "2500": {
+      "id": "2500",
+      "name": "Pokemon TCG: Chaos Rising Mini Tin Display (10 Mini-Tins)",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-chaos-rising-mini-tin-display-10-mini-tins.html",
+      "sku": "LUM-01",
+      "price": 151.75,
+      "currency": "EUR",
+      "status": "InStock",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-chaos-rising-mini-tin-copie-511809.jpg"
+    },
+    "2501": {
+      "id": "2501",
+      "name": "Pokemon TCG: Pikachu and Friends Blind Box",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-pikachu-and-friends-blind-box.html",
+      "sku": "POKEMON-CHINESE-18",
+      "price": 33.95,
+      "currency": "EUR",
+      "status": "InStock",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-dream-painting-pikachu-30th-celebration-copie-363817.webp"
+    },
+    "2502": {
+      "id": "2502",
+      "name": "Pokemon TCG: True Mystery (CSV6C) Slim Chinese Booster Box (15 Packs)",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-true-mystery-csv6c-slim-chinese-booster-box-15-packs.html",
+      "sku": "POKEMON-CHINESE-20",
+      "price": 52.16,
+      "currency": "EUR",
+      "status": "InStock",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-chasing-glory-together-csv10c-slim-chinese-booster-box-15-packs-copie-657544.webp"
+    },
+    "2511": {
+      "id": "2511",
+      "name": "Pokemon TCG: Super Electric Breaker (SV8F) Slim Chinese Booster Box (15 Packs)",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-super-electric-breaker-sv8f-slim-chinese-booster-box-15-packs.html",
+      "sku": "POKEMON-CHINESE-23",
+      "price": 52.16,
+      "currency": "EUR",
+      "status": "PreOrder",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-chasing-glory-together-csv10c-slim-chinese-booster-box-15-packs-copie-353901.webp"
     }
   },
   "guard": {
