@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-27T04:01:20.471Z",
+  "scannedAt": "2026-09-28T20:16:17.705Z",
   "products": {
     "POK10425101": {
       "id": "POK10425101",
@@ -22,14 +22,6 @@
       "name": "POKEMON Kolekcinės kortelės \"30th Celebration\" EX Box",
       "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-ex-box-pok10463101",
       "price": 69.99,
-      "currency": "EUR",
-      "status": "InStock"
-    },
-    "POK10467101": {
-      "id": "POK10467101",
-      "name": "POKEMON Kolekcinės kortelės \"30th Celebration\" Poster Collection",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-poster-collection-pok10467101",
-      "price": 49.99,
       "currency": "EUR",
       "status": "InStock"
     },
@@ -57,27 +49,19 @@
       "currency": "EUR",
       "status": "OutOfStock"
     },
-    "POK10360101": {
-      "id": "POK10360101",
-      "name": "POKEMON TCG Kolekcinės kortelės LEAGUE BATTLE DECK MEGA LUCARIO",
-      "url": "https://www.xszaislai.lt/pokemon-tcg-kolekcines-korteles-league-battle-deck-mega-lucario-pok10360101",
-      "price": 65.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
-    "POK10412101": {
-      "id": "POK10412101",
-      "name": "POKEMON Kolekcinės kortelės Q2 2026 2-Pack Blister",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-q2-2026-2-pack-blister-pok10412101",
-      "price": 29.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
     "POK10410101": {
       "id": "POK10410101",
       "name": "POKEMON Kolekcinės kortelės First Partner Collection Box 3",
       "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-first-partner-collection-box-3-pok10410101",
       "price": 69.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
+    "POK10360101": {
+      "id": "POK10360101",
+      "name": "POKEMON TCG Kolekcinės kortelės LEAGUE BATTLE DECK MEGA LUCARIO",
+      "url": "https://www.xszaislai.lt/pokemon-tcg-kolekcines-korteles-league-battle-deck-mega-lucario-pok10360101",
+      "price": 65.99,
       "currency": "EUR",
       "status": "OutOfStock"
     },
@@ -93,6 +77,14 @@
       "id": "POK10273104",
       "name": "POKEMON Kortelės „ Pokeball Tin 2026“",
       "url": "https://www.xszaislai.lt/pokemon-korteles-pokeball-tin-2026-pok10273104",
+      "price": 29.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
+    "POK10412101": {
+      "id": "POK10412101",
+      "name": "POKEMON Kolekcinės kortelės Q2 2026 2-Pack Blister",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-q2-2026-2-pack-blister-pok10412101",
       "price": 29.99,
       "currency": "EUR",
       "status": "OutOfStock"
@@ -118,6 +110,14 @@
       "name": "POKEMON Kolekcinės kortelės \"30th Celebration\" Binder Collection",
       "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-binder-collection-pok10450101",
       "price": 99.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
+    "POK10467101": {
+      "id": "POK10467101",
+      "name": "POKEMON Kolekcinės kortelės \"30th Celebration\" Poster Collection",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-poster-collection-pok10467101",
+      "price": 49.99,
       "currency": "EUR",
       "status": "OutOfStock"
     },
