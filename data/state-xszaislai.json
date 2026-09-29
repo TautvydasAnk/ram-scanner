@@ -1,6 +1,14 @@
 {
-  "scannedAt": "2026-09-28T20:16:17.705Z",
+  "scannedAt": "2026-09-29T08:16:18.717Z",
   "products": {
+    "POK10652": {
+      "id": "POK10652",
+      "name": "POKEMON Kolekcinės kortelės SV10 ETBs",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-sv10-etbs-pok10652",
+      "price": 99.99,
+      "currency": "EUR",
+      "status": "InStock"
+    },
     "POK10425101": {
       "id": "POK10425101",
       "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės Booster",
@@ -41,11 +49,11 @@
       "currency": "EUR",
       "status": "OutOfStock"
     },
-    "POK10652": {
-      "id": "POK10652",
-      "name": "POKEMON Kolekcinės kortelės SV10 ETBs",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-sv10-etbs-pok10652",
-      "price": 99.99,
+    "POK10412101": {
+      "id": "POK10412101",
+      "name": "POKEMON Kolekcinės kortelės Q2 2026 2-Pack Blister",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-q2-2026-2-pack-blister-pok10412101",
+      "price": 29.99,
       "currency": "EUR",
       "status": "OutOfStock"
     },
@@ -77,14 +85,6 @@
       "id": "POK10273104",
       "name": "POKEMON Kortelės „ Pokeball Tin 2026“",
       "url": "https://www.xszaislai.lt/pokemon-korteles-pokeball-tin-2026-pok10273104",
-      "price": 29.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
-    "POK10412101": {
-      "id": "POK10412101",
-      "name": "POKEMON Kolekcinės kortelės Q2 2026 2-Pack Blister",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-q2-2026-2-pack-blister-pok10412101",
       "price": 29.99,
       "currency": "EUR",
       "status": "OutOfStock"
