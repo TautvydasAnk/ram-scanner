@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-09-30T08:01:51.047Z",
+  "scannedAt": "2026-09-30T10:16:16.116Z",
   "products": {
     "1": {
       "id": "1",
@@ -1708,7 +1708,7 @@
       "sku": "DELTA-BB-01",
       "price": 204.62,
       "currency": "EUR",
-      "status": "PreOrder",
+      "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-pitch-black-booster-box-display-36-packs-copie-127099.webp"
     },
     "2381": {
