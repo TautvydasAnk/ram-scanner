@@ -1,12 +1,12 @@
 {
-  "scannedAt": "2026-10-01T13:46:20.841Z",
+  "scannedAt": "2026-10-01T14:01:17.107Z",
   "products": {
     "1": {
       "id": "1",
       "name": "Pokémon TCG: Scarlet & Violet-Journey Together Booster Display Box (36 Packs)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-journey-together-booster-display-box-36-packs.html",
       "sku": "JTG01",
-      "price": 170.52,
+      "price": 170.5,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-journey-together-booster-display-box-36-packs-773740.jpg"
@@ -106,7 +106,7 @@
       "name": "Pokémon TCG: Mega Evolution - Ascended Heroes Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokémon-tcg-mega-evolution-ascended-heroes-elite-trainer-box.html",
       "sku": "ASC01",
-      "price": 60.44,
+      "price": 60.43,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-mega-evolution-ascended-heroes-elite-trainer-box-782805.jpg"
@@ -116,7 +116,7 @@
       "name": "Pokémon TCG: Scarlet & Violet-Stellar Crown Booster Display Box (36 Packs)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-stellar-crown-booster-display-box-36-packs.html",
       "sku": "SCR01",
-      "price": 170.52,
+      "price": 170.5,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-stellar-crown-booster-display-box-36-packs-082012.jpg"
@@ -136,7 +136,7 @@
       "name": "Pokémon TCG: Scarlet & Violet-Surging Sparks Booster Display Box (36 Packs)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-surging-sparks-booster-display-box-36-packs.html",
       "sku": "SSP01",
-      "price": 170.52,
+      "price": 170.5,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-surging-sparks-booster-display-box-36-packs-911240.jpg"
@@ -156,7 +156,7 @@
       "name": "Pokémon TCG: Mega Charizard X ex Ultra-Premium Collection",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-charizard-x-ex-ultra-premium-collection.html",
       "sku": "UPC01",
-      "price": 208.41,
+      "price": 208.39,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection-477247.jpg"
@@ -166,7 +166,7 @@
       "name": "Pokémon TCG: Scarlet & Violet-Prismatic Evolutions Mini Tin Display (8 Mini Tins)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-display-8-mini-tins.html",
       "sku": "PRE09",
-      "price": 170.52,
+      "price": 170.5,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-display-8-mini-tins-511361.jpg"
@@ -176,7 +176,7 @@
       "name": "Pokémon TCG: Mega Heroes Mini Tin Display (10 Mini Tins)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-heroes-mini-tin-display-10-mini-tins.html",
       "sku": "MEG01",
-      "price": 170.52,
+      "price": 170.5,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-heroes-mini-tin-display-10-mini-tins-858576.jpg"
@@ -186,7 +186,7 @@
       "name": "Pokémon TCG: Unova Mini Tin Display (8 Mini Tins)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-unova-mini-tin-display-8-mini-tins.html",
       "sku": "BLK01",
-      "price": 170.52,
+      "price": 170.5,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-unova-mini-tin-display-8-mini-tins-673773.jpg"
@@ -196,7 +196,7 @@
       "name": "Pokémon TCG: Prismatic Evolutions Premium Figure Collection",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-prismatic-evolutions-premium-figure-collection.html",
       "sku": "PRE10",
-      "price": 189.47,
+      "price": 189.45,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-prismatic-evolutions-premium-figure-collection-103700.jpg"
@@ -1066,7 +1066,7 @@
       "name": "Pokémon TCG: Chaos Rising Booster Bundle",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-chaos-rising-booster-bundle.html",
       "sku": "PCI10403",
-      "price": 47.18,
+      "price": 47.17,
       "currency": "EUR",
       "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-booster-bundle-522457.png"
@@ -1276,7 +1276,7 @@
       "name": "Pokemon TCG: Mega Greninja ex Premium Collection Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-mega-greninja-ex-premium-collection-box.html",
       "sku": "PCI10413",
-      "price": 60.44,
+      "price": 60.43,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-zygarde-ex-premium-collection-box-copie-048891.webp"
@@ -1336,7 +1336,7 @@
       "name": "Pokemon TCG: Pokemon GO V Battle Deck - Mewtwo vs. Melmetal",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-pokemon-go-v-battle-deck-mewtwo-vs-melmetal.html",
       "sku": "DECK-POKEMON-03",
-      "price": 43.39,
+      "price": 43.38,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-calyrex-vmax-league-battle-deck-ice-rider-copie-447592.jpg"
