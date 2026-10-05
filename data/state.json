@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-05T15:47:10.694Z",
+  "scannedAt": "2026-10-05T16:01:17.142Z",
   "products": {
     "1": {
       "id": "1",
@@ -676,7 +676,7 @@
       "name": "Pokémon TCG: Scarlet & Violet Premium Checklane Blister [Machamp]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-premium-checklane-blister-machamp.html",
       "sku": "SVI01",
-      "price": 9.36,
+      "price": 9.38,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-premium-checklane-blister-machamp-464979.jpg"
@@ -686,7 +686,7 @@
       "name": "Pokémon TCG: Scarlet & Violet Single Pack Blister [Espathra]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-single-pack-blister-espanthra.html",
       "sku": "SVI02",
-      "price": 8.42,
+      "price": 8.44,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-single-pack-blister-espanthra-792076.jpg"
@@ -706,7 +706,7 @@
       "name": "Pokémon TCG: Scarlet & Violet Single Pack Blister [Spidops]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-single-pack-blister-spidops.html",
       "sku": "SVI04",
-      "price": 8.42,
+      "price": 8.44,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-single-pack-blister-spidops-323289.jpg"
@@ -1376,17 +1376,17 @@
       "name": "Preorder Pokemon TCG: 30th Anniversary Booster Bundle",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-30th-anniversary-booster-bundle.html",
       "sku": "PCI10451",
-      "price": 33.68,
+      "price": 33.77,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-chaos-rising-booster-bundle-copie-225464.jpeg"
     },
     "1425": {
       "id": "1425",
-      "name": "Preorder Pokemon TCG: 30th Anniversary Mini-Tins Display [10x mini-tins]",
+      "name": "Pokemon TCG: 30th Anniversary Mini-Tins Display [10x mini-tins]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-30th-anniversary-mini-tins-display-10x-mini-tins.html",
       "sku": "PCI10465",
-      "price": 149.68,
+      "price": 150.08,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-30th-anniversary-booster-bundle-copie-670448.jpeg"
@@ -1406,7 +1406,7 @@
       "name": "Pokemon TCG: 30th Anniversary Greninja ex Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokemon-tcg-30th-anniversary-greninja-ex-box.html",
       "sku": "PCI10463-114",
-      "price": 26.19,
+      "price": 26.26,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-30th-anniversary-2-pack-blister-copie-172098.jpg"
@@ -1416,7 +1416,7 @@
       "name": "Pokemon TCG: 30th Anniversary Sylveon ex Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokemon-tcg-30th-anniversary-sylveon-ex-box.html",
       "sku": "PCI10463-108",
-      "price": 26.19,
+      "price": 26.26,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-30th-anniversary-greninja-ex-box-copie-626512.jpg"
@@ -1426,7 +1426,7 @@
       "name": "Pokemon TCG: 30th Anniversary Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokemon-tcg-30th-anniversary-elite-trainer-box.html",
       "sku": "PCI10447",
-      "price": 59.87,
+      "price": 60.03,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-30th-anniversary-sylveon-ex-box-copie-116709.webp"
@@ -1436,7 +1436,7 @@
       "name": "Pokemon TCG: 30th Anniversary Poster Collection",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokemon-tcg-30th-anniversary-poster-collection.html",
       "sku": "PCI10467",
-      "price": 26.19,
+      "price": 26.26,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-30th-anniversary-elite-trainer-box-copie-154834.webp"
@@ -1456,7 +1456,7 @@
       "name": "Precomanda Pokemon TCG: 30th Anniversary Tech Sticker Collection",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokemon-tcg-30th-anniversary-tech-sticker-collection.html",
       "sku": "PCI10449",
-      "price": 21.52,
+      "price": 21.57,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-30th-anniversary-binder-collection-copie-915671.jpg"
@@ -1466,7 +1466,7 @@
       "name": "Pokemon TCG: Destined Rivals Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-destined-rivals-elite-trainer-box.html",
       "sku": "DRI-ETB-01",
-      "price": 65.49,
+      "price": 65.66,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-30th-anniversary-elite-trainer-box-copie-360182.webp"
