@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-05T05:46:17.105Z",
+  "scannedAt": "2026-10-05T14:46:18.902Z",
   "products": {
     "1": {
       "id": "1",
@@ -1608,7 +1608,7 @@
       "sku": "POKEMON-CHINESE-CEL-02",
       "price": 187.1,
       "currency": "EUR",
-      "status": "PreOrder",
+      "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-30th-celebration-30th-c-simplified-chinese-booster-box-20-packs-copie-495027.png"
     },
     "1963": {
@@ -1628,7 +1628,7 @@
       "sku": "POKEMON-M7-01",
       "price": 129.1,
       "currency": "EUR",
-      "status": "PreOrder",
+      "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-evolution-ninja-spinner-booster-display-30-packs-japanese-copie-857231.png"
     },
     "2011": {
@@ -1638,7 +1638,7 @@
       "sku": "POKEMON-CHINESE-10",
       "price": 46.78,
       "currency": "EUR",
-      "status": "PreOrder",
+      "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-gem-pack-vol-4-chinese-booster-box-18-packs-copie-463370.png"
     },
     "2012": {
@@ -1658,7 +1658,7 @@
       "sku": "POKEMON-CHINESE-14",
       "price": 35.55,
       "currency": "EUR",
-      "status": "PreOrder",
+      "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-dream-painting-vol-2-water-ecology-figure-set-copie-755486.png"
     },
     "2015": {
@@ -1668,7 +1668,7 @@
       "sku": "POKEMON-CHINESE-15",
       "price": 51.45,
       "currency": "EUR",
-      "status": "PreOrder",
+      "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-stellar-crystal-csv9c-chinese-booster-box-15-packs-copie-868692.png"
     },
     "2016": {
