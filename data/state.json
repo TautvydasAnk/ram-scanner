@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-06T04:31:15.729Z",
+  "scannedAt": "2026-10-06T07:01:16.184Z",
   "products": {
     "1": {
       "id": "1",
@@ -1648,7 +1648,7 @@
       "sku": "POKEMON-CHINESE-11",
       "price": 65.66,
       "currency": "EUR",
-      "status": "OutOfStock",
+      "status": "PreOrder",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-black-crystal-blaze-csv5c-chinese-booster-box-15-packs-copie-324595.png"
     },
     "2013": {
