@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-06T18:16:16.503Z",
+  "scannedAt": "2026-10-06T19:16:17.160Z",
   "products": {
     "1": {
       "id": "1",
@@ -1780,6 +1780,16 @@
       "currency": "EUR",
       "status": "PreOrder",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-chasing-glory-together-csv10c-slim-chinese-booster-box-15-packs-copie-353901.webp"
+    },
+    "2764": {
+      "id": "2764",
+      "name": "Pokemon TCG: Deck Crafter Collection",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-deck-crafter-collection.html",
+      "sku": "PCI10681",
+      "price": 12.94,
+      "currency": "EUR",
+      "status": "OutOfStock",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-evolution-ninja-spinner-booster-display-30-packs-japanese-copie-376659.png"
     }
   },
   "guard": {
