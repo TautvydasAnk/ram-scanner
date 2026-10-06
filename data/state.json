@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-06T07:01:16.184Z",
+  "scannedAt": "2026-10-06T08:46:16.844Z",
   "products": {
     "1": {
       "id": "1",
@@ -246,7 +246,7 @@
       "name": "Pokémon TCG: Phantasmal Flames Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-phantasmal-flames-elite-trainer-box.html",
       "sku": "PFL01",
-      "price": 84.2,
+      "price": 84.42,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-phantasmal-flare-elite-trainer-box-194859.jpg"
@@ -326,7 +326,7 @@
       "name": "Pokémon TCG: Prismatic Evolutions Accesory Pouch Special Collection",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-prismatic-evolutions-accesory-pouch-special-collection.html",
       "sku": "PRE11",
-      "price": 56.13,
+      "price": 56.28,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-prismatic-evolutions-accesory-pouch-special-collection-323243.jpg"
@@ -396,7 +396,7 @@
       "name": "Pokémon TCG: Prismatic Evolutions Surprise Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-prismatic-evolutions-surprise-box.html",
       "sku": "PRE12",
-      "price": 56.13,
+      "price": 56.28,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-prismatic-evolutions-surprise-box-046130.jpg"
@@ -406,7 +406,7 @@
       "name": "Pokémon TCG: Phantasmal Flames Booster Bundle",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-phantasmal-flames-booster-bundle.html",
       "sku": "PFL02",
-      "price": 46.78,
+      "price": 46.9,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-phantasmal-flare-booster-bundle-045892.jpg"
@@ -446,7 +446,7 @@
       "name": "Pokémon TCG: Phantasmal Flames Build & Battle Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-phantasmal-flames-build-battle-box.html",
       "sku": "PFL03",
-      "price": 46.78,
+      "price": 46.9,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-phantasmal-flames-build-battle-box-126528.jpg"
@@ -926,7 +926,7 @@
       "name": "Pokémon TCG: Phantasmal Flames Mini Portofolio",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-perfect-order-mini-portofolio.html",
       "sku": "PFL0100",
-      "price": 6.36,
+      "price": 6.38,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-phantasmal-flames-mini-portofolio-434492.webp"
@@ -1206,7 +1206,7 @@
       "name": "Pokemon TCG: Prismatic Evolutions Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-prismatic-evolutions-elite-trainer-box.html",
       "sku": "PRE101",
-      "price": 61.56,
+      "price": 61.72,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-prismatic-evolutions-elite-trainer-box-895188.png"
