@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-07T12:31:15.660Z",
+  "scannedAt": "2026-10-07T13:46:21.246Z",
   "products": {
     "POK10463101": {
       "id": "POK10463101",
@@ -128,6 +128,30 @@
       "price": 169.99,
       "currency": "EUR",
       "status": "OutOfStock"
+    },
+    "POK10389101": {
+      "id": "POK10389101",
+      "name": "POKEMON Kolekcinės kortelės TIN SUMMER EX",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-tin-summer-ex-pok10389101",
+      "price": 47.99,
+      "currency": "EUR",
+      "status": "InStock"
+    },
+    "POK10392101": {
+      "id": "POK10392101",
+      "name": "POKEMON Kolekcinės kortelės MINI TIN",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-mini-tin-pok10392101",
+      "price": 18.99,
+      "currency": "EUR",
+      "status": "InStock"
+    },
+    "POK10416101": {
+      "id": "POK10416101",
+      "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės Elite Trainer Box",
+      "url": "https://www.xszaislai.lt/pokemon-tcg-mega-evolution-kolekcines-korteles-elite-trainer-box-pok10416101",
+      "price": 99.99,
+      "currency": "EUR",
+      "status": "InStock"
     },
     "OPCGEB04JP": {
       "id": "OPCGEB04JP",
