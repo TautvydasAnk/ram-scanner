@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-07T06:01:15.030Z",
+  "scannedAt": "2026-10-07T06:46:16.171Z",
   "products": {
     "1": {
       "id": "1",
@@ -306,7 +306,7 @@
       "name": "Pokémon TCG: Summer 2023 Collector Chest - Lunch box [Koraidon & Miraidon]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-summer-2023-collector-chest-lunch-box-koraidon-miraidon.html",
       "sku": "Pokemon03",
-      "price": 44.9,
+      "price": 44.84,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-summer-2023-collector-chest-lunch-box-koraidon-miraidon-521904.jpg"
@@ -646,7 +646,7 @@
       "name": "Pokémon TCG: Back to School Eraser Blister [Smoliv]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-back-to-school-eraser-blister-smoliv.html",
       "sku": "Pokemon10",
-      "price": 18.71,
+      "price": 18.68,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-back-to-school-eraser-blister-smoliv-969503.jpg"
@@ -656,7 +656,7 @@
       "name": "Pokémon TCG: Back to School Eraser Blister [Lechonk]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-back-to-school-eraser-blister-lechonk.html",
       "sku": "Pokemon11",
-      "price": 18.71,
+      "price": 18.68,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-back-to-school-eraser-blister-lechonk-767980.jpg"
@@ -696,7 +696,7 @@
       "name": "Pokémon TCG: Scarlet & Violet Single Pack Blister [Growlithe]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-single-pack-blister-growlithe.html",
       "sku": "SVI03",
-      "price": 8.42,
+      "price": 8.41,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-single-pack-blister-growlithe-326366.jpg"
@@ -1840,6 +1840,26 @@
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon-copie-852275.png"
+    },
+    "2785": {
+      "id": "2785",
+      "name": "Pokemon TCG: 30th Celebration - Figure Collection [Mew]",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-30th-celebration-figure-collection-mew.html",
+      "sku": "PCI10452",
+      "price": 46.71,
+      "currency": "EUR",
+      "status": "OutOfStock",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon-copie-146220.png"
+    },
+    "2786": {
+      "id": "2786",
+      "name": "Pokemon TCG: 30th Celebration - Figure Collection [Mewtwo]",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-30th-celebration-figure-collection-mewtwo.html",
+      "sku": "PCI10452-02",
+      "price": 46.71,
+      "currency": "EUR",
+      "status": "OutOfStock",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-30th-celebration-figure-collection-mew-copie-317431.png"
     }
   },
   "guard": {
