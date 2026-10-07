@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-07T06:46:16.171Z",
+  "scannedAt": "2026-10-07T08:16:16.277Z",
   "products": {
     "1": {
       "id": "1",
@@ -1860,6 +1860,26 @@
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-30th-celebration-figure-collection-mew-copie-317431.png"
+    },
+    "2787": {
+      "id": "2787",
+      "name": "Pokemon TCG: Mega Greninja ex League Battle Deck",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-mega-greninja-ex-league-battle-deck.html",
+      "sku": "PCI10633-101",
+      "price": 37.18,
+      "currency": "EUR",
+      "status": "OutOfStock",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-calyrex-vmax-league-battle-deck-ice-rider-copie-655786.png"
+    },
+    "2800": {
+      "id": "2800",
+      "name": "Pokemon TCG: Prismatic Evolutions Super Premium Collection",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-prismatic-evolutions-super-premium-collection.html",
+      "sku": "PCI10106",
+      "price": 149.46,
+      "currency": "EUR",
+      "status": "OutOfStock",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon-copie-467830.png"
     }
   },
   "guard": {
