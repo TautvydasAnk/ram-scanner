@@ -30,7 +30,11 @@ async function requestText(url, { method = 'GET', headers = {}, body = null } = 
     }
     if (attempt < MAX_RETRIES) await sleep(500 * 2 ** (attempt - 1)); // 500ms, 1s, 2s, …
   }
-  throw new Error(`Failed to fetch ${url} after ${MAX_RETRIES} attempts: ${lastError?.message}`);
+  // Node's fetch reports network failures as a bare "fetch failed"; the real reason
+  // (ECONNRESET, ETIMEDOUT, ECONNREFUSED, TLS errors…) is on err.cause.
+  const cause = lastError?.cause;
+  const detail = cause ? ` (${[cause.code, cause.message].filter(Boolean).join(': ')})` : '';
+  throw new Error(`Failed to fetch ${url} after ${MAX_RETRIES} attempts: ${lastError?.message}${detail}`);
 }
 
 /** GET a URL and return its body as text (HTML). */
