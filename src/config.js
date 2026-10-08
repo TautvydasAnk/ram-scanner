@@ -21,6 +21,15 @@ export const categories = [
 // Origin used to resolve/keep only on-site links when discovering sub-categories.
 export const SITE_ORIGIN = 'https://www.ramcards.ro';
 
+// DNS fallbacks: hostname -> the name it CNAMEs to. If a host's own DNS fails (e.g. its
+// nameservers go unreachable — ramcards.ro did this in Oct 2026, SERVFAIL on Google/Cloudflare
+// and GitHub runners), we resolve the CNAME target instead and connect to that IP while still
+// sending the original hostname (TLS/SNI and Host header unchanged, so the cert stays valid).
+// Normal DNS is always tried first, so this is a no-op once the shop's DNS is healthy.
+export const DNS_FALLBACKS = {
+  'www.ramcards.ro': 'ramcards.gomag.ro',
+};
+
 // Sub-category slugs to skip. The `rN-5` rating filters are duplicate views of the
 // full catalog; the ones past the first are served in a broken "all out of stock"
 // state, so we skip them entirely (type + set sub-categories already cover everything).

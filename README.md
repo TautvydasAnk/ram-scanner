@@ -66,6 +66,11 @@ Runs alongside the email (both fire on the same change; each is independent). Ad
   merging by product ID with the **best availability seen**. Then a **verification pass** re-checks
   the newest `VERIFY_LIMIT` (default 50) out-of-stock items against their authoritative **detail
   page** — the listing bug can only *hide* stock, never invent it, so this catches buried restocks.
+  **DNS fallback:** `ramcards.ro`'s own nameservers can go unreachable (SERVFAIL on public/cloud
+  resolvers, while home resolvers serve a cached answer). `www.ramcards.ro` is a CNAME to GoMag's
+  `ramcards.gomag.ro`, so if the hostname won't resolve, `src/fetch.js` resolves that target
+  instead and connects to it with the original hostname (valid TLS). Configured in
+  `DNS_FALLBACKS` (`config.js`); normal DNS is always tried first.
 - **Žaislų pasaulis** (`src/shops/xszaislai.js`): Magento PWA — the HTML is a JS shell, so we query
   the **GraphQL API** directly and union two sources by SKU: the `pokemon asmodee` **search** (broad
   set) and the `promotion/promo10` **category** (curated list the shop updates first, which includes a

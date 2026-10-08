@@ -9,5 +9,8 @@
   "scripts": {
     "scan": "node src/index.js"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "undici": "^6.29.0"
+  }
 }
