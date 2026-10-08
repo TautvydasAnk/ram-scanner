@@ -1,6 +1,38 @@
 {
-  "scannedAt": "2026-10-07T13:46:21.246Z",
+  "scannedAt": "2026-10-08T04:01:16.577Z",
   "products": {
+    "POK10416101": {
+      "id": "POK10416101",
+      "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės Elite Trainer Box",
+      "url": "https://www.xszaislai.lt/pokemon-tcg-mega-evolution-kolekcines-korteles-elite-trainer-box-pok10416101",
+      "price": 99.99,
+      "currency": "EUR",
+      "status": "InStock"
+    },
+    "POK10410101": {
+      "id": "POK10410101",
+      "name": "POKEMON Kolekcinės kortelės First Partner Collection Box 3",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-first-partner-collection-box-3-pok10410101",
+      "price": 69.99,
+      "currency": "EUR",
+      "status": "InStock"
+    },
+    "POK10389101": {
+      "id": "POK10389101",
+      "name": "POKEMON Kolekcinės kortelės TIN SUMMER EX",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-tin-summer-ex-pok10389101",
+      "price": 47.99,
+      "currency": "EUR",
+      "status": "InStock"
+    },
+    "POK10392101": {
+      "id": "POK10392101",
+      "name": "POKEMON Kolekcinės kortelės MINI TIN",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-mini-tin-pok10392101",
+      "price": 18.99,
+      "currency": "EUR",
+      "status": "InStock"
+    },
     "POK10463101": {
       "id": "POK10463101",
       "name": "POKEMON Kolekcinės kortelės \"30th Celebration\" EX Box",
@@ -9,27 +41,11 @@
       "currency": "EUR",
       "status": "InStock"
     },
-    "POK10467101": {
-      "id": "POK10467101",
-      "name": "POKEMON Kolekcinės kortelės \"30th Celebration\" Poster Collection",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-poster-collection-pok10467101",
-      "price": 49.99,
-      "currency": "EUR",
-      "status": "InStock"
-    },
     "POK10372101": {
       "id": "POK10372101",
       "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės Elite Trainer Box",
       "url": "https://www.xszaislai.lt/pokemon-tcg-mega-evolution-kolekcines-korteles-elite-trainer-box-pok10372101",
       "price": 99.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
-    "POK10412101": {
-      "id": "POK10412101",
-      "name": "POKEMON Kolekcinės kortelės Q2 2026 2-Pack Blister",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-q2-2026-2-pack-blister-pok10412101",
-      "price": 29.99,
       "currency": "EUR",
       "status": "OutOfStock"
     },
@@ -49,11 +65,27 @@
       "currency": "EUR",
       "status": "OutOfStock"
     },
+    "POK10360101": {
+      "id": "POK10360101",
+      "name": "POKEMON TCG Kolekcinės kortelės LEAGUE BATTLE DECK MEGA LUCARIO",
+      "url": "https://www.xszaislai.lt/pokemon-tcg-kolekcines-korteles-league-battle-deck-mega-lucario-pok10360101",
+      "price": 65.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
     "POK10362101": {
       "id": "POK10362101",
       "name": "POKEMON TCG Kolekcinės kortelės DECK CHAMP WORLD",
       "url": "https://www.xszaislai.lt/pokemon-tcg-kolekcines-korteles-deck-champ-world-pok10362101",
       "price": 44.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
+    "POK10412101": {
+      "id": "POK10412101",
+      "name": "POKEMON Kolekcinės kortelės Q2 2026 2-Pack Blister",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-q2-2026-2-pack-blister-pok10412101",
+      "price": 29.99,
       "currency": "EUR",
       "status": "OutOfStock"
     },
@@ -81,22 +113,6 @@
       "currency": "EUR",
       "status": "OutOfStock"
     },
-    "POK10410101": {
-      "id": "POK10410101",
-      "name": "POKEMON Kolekcinės kortelės First Partner Collection Box 3",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-first-partner-collection-box-3-pok10410101",
-      "price": 69.99,
-      "currency": "EUR",
-      "status": "InStock"
-    },
-    "POK10360101": {
-      "id": "POK10360101",
-      "name": "POKEMON TCG Kolekcinės kortelės LEAGUE BATTLE DECK MEGA LUCARIO",
-      "url": "https://www.xszaislai.lt/pokemon-tcg-kolekcines-korteles-league-battle-deck-mega-lucario-pok10360101",
-      "price": 65.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
     "POK10450101": {
       "id": "POK10450101",
       "name": "POKEMON Kolekcinės kortelės \"30th Celebration\" Binder Collection",
@@ -110,6 +126,14 @@
       "name": "POKEMON Kolekcinės kortelės \"30th Celebration\" EX Tin",
       "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-ex-tin-pok10466101",
       "price": 69.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
+    "POK10467101": {
+      "id": "POK10467101",
+      "name": "POKEMON Kolekcinės kortelės \"30th Celebration\" Poster Collection",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-poster-collection-pok10467101",
+      "price": 49.99,
       "currency": "EUR",
       "status": "OutOfStock"
     },
@@ -128,30 +152,6 @@
       "price": 169.99,
       "currency": "EUR",
       "status": "OutOfStock"
-    },
-    "POK10389101": {
-      "id": "POK10389101",
-      "name": "POKEMON Kolekcinės kortelės TIN SUMMER EX",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-tin-summer-ex-pok10389101",
-      "price": 47.99,
-      "currency": "EUR",
-      "status": "InStock"
-    },
-    "POK10392101": {
-      "id": "POK10392101",
-      "name": "POKEMON Kolekcinės kortelės MINI TIN",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-mini-tin-pok10392101",
-      "price": 18.99,
-      "currency": "EUR",
-      "status": "InStock"
-    },
-    "POK10416101": {
-      "id": "POK10416101",
-      "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės Elite Trainer Box",
-      "url": "https://www.xszaislai.lt/pokemon-tcg-mega-evolution-kolekcines-korteles-elite-trainer-box-pok10416101",
-      "price": 99.99,
-      "currency": "EUR",
-      "status": "InStock"
     },
     "OPCGEB04JP": {
       "id": "OPCGEB04JP",
