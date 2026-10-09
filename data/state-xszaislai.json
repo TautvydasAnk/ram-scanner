@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-09T04:01:15.256Z",
+  "scannedAt": "2026-10-09T09:16:18.008Z",
   "products": {
     "POK10416101": {
       "id": "POK10416101",
@@ -25,19 +25,19 @@
       "currency": "EUR",
       "status": "InStock"
     },
-    "POK10392101": {
-      "id": "POK10392101",
-      "name": "POKEMON Kolekcinės kortelės MINI TIN",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-mini-tin-pok10392101",
-      "price": 18.99,
-      "currency": "EUR",
-      "status": "InStock"
-    },
     "POK10389101": {
       "id": "POK10389101",
       "name": "POKEMON Kolekcinės kortelės TIN SUMMER EX",
       "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-tin-summer-ex-pok10389101",
       "price": 47.99,
+      "currency": "EUR",
+      "status": "InStock"
+    },
+    "POK10392101": {
+      "id": "POK10392101",
+      "name": "POKEMON Kolekcinės kortelės MINI TIN",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-mini-tin-pok10392101",
+      "price": 18.99,
       "currency": "EUR",
       "status": "InStock"
     },
@@ -49,14 +49,6 @@
       "currency": "EUR",
       "status": "OutOfStock"
     },
-    "POK10106": {
-      "id": "POK10106",
-      "name": "POKEMON Kolekcinės kortelės Prismatic Evolutions Super Premium Collection SV8.5 - Eevee",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-prismatic-evolutions-super-premium-collection-sv8-5-eevee-pok10106",
-      "price": 359.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
     "POK10652": {
       "id": "POK10652",
       "name": "POKEMON Kolekcinės kortelės SV10 ETBs",
@@ -65,11 +57,11 @@
       "currency": "EUR",
       "status": "OutOfStock"
     },
-    "POK10466101": {
-      "id": "POK10466101",
-      "name": "POKEMON Kolekcinės kortelės \"30th Celebration\" EX Tin",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-ex-tin-pok10466101",
-      "price": 69.99,
+    "POK10360101": {
+      "id": "POK10360101",
+      "name": "POKEMON TCG Kolekcinės kortelės LEAGUE BATTLE DECK MEGA LUCARIO",
+      "url": "https://www.xszaislai.lt/pokemon-tcg-kolekcines-korteles-league-battle-deck-mega-lucario-pok10360101",
+      "price": 65.99,
       "currency": "EUR",
       "status": "OutOfStock"
     },
@@ -89,14 +81,6 @@
       "currency": "EUR",
       "status": "OutOfStock"
     },
-    "POK10666102": {
-      "id": "POK10666102",
-      "name": "POKEMON Kolekcinės kortelės \"30th Celebration\" 2-Pack Blister Collection",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-2-pack-blister-collection-pok10666102",
-      "price": 24.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
     "POK10425101": {
       "id": "POK10425101",
       "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės Booster",
@@ -113,6 +97,22 @@
       "currency": "EUR",
       "status": "OutOfStock"
     },
+    "POK10404108": {
+      "id": "POK10404108",
+      "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės Blister",
+      "url": "https://www.xszaislai.lt/pokemon-tcg-mega-evolution-kolekcines-korteles-blister-pok10404108",
+      "price": 9.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
+    "POK10106": {
+      "id": "POK10106",
+      "name": "POKEMON Kolekcinės kortelės Prismatic Evolutions Super Premium Collection SV8.5 - Eevee",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-prismatic-evolutions-super-premium-collection-sv8-5-eevee-pok10106",
+      "price": 359.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
     "POK10450101": {
       "id": "POK10450101",
       "name": "POKEMON Kolekcinės kortelės \"30th Celebration\" Binder Collection",
@@ -121,11 +121,11 @@
       "currency": "EUR",
       "status": "OutOfStock"
     },
-    "POK10360101": {
-      "id": "POK10360101",
-      "name": "POKEMON TCG Kolekcinės kortelės LEAGUE BATTLE DECK MEGA LUCARIO",
-      "url": "https://www.xszaislai.lt/pokemon-tcg-kolekcines-korteles-league-battle-deck-mega-lucario-pok10360101",
-      "price": 65.99,
+    "POK10466101": {
+      "id": "POK10466101",
+      "name": "POKEMON Kolekcinės kortelės \"30th Celebration\" EX Tin",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-ex-tin-pok10466101",
+      "price": 69.99,
       "currency": "EUR",
       "status": "OutOfStock"
     },
@@ -137,11 +137,11 @@
       "currency": "EUR",
       "status": "OutOfStock"
     },
-    "POK10404108": {
-      "id": "POK10404108",
-      "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės Blister",
-      "url": "https://www.xszaislai.lt/pokemon-tcg-mega-evolution-kolekcines-korteles-blister-pok10404108",
-      "price": 9.99,
+    "POK10666102": {
+      "id": "POK10666102",
+      "name": "POKEMON Kolekcinės kortelės \"30th Celebration\" 2-Pack Blister Collection",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-2-pack-blister-collection-pok10666102",
+      "price": 24.99,
       "currency": "EUR",
       "status": "OutOfStock"
     },
@@ -151,7 +151,7 @@
       "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-trenerio-rinkinys-pok10447101",
       "price": 169.99,
       "currency": "EUR",
-      "status": "OutOfStock"
+      "status": "InStock"
     },
     "PKMM2AJP": {
       "id": "PKMM2AJP",
