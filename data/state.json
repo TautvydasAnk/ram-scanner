@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-10T12:01:16.605Z",
+  "scannedAt": "2026-10-10T14:46:18.381Z",
   "products": {
     "1": {
       "id": "1",
@@ -1068,7 +1068,7 @@
       "sku": "PCI10403",
       "price": 46.62,
       "currency": "EUR",
-      "status": "InStock",
+      "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-booster-bundle-522457.png"
     },
     "970": {
