@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-13T13:16:21.600Z",
+  "scannedAt": "2026-10-13T14:31:20.512Z",
   "products": {
     "1": {
       "id": "1",
@@ -1596,9 +1596,9 @@
       "name": "Pokemon TCG: 30th Celebration (30th C) - Simplified Chinese Booster Box (20 Packs)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-30th-celebration-30th-c-simplified-chinese-booster-box-20-packs.html",
       "sku": "POKEMON-CHINESE-CEL",
-      "price": 131.15,
+      "price": 149.89,
       "currency": "EUR",
-      "status": "PreOrder",
+      "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-gem-pack-vol-4-chinese-booster-box-18-packs-copie-347421.png"
     },
     "1931": {
@@ -1676,9 +1676,9 @@
       "name": "Pokemon TCG: Dream Painting Eevee & Evolutions (Eevee & Friends)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-dream-painting-eevee-evolutions-eevee-friends.html",
       "sku": "POKEMON-CHINESE-16",
-      "price": 35.6,
+      "price": 37.47,
       "currency": "EUR",
-      "status": "PreOrder",
+      "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-dream-painting-vol-1-water-ecology-figure-set-copie-439545.png"
     },
     "2017": {
@@ -1686,9 +1686,9 @@
       "name": "Pokemon TCG: Dream Painting Pikachu 30th Celebration",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-dream-painting-pikachu-30th-celebration.html",
       "sku": "POKEMON-CHINESE-17",
-      "price": 35.6,
+      "price": 41.22,
       "currency": "EUR",
-      "status": "PreOrder",
+      "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-dream-painting-eevee-evolutions-eevee-friends-copie-846766.png"
     },
     "2379": {
