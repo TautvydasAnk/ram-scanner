@@ -1,14 +1,6 @@
 {
-  "scannedAt": "2026-10-13T20:31:16.555Z",
+  "scannedAt": "2026-10-15T04:01:15.277Z",
   "products": {
-    "POK10389101": {
-      "id": "POK10389101",
-      "name": "POKEMON Kolekcinės kortelės TIN SUMMER EX",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-tin-summer-ex-pok10389101",
-      "price": 47.99,
-      "currency": "EUR",
-      "status": "InStock"
-    },
     "POK10416101": {
       "id": "POK10416101",
       "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės Elite Trainer Box",
@@ -33,6 +25,14 @@
       "currency": "EUR",
       "status": "InStock"
     },
+    "POK10389101": {
+      "id": "POK10389101",
+      "name": "POKEMON Kolekcinės kortelės TIN SUMMER EX",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-tin-summer-ex-pok10389101",
+      "price": 47.99,
+      "currency": "EUR",
+      "status": "InStock"
+    },
     "POK10392101": {
       "id": "POK10392101",
       "name": "POKEMON Kolekcinės kortelės MINI TIN",
@@ -45,7 +45,23 @@
       "id": "POK10447101",
       "name": "POKEMON Kolekcinės kortelės „30th Celebration“, trenerio rinkinys",
       "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-trenerio-rinkinys-pok10447101",
-      "price": 169.99,
+      "price": 160.99,
+      "currency": "EUR",
+      "status": "InStock"
+    },
+    "POK10451101": {
+      "id": "POK10451101",
+      "name": "POKEMON Kolekcinės kortelės „30th Celebration“",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-pok10451101",
+      "price": 80.99,
+      "currency": "EUR",
+      "status": "InStock"
+    },
+    "POK10465101": {
+      "id": "POK10465101",
+      "name": "POKEMON Kolekcinės kortelės „30th Celebration“, mini skardinė",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-mini-skardine-pok10465101",
+      "price": 32.99,
       "currency": "EUR",
       "status": "InStock"
     },
@@ -69,14 +85,6 @@
       "id": "POK10652",
       "name": "POKEMON Kolekcinės kortelės SV10 ETBs",
       "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-sv10-etbs-pok10652",
-      "price": 99.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
-    "POK10450101": {
-      "id": "POK10450101",
-      "name": "POKEMON Kolekcinės kortelės „30th Celebration\" Binder Collection",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-binder-collection-pok10450101",
       "price": 99.99,
       "currency": "EUR",
       "status": "OutOfStock"
@@ -137,11 +145,11 @@
       "currency": "EUR",
       "status": "OutOfStock"
     },
-    "POK10404108": {
-      "id": "POK10404108",
-      "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės Blister",
-      "url": "https://www.xszaislai.lt/pokemon-tcg-mega-evolution-kolekcines-korteles-blister-pok10404108",
-      "price": 9.99,
+    "POK10450101": {
+      "id": "POK10450101",
+      "name": "POKEMON Kolekcinės kortelės „30th Celebration\" Binder Collection",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-binder-collection-pok10450101",
+      "price": 99.99,
       "currency": "EUR",
       "status": "OutOfStock"
     },
@@ -149,6 +157,14 @@
       "id": "POK10378108",
       "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės Blister",
       "url": "https://www.xszaislai.lt/pokemon-tcg-mega-evolution-kolekcines-korteles-blister-pok10378108",
+      "price": 9.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
+    "POK10404108": {
+      "id": "POK10404108",
+      "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės Blister",
+      "url": "https://www.xszaislai.lt/pokemon-tcg-mega-evolution-kolekcines-korteles-blister-pok10404108",
       "price": 9.99,
       "currency": "EUR",
       "status": "OutOfStock"
