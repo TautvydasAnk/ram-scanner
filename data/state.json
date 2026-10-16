@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-16T04:46:18.359Z",
+  "scannedAt": "2026-10-16T06:16:19.487Z",
   "products": {
     "1": {
       "id": "1",
@@ -1628,7 +1628,7 @@
       "sku": "POKEMON-M7-01",
       "price": 140.47,
       "currency": "EUR",
-      "status": "InStock",
+      "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-evolution-ninja-spinner-booster-display-30-packs-japanese-copie-857231.png"
     },
     "2011": {
