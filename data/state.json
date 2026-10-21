@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-21T04:01:17.015Z",
+  "scannedAt": "2026-10-21T04:16:16.279Z",
   "products": {
     "1": {
       "id": "1",
@@ -326,7 +326,7 @@
       "name": "Pokémon TCG: Prismatic Evolutions Accesory Pouch Special Collection",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-prismatic-evolutions-accesory-pouch-special-collection.html",
       "sku": "PRE11",
-      "price": 56.21,
+      "price": 56.31,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-prismatic-evolutions-accesory-pouch-special-collection-323243.jpg"
@@ -336,7 +336,7 @@
       "name": "Pokémon TCG: Mega Evolution Build & Battle Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-evolution-build-battle-box.html",
       "sku": "MEG04",
-      "price": 46.84,
+      "price": 46.93,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-evolution-build-battle-box-388452.jpg"
@@ -396,7 +396,7 @@
       "name": "Pokémon TCG: Prismatic Evolutions Surprise Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-prismatic-evolutions-surprise-box.html",
       "sku": "PRE12",
-      "price": 56.21,
+      "price": 56.31,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-prismatic-evolutions-surprise-box-046130.jpg"
@@ -476,7 +476,7 @@
       "name": "Pokémon TCG: Mega Lucario ex Premium Figure Collection",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-lucario-ex-premium-figure-collection.html",
       "sku": "MEG05",
-      "price": 65.58,
+      "price": 65.7,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-lucario-ex-premium-figure-collection-930680.webp"
@@ -536,7 +536,7 @@
       "name": "Pokémon TCG: Mega Latias ex Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-latias-ex-box.html",
       "sku": "MEG06",
-      "price": 32.79,
+      "price": 32.85,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-latias-ex-box-021049.jpg"
@@ -576,7 +576,7 @@
       "name": "Pokémon TCG: Mega Evolution 3 Pack Blister [Psyduck]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-evolution-3-pack-blister-psyduck.html",
       "sku": "MEG07",
-      "price": 28.11,
+      "price": 28.16,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-evolution-3-pack-blister-psyduck-224471.jpg"
@@ -586,7 +586,7 @@
       "name": "Pokémon TCG: Mega Evolution 3 Pack Blister [Golduck]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-evolution-3-pack-blister-golduck.html",
       "sku": "MEG08",
-      "price": 23.42,
+      "price": 23.46,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-evolution-3-pack-blister-golduck-512904.jpg"
@@ -666,7 +666,7 @@
       "name": "Pokémon TCG: Back to School Eraser Blister [Gengar]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-back-to-school-eraser-blister-gengar.html",
       "sku": "Pokemon12",
-      "price": 23.42,
+      "price": 23.46,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-back-to-school-eraser-blister-gengar-004929.jpg"
@@ -676,7 +676,7 @@
       "name": "Pokémon TCG: Scarlet & Violet Premium Checklane Blister [Machamp]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-premium-checklane-blister-machamp.html",
       "sku": "SVI01",
-      "price": 9.37,
+      "price": 9.39,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-premium-checklane-blister-machamp-464979.jpg"
@@ -686,7 +686,7 @@
       "name": "Pokémon TCG: Scarlet & Violet Single Pack Blister [Espathra]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-single-pack-blister-espanthra.html",
       "sku": "SVI02",
-      "price": 8.43,
+      "price": 8.45,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-single-pack-blister-espanthra-792076.jpg"
@@ -706,7 +706,7 @@
       "name": "Pokémon TCG: Scarlet & Violet Single Pack Blister [Spidops]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-single-pack-blister-spidops.html",
       "sku": "SVI04",
-      "price": 8.43,
+      "price": 8.45,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-single-pack-blister-spidops-323289.jpg"
@@ -1026,7 +1026,7 @@
       "name": "Pokémon TCG: Back to School Eraser Blister [Bellibolt]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-back-to-school-eraser-blister-bellibolt.html",
       "sku": "Pokemon-EraserBlister",
-      "price": 23.42,
+      "price": 23.46,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-back-to-school-eraser-blister-gengar-copie-702679.jpg"
@@ -1206,7 +1206,7 @@
       "name": "Pokemon TCG: Prismatic Evolutions Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-prismatic-evolutions-elite-trainer-box.html",
       "sku": "PRE101",
-      "price": 61.65,
+      "price": 61.76,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-prismatic-evolutions-elite-trainer-box-895188.png"
