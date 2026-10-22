@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-22T10:46:18.861Z",
+  "scannedAt": "2026-10-22T11:01:18.285Z",
   "products": {
     "1": {
       "id": "1",
@@ -1778,7 +1778,7 @@
       "sku": "PCI10681",
       "price": 12.95,
       "currency": "EUR",
-      "status": "OutOfStock",
+      "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-evolution-ninja-spinner-booster-display-30-packs-japanese-copie-376659.png"
     },
     "2779": {
