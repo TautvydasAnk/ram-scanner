@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-24T10:01:16.816Z",
+  "scannedAt": "2026-10-24T10:46:17.157Z",
   "products": {
     "1": {
       "id": "1",
@@ -296,7 +296,7 @@
       "name": "Pokémon TCG: Charizard ex Special Collection",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-charizard-ex-special-collection.html",
       "sku": "Pokemon02",
-      "price": 46.58,
+      "price": 46.73,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-charizard-ex-special-collection-084006.jpg"
@@ -326,7 +326,7 @@
       "name": "Pokémon TCG: Prismatic Evolutions Accesory Pouch Special Collection",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-prismatic-evolutions-accesory-pouch-special-collection.html",
       "sku": "PRE11",
-      "price": 56.29,
+      "price": 56.08,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-prismatic-evolutions-accesory-pouch-special-collection-323243.jpg"
@@ -376,7 +376,7 @@
       "name": "Pokémon TCG: Iono/'s Bellibolt ex Premium Collection",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-iono-s-bellibolt-ex-premium-collection.html",
       "sku": "Pokemon04",
-      "price": 55.89,
+      "price": 56.08,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-iono-s-bellibolt-ex-premium-collection-470401.jpg"
@@ -396,7 +396,7 @@
       "name": "Pokémon TCG: Prismatic Evolutions Surprise Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-prismatic-evolutions-surprise-box.html",
       "sku": "PRE12",
-      "price": 56.29,
+      "price": 56.08,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-prismatic-evolutions-surprise-box-046130.jpg"
@@ -526,7 +526,7 @@
       "name": "Pokémon TCG: Hop/'s Zacia ex Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-hop-s-zacia-ex-box.html",
       "sku": "Pokemon08",
-      "price": 32.6,
+      "price": 32.71,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-hop-s-zacia-ex-box-001708.jpg"
@@ -716,7 +716,7 @@
       "name": "Scarlet & Violet-Journey Together Booster Sleeved Booster Pack",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/scarlet-violet-journey-together-booster-sleeved-booster-pack.html",
       "sku": "JTG03",
-      "price": 5.59,
+      "price": 5.61,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/scarlet-violet-journey-together-booster-sleeved-booster-pack-205210.jpg"
@@ -1206,7 +1206,7 @@
       "name": "Pokemon TCG: Prismatic Evolutions Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-prismatic-evolutions-elite-trainer-box.html",
       "sku": "PRE101",
-      "price": 61.73,
+      "price": 61.5,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-prismatic-evolutions-elite-trainer-box-895188.png"
