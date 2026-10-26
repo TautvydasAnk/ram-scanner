@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-26T08:16:19.940Z",
+  "scannedAt": "2026-10-26T11:01:16.837Z",
   "products": {
     "1": {
       "id": "1",
@@ -1706,9 +1706,9 @@
       "name": "Preorder Pokemon TCG: Delta Reign Booster Box Display (36 Packs)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-delta-reign-booster-box-display-36-packs.html",
       "sku": "DELTA-BB-01",
-      "price": 201.89,
+      "price": 220.58,
       "currency": "EUR",
-      "status": "OutOfStock",
+      "status": "PreOrder",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-pitch-black-booster-box-display-36-packs-copie-127099.webp"
     },
     "2381": {
@@ -1726,9 +1726,9 @@
       "name": "Preorder Pokemon TCG: Delta Reign Booster Bundle",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-delta-reign-booster-bundle.html",
       "sku": "DELTA-BUNDLES-01",
-      "price": 41.13,
+      "price": 42.99,
       "currency": "EUR",
-      "status": "OutOfStock",
+      "status": "PreOrder",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-pitch-black-booster-bundle-copie-729340.webp"
     },
     "2383": {
