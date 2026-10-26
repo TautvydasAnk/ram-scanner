@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-26T05:01:18.407Z",
+  "scannedAt": "2026-10-26T08:16:19.940Z",
   "products": {
     "1": {
       "id": "1",
@@ -1078,7 +1078,7 @@
       "sku": "PCI10407",
       "price": 214.97,
       "currency": "EUR",
-      "status": "InStock",
+      "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-booster-box-display-127381.png"
     },
     "971": {
