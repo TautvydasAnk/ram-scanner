@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-23T13:16:16.359Z",
+  "scannedAt": "2026-10-26T14:16:19.043Z",
   "products": {
     "POK10416101": {
       "id": "POK10416101",
@@ -184,30 +184,6 @@
       "price": 32.99,
       "currency": "EUR",
       "status": "InStock"
-    },
-    "37EB6D9F6": {
-      "id": "37EB6D9F6",
-      "name": "POKEMON Kolekcinių kortelių albumas (400 kortelių)",
-      "url": "https://www.xszaislai.lt/pokemon-kolekciniu-korteliu-albumas-400-korteliu-37eb6d9f6",
-      "price": 24.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
-    "B7A7DCCE3": {
-      "id": "B7A7DCCE3",
-      "name": "POKEMON Kolekcinių kortelių albumas (400 kortelių)",
-      "url": "https://www.xszaislai.lt/pokemon-kolekciniu-korteliu-albumas-400-korteliu-b7a7dcce3",
-      "price": 24.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
-    "PKMM6JP": {
-      "id": "PKMM6JP",
-      "name": "POKEMON TCG MEGA Expansion „Storm Emeralda\" (M6) – Japanese booster",
-      "url": "https://www.xszaislai.lt/pokemon-tcg-mega-expansion-storm-emeralda-m6-japanese-booster-pkmm6jp",
-      "price": 10.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
     }
   },
   "guard": {
