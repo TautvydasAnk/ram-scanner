@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-27T06:16:16.135Z",
+  "scannedAt": "2026-10-27T09:01:19.520Z",
   "products": {
     "POK10416101": {
       "id": "POK10416101",
@@ -73,19 +73,19 @@
       "currency": "EUR",
       "status": "InStock"
     },
-    "POK10466101": {
-      "id": "POK10466101",
-      "name": "POKEMON Kolekcinės kortelės „30th Celebration\" EX Tin",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-ex-tin-pok10466101",
-      "price": 69.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
     "POK10652": {
       "id": "POK10652",
       "name": "POKEMON Kolekcinės kortelės SV10 ETBs",
       "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-sv10-etbs-pok10652",
       "price": 99.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
+    "POK10466101": {
+      "id": "POK10466101",
+      "name": "POKEMON Kolekcinės kortelės „30th Celebration\" EX Tin",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-ex-tin-pok10466101",
+      "price": 69.99,
       "currency": "EUR",
       "status": "OutOfStock"
     },
@@ -103,7 +103,7 @@
       "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-2-pack-blister-collection-pok10666102",
       "price": 24.99,
       "currency": "EUR",
-      "status": "InStock"
+      "status": "OutOfStock"
     },
     "POK10425101": {
       "id": "POK10425101",
