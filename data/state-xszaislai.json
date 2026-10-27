@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-27T09:01:19.520Z",
+  "scannedAt": "2026-10-27T15:46:17.438Z",
   "products": {
     "POK10416101": {
       "id": "POK10416101",
@@ -22,14 +22,6 @@
       "name": "POKEMON Kolekcinės kortelės „30th Celebration\" EX Box",
       "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-ex-box-pok10463101",
       "price": 69.99,
-      "currency": "EUR",
-      "status": "InStock"
-    },
-    "POK10389101": {
-      "id": "POK10389101",
-      "name": "POKEMON Kolekcinės kortelės TIN SUMMER EX",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-tin-summer-ex-pok10389101",
-      "price": 47.99,
       "currency": "EUR",
       "status": "InStock"
     },
@@ -94,6 +86,14 @@
       "name": "POKEMON Kolekcinės kortelės „30th Celebration\" Poster Collection",
       "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-poster-collection-pok10467101",
       "price": 49.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
+    "POK10389101": {
+      "id": "POK10389101",
+      "name": "POKEMON Kolekcinės kortelės TIN SUMMER EX",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-tin-summer-ex-pok10389101",
+      "price": 47.99,
       "currency": "EUR",
       "status": "OutOfStock"
     },
