@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-28T09:31:17.087Z",
+  "scannedAt": "2026-10-28T13:31:23.050Z",
   "products": {
     "POK10416101": {
       "id": "POK10416101",
@@ -111,7 +111,7 @@
       "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-trenerio-rinkinys-pok10447101",
       "price": 160.99,
       "currency": "EUR",
-      "status": "OutOfStock"
+      "status": "InStock"
     },
     "PKMM2AJP": {
       "id": "PKMM2AJP",
