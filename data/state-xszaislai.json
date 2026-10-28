@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-28T14:31:16.406Z",
+  "scannedAt": "2026-10-28T15:16:20.432Z",
   "products": {
     "POK10416101": {
       "id": "POK10416101",
@@ -111,7 +111,39 @@
       "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-trenerio-rinkinys-pok10447101",
       "price": 160.99,
       "currency": "EUR",
-      "status": "OutOfStock"
+      "status": "InStock"
+    },
+    "PKMM2AJP": {
+      "id": "PKMM2AJP",
+      "name": "POKEMON TCG MEGA High Class Pack „MEGA Dream ex\" (M2a) – Japanese booster",
+      "url": "https://www.xszaislai.lt/pokemon-tcg-mega-high-class-pack-mega-dream-ex-m2a-japanese-booster-pkmm2ajp",
+      "price": 24.99,
+      "currency": "EUR",
+      "status": "InStock"
+    },
+    "PKMM5JP": {
+      "id": "PKMM5JP",
+      "name": "POKEMON TCG MEGA Expansion „Abyss Eye\" (M5) – Japanese booster",
+      "url": "https://www.xszaislai.lt/pokemon-tcg-mega-expansion-abyss-eye-m5-japanese-booster-pkmm5jp",
+      "price": 8.99,
+      "currency": "EUR",
+      "status": "InStock"
+    },
+    "PKMSV11BJP": {
+      "id": "PKMSV11BJP",
+      "name": "POKEMON TCG Scarlet & Violet Expansion „Black Bolt\" (SV11B) – Japanese booster",
+      "url": "https://www.xszaislai.lt/pokemon-tcg-scarlet-violet-expansion-black-bolt-sv11b-japanese-booster-pkmsv11bjp",
+      "price": 22.99,
+      "currency": "EUR",
+      "status": "InStock"
+    },
+    "PKMM6AJP": {
+      "id": "PKMM6AJP",
+      "name": "POKEMON TCG MEGA Expansion \"30th CELEBRATION\" (M6a) – Japanese booster",
+      "url": "https://www.xszaislai.lt/pokemon-tcg-mega-expansion-30th-celebration-m6a-japanese-booster-pkmm6ajp",
+      "price": 32.99,
+      "currency": "EUR",
+      "status": "InStock"
     }
   },
   "guard": {
