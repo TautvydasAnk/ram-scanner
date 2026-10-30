@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-30T14:16:20.404Z",
+  "scannedAt": "2026-10-30T14:31:15.990Z",
   "products": {
     "1": {
       "id": "1",
@@ -1706,7 +1706,7 @@
       "name": "Preorder Pokemon TCG: Delta Reign Booster Box Display (36 Packs)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-delta-reign-booster-box-display-36-packs.html",
       "sku": "DELTA-BB-01",
-      "price": 220.77,
+      "price": 202.06,
       "currency": "EUR",
       "status": "PreOrder",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-pitch-black-booster-box-display-36-packs-copie-127099.webp"
@@ -1726,7 +1726,7 @@
       "name": "Preorder Pokemon TCG: Delta Reign Booster Bundle",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-delta-reign-booster-bundle.html",
       "sku": "DELTA-BUNDLES-01",
-      "price": 43.03,
+      "price": 41.16,
       "currency": "EUR",
       "status": "PreOrder",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-pitch-black-booster-bundle-copie-729340.webp"
@@ -1836,9 +1836,9 @@
       "name": "Pokemon TCG: 30th Celebration - Figure Collection [Mew]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-30th-celebration-figure-collection-mew.html",
       "sku": "PCI10452",
-      "price": 46.77,
+      "price": 65.48,
       "currency": "EUR",
-      "status": "OutOfStock",
+      "status": "PreOrder",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon-copie-146220.png"
     },
     "2786": {
@@ -1846,9 +1846,9 @@
       "name": "Pokemon TCG: 30th Celebration - Figure Collection [Mewtwo]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-30th-celebration-figure-collection-mewtwo.html",
       "sku": "PCI10452-02",
-      "price": 46.77,
+      "price": 65.48,
       "currency": "EUR",
-      "status": "OutOfStock",
+      "status": "PreOrder",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-30th-celebration-figure-collection-mew-copie-317431.png"
     },
     "2787": {
