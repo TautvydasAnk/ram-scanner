@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-30T14:46:21.806Z",
+  "scannedAt": "2026-10-30T15:16:19.849Z",
   "products": {
     "1": {
       "id": "1",
@@ -1696,7 +1696,7 @@
       "name": "Preorder Pokemon TCG: Delta Reign Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-delta-reign-elite-trainer-box.html",
       "sku": "DELTA-ETB-01",
-      "price": 71.1,
+      "price": 65.48,
       "currency": "EUR",
       "status": "PreOrder",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-destined-rivals-elite-trainer-box-copie-592525.webp"
@@ -1726,7 +1726,7 @@
       "name": "Preorder Pokemon TCG: Delta Reign Booster Bundle",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-delta-reign-booster-bundle.html",
       "sku": "DELTA-BUNDLES-01",
-      "price": 41.16,
+      "price": 37.42,
       "currency": "EUR",
       "status": "PreOrder",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-pitch-black-booster-bundle-copie-729340.webp"
@@ -1838,7 +1838,7 @@
       "sku": "PCI10452",
       "price": 65.48,
       "currency": "EUR",
-      "status": "PreOrder",
+      "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon-copie-146220.png"
     },
     "2786": {
@@ -1848,7 +1848,7 @@
       "sku": "PCI10452-02",
       "price": 65.48,
       "currency": "EUR",
-      "status": "PreOrder",
+      "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-30th-celebration-figure-collection-mew-copie-317431.png"
     },
     "2787": {
