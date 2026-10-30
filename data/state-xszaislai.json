@@ -1,6 +1,22 @@
 {
-  "scannedAt": "2026-10-29T14:46:17.228Z",
+  "scannedAt": "2026-10-30T06:46:15.695Z",
   "products": {
+    "POK10680101": {
+      "id": "POK10680101",
+      "name": "POKEMON TCG Kolekcinės kortelės Enhanced 2-pack October 26’",
+      "url": "https://www.xszaislai.lt/pokemon-tcg-kolekcines-korteles-enhanced-2-pack-october-26-pok10680101",
+      "price": 29.99,
+      "currency": "EUR",
+      "status": "InStock"
+    },
+    "POK10392101": {
+      "id": "POK10392101",
+      "name": "POKEMON Kolekcinės kortelės MINI TIN",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-mini-tin-pok10392101",
+      "price": 18.99,
+      "currency": "EUR",
+      "status": "InStock"
+    },
     "POK10416101": {
       "id": "POK10416101",
       "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės Elite Trainer Box",
@@ -17,19 +33,11 @@
       "currency": "EUR",
       "status": "InStock"
     },
-    "POK10680101": {
-      "id": "POK10680101",
-      "name": "POKEMON TCG Kolekcinės kortelės Enhanced 2-pack October 26’",
-      "url": "https://www.xszaislai.lt/pokemon-tcg-kolekcines-korteles-enhanced-2-pack-october-26-pok10680101",
-      "price": 29.99,
-      "currency": "EUR",
-      "status": "InStock"
-    },
-    "POK10392101": {
-      "id": "POK10392101",
-      "name": "POKEMON Kolekcinės kortelės MINI TIN",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-mini-tin-pok10392101",
-      "price": 18.99,
+    "POK10465101": {
+      "id": "POK10465101",
+      "name": "POKEMON Kolekcinės kortelės „30th Celebration“, mini skardinė",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-mini-skardine-pok10465101",
+      "price": 32.99,
       "currency": "EUR",
       "status": "InStock"
     },
@@ -48,30 +56,6 @@
       "price": 80.99,
       "currency": "EUR",
       "status": "InStock"
-    },
-    "POK10465101": {
-      "id": "POK10465101",
-      "name": "POKEMON Kolekcinės kortelės „30th Celebration“, mini skardinė",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-mini-skardine-pok10465101",
-      "price": 32.99,
-      "currency": "EUR",
-      "status": "InStock"
-    },
-    "POK10652": {
-      "id": "POK10652",
-      "name": "POKEMON Kolekcinės kortelės SV10 ETBs",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-sv10-etbs-pok10652",
-      "price": 99.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
-    "POK10466101": {
-      "id": "POK10466101",
-      "name": "POKEMON Kolekcinės kortelės „30th Celebration\" EX Tin",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-ex-tin-pok10466101",
-      "price": 69.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
     },
     "POK10410101": {
       "id": "POK10410101",
@@ -94,6 +78,22 @@
       "name": "POKEMON Kolekcinės kortelės TIN SUMMER EX",
       "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-tin-summer-ex-pok10389101",
       "price": 47.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
+    "POK10652": {
+      "id": "POK10652",
+      "name": "POKEMON Kolekcinės kortelės SV10 ETBs",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-sv10-etbs-pok10652",
+      "price": 99.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
+    "POK10466101": {
+      "id": "POK10466101",
+      "name": "POKEMON Kolekcinės kortelės „30th Celebration\" EX Tin",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-ex-tin-pok10466101",
+      "price": 69.99,
       "currency": "EUR",
       "status": "OutOfStock"
     },
@@ -144,6 +144,14 @@
       "price": 32.99,
       "currency": "EUR",
       "status": "InStock"
+    },
+    "POK10468101": {
+      "id": "POK10468101",
+      "name": "POKEMON TCG 30th Celebration Kolekcinės kortelės „Battle Deck Ex“",
+      "url": "https://www.xszaislai.lt/pokemon-tcg-30th-celebration-kolekcines-korteles-battle-deck-ex-pok10468101",
+      "price": 53.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
     }
   },
   "guard": {
