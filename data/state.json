@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-30T13:46:18.187Z",
+  "scannedAt": "2026-10-30T14:01:18.600Z",
   "products": {
     "1": {
       "id": "1",
@@ -546,7 +546,7 @@
       "name": "Pokémon TCG: Paradox Destinies Tin [Iron Boulder ex]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-paradox-destinies-tin-iron-boulder-ex.html",
       "sku": "PAR01",
-      "price": 28.04,
+      "price": 28.06,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-paradox-destinies-tin-iron-boulder-ex-002221.jpg"
@@ -596,7 +596,7 @@
       "name": "Pokémon TCG: Paradox Destinies Tin [Iron Crown ex]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-paradox-destinies-tin-iron-crown-ex.html",
       "sku": "PAR04",
-      "price": 28.04,
+      "price": 28.06,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-paradox-destinies-tin-iron-crown-ex-688562.jpg"
@@ -616,7 +616,7 @@
       "name": "Pokémon TCG: Paradox Destinies Tin [Raging Bolt ex]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-paradox-destinies-tin-raging-bolt-ex.html",
       "sku": "PAR05",
-      "price": 28.04,
+      "price": 28.06,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-paradox-destinies-tin-raging-bolt-ex-434534.jpg"
@@ -636,7 +636,7 @@
       "name": "Pokémon TCG: Paradox Rift 3 Pack Blister [Arctibax]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-paradox-rift-3-pack-blister-arctibax.html",
       "sku": "PAR06",
-      "price": 28.04,
+      "price": 28.06,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-paradox-rift-3-pack-blister-arctibax-515506.jpg"
@@ -1696,9 +1696,9 @@
       "name": "Preorder Pokemon TCG: Delta Reign Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-delta-reign-elite-trainer-box.html",
       "sku": "DELTA-ETB-01",
-      "price": 61.74,
+      "price": 71.1,
       "currency": "EUR",
-      "status": "OutOfStock",
+      "status": "PreOrder",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-destined-rivals-elite-trainer-box-copie-592525.webp"
     },
     "2380": {
@@ -1726,9 +1726,9 @@
       "name": "Preorder Pokemon TCG: Delta Reign Booster Bundle",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-delta-reign-booster-bundle.html",
       "sku": "DELTA-BUNDLES-01",
-      "price": 43.03,
+      "price": 44.9,
       "currency": "EUR",
-      "status": "OutOfStock",
+      "status": "PreOrder",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-pitch-black-booster-bundle-copie-729340.webp"
     },
     "2383": {
@@ -1736,9 +1736,9 @@
       "name": "Preorder Pokemon TCG: Delta Reign 3 Pack Blister",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-delta-reign-3-pack-blister.html",
       "sku": "DELTA-BLISTER-01",
-      "price": 18.52,
+      "price": 20.39,
       "currency": "EUR",
-      "status": "OutOfStock",
+      "status": "PreOrder",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-pitch-black-3-pack-blister-copie-865553.webp"
     },
     "2500": {
