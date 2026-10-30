@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-30T06:46:15.695Z",
+  "scannedAt": "2026-10-30T07:31:15.396Z",
   "products": {
     "POK10680101": {
       "id": "POK10680101",
@@ -151,7 +151,7 @@
       "url": "https://www.xszaislai.lt/pokemon-tcg-30th-celebration-kolekcines-korteles-battle-deck-ex-pok10468101",
       "price": 53.99,
       "currency": "EUR",
-      "status": "OutOfStock"
+      "status": "InStock"
     }
   },
   "guard": {
