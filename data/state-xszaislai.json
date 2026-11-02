@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-02T05:01:17.916Z",
+  "scannedAt": "2026-11-02T13:16:19.922Z",
   "products": {
     "POK10468101": {
       "id": "POK10468101",
@@ -41,6 +41,14 @@
       "currency": "EUR",
       "status": "InStock"
     },
+    "POK10465101": {
+      "id": "POK10465101",
+      "name": "POKEMON Kolekcinės kortelės „30th Celebration“, mini skardinė",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-mini-skardine-pok10465101",
+      "price": 32.99,
+      "currency": "EUR",
+      "status": "InStock"
+    },
     "POK10447101": {
       "id": "POK10447101",
       "name": "POKEMON Kolekcinės kortelės „30th Celebration“, trenerio rinkinys",
@@ -57,19 +65,35 @@
       "currency": "EUR",
       "status": "InStock"
     },
-    "POK10465101": {
-      "id": "POK10465101",
-      "name": "POKEMON Kolekcinės kortelės „30th Celebration“, mini skardinė",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-mini-skardine-pok10465101",
-      "price": 32.99,
-      "currency": "EUR",
-      "status": "InStock"
-    },
     "POK10372101": {
       "id": "POK10372101",
       "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės Elite Trainer Box",
       "url": "https://www.xszaislai.lt/pokemon-tcg-mega-evolution-kolekcines-korteles-elite-trainer-box-pok10372101",
       "price": 99.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
+    "POK10467101": {
+      "id": "POK10467101",
+      "name": "POKEMON Kolekcinės kortelės „30th Celebration\" Poster Collection",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-poster-collection-pok10467101",
+      "price": 49.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
+    "POK10404108": {
+      "id": "POK10404108",
+      "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės Blister",
+      "url": "https://www.xszaislai.lt/pokemon-tcg-mega-evolution-kolekcines-korteles-blister-pok10404108",
+      "price": 9.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
+    "POK10425101": {
+      "id": "POK10425101",
+      "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės Booster",
+      "url": "https://www.xszaislai.lt/pokemon-tcg-mega-evolution-kolekcines-korteles-booster-pok10425101",
+      "price": 9.99,
       "currency": "EUR",
       "status": "OutOfStock"
     },
@@ -137,30 +161,6 @@
       "currency": "EUR",
       "status": "OutOfStock"
     },
-    "POK10467101": {
-      "id": "POK10467101",
-      "name": "POKEMON Kolekcinės kortelės „30th Celebration\" Poster Collection",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-poster-collection-pok10467101",
-      "price": 49.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
-    "POK10404108": {
-      "id": "POK10404108",
-      "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės Blister",
-      "url": "https://www.xszaislai.lt/pokemon-tcg-mega-evolution-kolekcines-korteles-blister-pok10404108",
-      "price": 9.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
-    "POK10425101": {
-      "id": "POK10425101",
-      "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės Booster",
-      "url": "https://www.xszaislai.lt/pokemon-tcg-mega-evolution-kolekcines-korteles-booster-pok10425101",
-      "price": 9.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
     "PKMM2AJP": {
       "id": "PKMM2AJP",
       "name": "POKEMON TCG MEGA High Class Pack „MEGA Dream ex\" (M2a) – Japanese booster",
@@ -192,6 +192,14 @@
       "price": 32.99,
       "currency": "EUR",
       "status": "InStock"
+    },
+    "POK10617": {
+      "id": "POK10617",
+      "name": "POKEMON Kolekcinės kortelės SV10 boosters",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-sv10-boosters-pok10617",
+      "price": 8.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
     },
     "37EB6D9F6": {
       "id": "37EB6D9F6",
