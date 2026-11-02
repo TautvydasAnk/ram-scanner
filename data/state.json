@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-01T16:16:17.639Z",
+  "scannedAt": "2026-11-02T08:46:18.865Z",
   "products": {
     "1": {
       "id": "1",
@@ -1718,7 +1718,7 @@
       "sku": "DELTA-PACKS-01",
       "price": 5.62,
       "currency": "EUR",
-      "status": "OutOfStock",
+      "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-pitch-black-sleeved-booster-pack-copie-463438.webp"
     },
     "2382": {
