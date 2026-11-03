@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-02T13:16:19.922Z",
+  "scannedAt": "2026-11-03T07:31:17.086Z",
   "products": {
     "POK10468101": {
       "id": "POK10468101",
@@ -41,14 +41,6 @@
       "currency": "EUR",
       "status": "InStock"
     },
-    "POK10465101": {
-      "id": "POK10465101",
-      "name": "POKEMON Kolekcinės kortelės „30th Celebration“, mini skardinė",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-mini-skardine-pok10465101",
-      "price": 32.99,
-      "currency": "EUR",
-      "status": "InStock"
-    },
     "POK10447101": {
       "id": "POK10447101",
       "name": "POKEMON Kolekcinės kortelės „30th Celebration“, trenerio rinkinys",
@@ -65,35 +57,19 @@
       "currency": "EUR",
       "status": "InStock"
     },
+    "POK10465101": {
+      "id": "POK10465101",
+      "name": "POKEMON Kolekcinės kortelės „30th Celebration“, mini skardinė",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-mini-skardine-pok10465101",
+      "price": 32.99,
+      "currency": "EUR",
+      "status": "InStock"
+    },
     "POK10372101": {
       "id": "POK10372101",
       "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės Elite Trainer Box",
       "url": "https://www.xszaislai.lt/pokemon-tcg-mega-evolution-kolekcines-korteles-elite-trainer-box-pok10372101",
       "price": 99.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
-    "POK10467101": {
-      "id": "POK10467101",
-      "name": "POKEMON Kolekcinės kortelės „30th Celebration\" Poster Collection",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-poster-collection-pok10467101",
-      "price": 49.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
-    "POK10404108": {
-      "id": "POK10404108",
-      "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės Blister",
-      "url": "https://www.xszaislai.lt/pokemon-tcg-mega-evolution-kolekcines-korteles-blister-pok10404108",
-      "price": 9.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
-    "POK10425101": {
-      "id": "POK10425101",
-      "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės Booster",
-      "url": "https://www.xszaislai.lt/pokemon-tcg-mega-evolution-kolekcines-korteles-booster-pok10425101",
-      "price": 9.99,
       "currency": "EUR",
       "status": "OutOfStock"
     },
@@ -118,6 +94,14 @@
       "name": "POKEMON TCG Kolekcinės kortelės LEAGUE BATTLE DECK MEGA LUCARIO",
       "url": "https://www.xszaislai.lt/pokemon-tcg-kolekcines-korteles-league-battle-deck-mega-lucario-pok10360101",
       "price": 65.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
+    "POK10467101": {
+      "id": "POK10467101",
+      "name": "POKEMON Kolekcinės kortelės „30th Celebration\" Poster Collection",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-poster-collection-pok10467101",
+      "price": 49.99,
       "currency": "EUR",
       "status": "OutOfStock"
     },
@@ -161,67 +145,27 @@
       "currency": "EUR",
       "status": "OutOfStock"
     },
-    "PKMM2AJP": {
-      "id": "PKMM2AJP",
-      "name": "POKEMON TCG MEGA High Class Pack „MEGA Dream ex\" (M2a) – Japanese booster",
-      "url": "https://www.xszaislai.lt/pokemon-tcg-mega-high-class-pack-mega-dream-ex-m2a-japanese-booster-pkmm2ajp",
-      "price": 24.99,
+    "POK10404108": {
+      "id": "POK10404108",
+      "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės Blister",
+      "url": "https://www.xszaislai.lt/pokemon-tcg-mega-evolution-kolekcines-korteles-blister-pok10404108",
+      "price": 9.99,
       "currency": "EUR",
-      "status": "InStock"
+      "status": "OutOfStock"
     },
-    "PKMM5JP": {
-      "id": "PKMM5JP",
-      "name": "POKEMON TCG MEGA Expansion „Abyss Eye\" (M5) – Japanese booster",
-      "url": "https://www.xszaislai.lt/pokemon-tcg-mega-expansion-abyss-eye-m5-japanese-booster-pkmm5jp",
-      "price": 8.99,
+    "POK10425101": {
+      "id": "POK10425101",
+      "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės Booster",
+      "url": "https://www.xszaislai.lt/pokemon-tcg-mega-evolution-kolekcines-korteles-booster-pok10425101",
+      "price": 9.99,
       "currency": "EUR",
-      "status": "InStock"
-    },
-    "PKMSV11BJP": {
-      "id": "PKMSV11BJP",
-      "name": "POKEMON TCG Scarlet & Violet Expansion „Black Bolt\" (SV11B) – Japanese booster",
-      "url": "https://www.xszaislai.lt/pokemon-tcg-scarlet-violet-expansion-black-bolt-sv11b-japanese-booster-pkmsv11bjp",
-      "price": 22.99,
-      "currency": "EUR",
-      "status": "InStock"
-    },
-    "PKMM6AJP": {
-      "id": "PKMM6AJP",
-      "name": "POKEMON TCG MEGA Expansion \"30th CELEBRATION\" (M6a) – Japanese booster",
-      "url": "https://www.xszaislai.lt/pokemon-tcg-mega-expansion-30th-celebration-m6a-japanese-booster-pkmm6ajp",
-      "price": 32.99,
-      "currency": "EUR",
-      "status": "InStock"
+      "status": "OutOfStock"
     },
     "POK10617": {
       "id": "POK10617",
       "name": "POKEMON Kolekcinės kortelės SV10 boosters",
       "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-sv10-boosters-pok10617",
       "price": 8.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
-    "37EB6D9F6": {
-      "id": "37EB6D9F6",
-      "name": "POKEMON Kolekcinių kortelių albumas (400 kortelių)",
-      "url": "https://www.xszaislai.lt/pokemon-kolekciniu-korteliu-albumas-400-korteliu-37eb6d9f6",
-      "price": 24.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
-    "B7A7DCCE3": {
-      "id": "B7A7DCCE3",
-      "name": "POKEMON Kolekcinių kortelių albumas (400 kortelių)",
-      "url": "https://www.xszaislai.lt/pokemon-kolekciniu-korteliu-albumas-400-korteliu-b7a7dcce3",
-      "price": 24.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
-    "PKMM6JP": {
-      "id": "PKMM6JP",
-      "name": "POKEMON TCG MEGA Expansion „Storm Emeralda\" (M6) – Japanese booster",
-      "url": "https://www.xszaislai.lt/pokemon-tcg-mega-expansion-storm-emeralda-m6-japanese-booster-pkmm6jp",
-      "price": 10.99,
       "currency": "EUR",
       "status": "OutOfStock"
     }
