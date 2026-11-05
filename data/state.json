@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-05T13:46:19.518Z",
+  "scannedAt": "2026-11-05T14:01:26.665Z",
   "products": {
     "1": {
       "id": "1",
@@ -56,7 +56,7 @@
       "name": "Pokémon TCG: Scarlet & Violet-Prismatic Evolutions Mini Tin (Glaceon)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-glaceon.html",
       "sku": "PRE04",
-      "price": 20.4,
+      "price": 20.39,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-vaporeon-copie-145172.jpg"
@@ -66,7 +66,7 @@
       "name": "Pokémon TCG: Scarlet & Violet-Prismatic Evolutions Mini Tin (Jolteon)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-jolteon.html",
       "sku": "PRE05",
-      "price": 20.4,
+      "price": 20.39,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-glaceon-copie-578938.jpg"
@@ -356,7 +356,7 @@
       "name": "Pokémon TCG: Paldea Partners Tin [Quaquaval ex]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-paldea-partners-tin-quaquaval-ex.html",
       "sku": "PAL02",
-      "price": 28.08,
+      "price": 28.07,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-paldea-partners-tin-quaquaval-ex-998684.jpg"
@@ -366,7 +366,7 @@
       "name": "Pokémon TCG: Paldea Partners Tin [Meowscarada ex]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-paldea-partners-tin-meowscarada-ex.html",
       "sku": "PAL03",
-      "price": 28.08,
+      "price": 28.07,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-paldea-partners-tin-meowscarada-ex-410230.jpg"
@@ -386,7 +386,7 @@
       "name": "Pokémon TCG: Fall 2023 Collector Chest - Lunch box [Charizard]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-fall-2023-collector-chest-lunch-box-charizard.html",
       "sku": "Pokemon05",
-      "price": 46.8,
+      "price": 46.78,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-fall-2023-collector-chest-lunch-box-charizard-833967.jpg"
@@ -466,7 +466,7 @@
       "name": "Pokémon TCG: Back to School 2024 Collector Chest",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-back-to-school-2024-collector-chest.html",
       "sku": "Pokemon06",
-      "price": 44.93,
+      "price": 44.91,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-back-to-school-2024-collector-chest-132164.jpg"
@@ -1626,7 +1626,7 @@
       "name": "Pokemon TCG: Mega Evolution - Storm Emerald Booster Display (30 Packs) [Japanese]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-mega-evolution-storm-emerald-booster-display-30-packs-japanese.html",
       "sku": "POKEMON-M7-01",
-      "price": 140.41,
+      "price": 140.34,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-evolution-ninja-spinner-booster-display-30-packs-japanese-copie-857231.png"
@@ -1693,18 +1693,18 @@
     },
     "2379": {
       "id": "2379",
-      "name": "Preorder Pokemon TCG: Delta Reign Elite Trainer Box",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-delta-reign-elite-trainer-box.html",
+      "name": "Pokemon TCG: Delta Reign Elite Trainer Box",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-delta-reign-elite-trainer-box.html",
       "sku": "DELTA-ETB-01",
-      "price": 71.1,
+      "price": 61.75,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-destined-rivals-elite-trainer-box-copie-592525.webp"
     },
     "2380": {
       "id": "2380",
-      "name": "Preorder Pokemon TCG: Delta Reign Booster Box Display (36 Packs)",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-delta-reign-booster-box-display-36-packs.html",
+      "name": "Pokemon TCG: Delta Reign Booster Box Display (36 Packs)",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-delta-reign-booster-box-display-36-packs.html",
       "sku": "DELTA-BB-01",
       "price": 220.8,
       "currency": "EUR",
@@ -1713,8 +1713,8 @@
     },
     "2381": {
       "id": "2381",
-      "name": "Preorder Pokemon TCG: Delta Reign Sleeved Booster Pack",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-delta-reign-sleeved-booster-pack.html",
+      "name": "Pokemon TCG: Delta Reign Sleeved Booster Pack",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-delta-reign-sleeved-booster-pack.html",
       "sku": "DELTA-PACKS-01",
       "price": 5.61,
       "currency": "EUR",
@@ -1723,8 +1723,8 @@
     },
     "2382": {
       "id": "2382",
-      "name": "Preorder Pokemon TCG: Delta Reign Booster Bundle",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-delta-reign-booster-bundle.html",
+      "name": "Pokemon TCG: Delta Reign Booster Bundle",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-delta-reign-booster-bundle.html",
       "sku": "DELTA-BUNDLES-01",
       "price": 41.17,
       "currency": "EUR",
@@ -1733,8 +1733,8 @@
     },
     "2383": {
       "id": "2383",
-      "name": "Preorder Pokemon TCG: Delta Reign 3 Pack Blister",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-delta-reign-3-pack-blister.html",
+      "name": "Pokemon TCG: Delta Reign 3 Pack Blister",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-delta-reign-3-pack-blister.html",
       "sku": "DELTA-BLISTER-01",
       "price": 20.4,
       "currency": "EUR",
@@ -1846,7 +1846,7 @@
       "name": "Pokemon TCG: 30th Celebration - Figure Collection [Mewtwo]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-30th-celebration-figure-collection-mewtwo.html",
       "sku": "PCI10452-02",
-      "price": 65.49,
+      "price": 46.59,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-30th-celebration-figure-collection-mew-copie-317431.png"
