@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-07T11:01:15.489Z",
+  "scannedAt": "2026-11-07T11:16:16.548Z",
   "products": {
     "1": {
       "id": "1",
@@ -1890,6 +1890,16 @@
       "currency": "EUR",
       "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-delta-reign-premium-checklane-blister-ampharos-copie-952877.webp"
+    },
+    "4175": {
+      "id": "4175",
+      "name": "Pokemon TCG: Gem Pack Vol. 7 Chinese Booster Box (18 Packs)",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-gem-pack-vol-7-chinese-booster-box-18-packs.html",
+      "sku": "POKEMON-CHINESE-07-8994",
+      "price": 56.17,
+      "currency": "EUR",
+      "status": "InStock",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-gem-pack-vol-6-chinese-booster-box-18-packs-copie-342292.png"
     }
   },
   "guard": {
