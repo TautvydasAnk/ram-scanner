@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-07T05:16:16.325Z",
+  "scannedAt": "2026-11-07T05:31:18.133Z",
   "products": {
     "1": {
       "id": "1",
@@ -336,7 +336,7 @@
       "name": "Pokémon TCG: Mega Evolution Build & Battle Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-evolution-build-battle-box.html",
       "sku": "MEG04",
-      "price": 46.86,
+      "price": 46.81,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-evolution-build-battle-box-388452.jpg"
@@ -416,7 +416,7 @@
       "name": "Pokémon TCG: Team Rocket Tin [Persian]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-team-rocket-tin-persian.html",
       "sku": "DRI01",
-      "price": 37.3,
+      "price": 37.26,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-team-rocket-tin-persian-735475.png"
@@ -426,7 +426,7 @@
       "name": "Pokémon TCG: Team Rocket Tin [Mewtwo]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-team-rocket-tin-mewtwo.html",
       "sku": "DRI02",
-      "price": 37.3,
+      "price": 37.26,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-team-rocket-tin-mewtwo-028389.png"
@@ -436,7 +436,7 @@
       "name": "Pokémon TCG: Team Rocket Tin [Nidoking]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-team-rocket-tin-nidoking.html",
       "sku": "DRI03",
-      "price": 37.3,
+      "price": 37.26,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-team-rocket-tin-nidoking-880758.webp"
@@ -456,7 +456,7 @@
       "name": "Pokémon TCG: Team Rocket/'s Mewtwo ex Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-team-rocket-s-mewtwo-ex-box.html",
       "sku": "DRI04",
-      "price": 46.86,
+      "price": 46.81,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-team-rocket-s-mewtwo-ex-box-384625.jpg"
@@ -476,7 +476,7 @@
       "name": "Pokémon TCG: Mega Lucario ex Premium Figure Collection",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-lucario-ex-premium-figure-collection.html",
       "sku": "MEG05",
-      "price": 65.6,
+      "price": 65.53,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-lucario-ex-premium-figure-collection-930680.webp"
@@ -486,7 +486,7 @@
       "name": "Pokémon TCG: Annihilape ex Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-annihilape-ex-box.html",
       "sku": "Pokemon07",
-      "price": 32.8,
+      "price": 32.77,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-annihilape-ex-box-550547.jpeg"
@@ -536,7 +536,7 @@
       "name": "Pokémon TCG: Mega Latias ex Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-latias-ex-box.html",
       "sku": "MEG06",
-      "price": 32.8,
+      "price": 32.77,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-latias-ex-box-021049.jpg"
@@ -576,7 +576,7 @@
       "name": "Pokémon TCG: Mega Evolution 3 Pack Blister [Psyduck]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-evolution-3-pack-blister-psyduck.html",
       "sku": "MEG07",
-      "price": 28.11,
+      "price": 28.09,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-evolution-3-pack-blister-psyduck-224471.jpg"
@@ -586,7 +586,7 @@
       "name": "Pokémon TCG: Mega Evolution 3 Pack Blister [Golduck]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-evolution-3-pack-blister-golduck.html",
       "sku": "MEG08",
-      "price": 23.43,
+      "price": 23.4,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-evolution-3-pack-blister-golduck-512904.jpg"
@@ -816,7 +816,7 @@
       "name": "Pokémon TCG: First Partner Illustration Collection - Series 1",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-first-partner-illustration-collection-series-1.html",
       "sku": "PCI10358",
-      "price": 19.68,
+      "price": 19.66,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-first-partner-illustration-collection-series-1-722731.webp"
@@ -1176,7 +1176,7 @@
       "name": "BUNDLE: 4x Booster Packs Destined Rivals (DRI) + Album 4 Pocket A5",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/bundle-4x-booster-packs-destined-rivals-dri-album-4-pocket-a5.html",
       "sku": "BUNDLE-DESTINED",
-      "price": 37.49,
+      "price": 37.45,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/bundle-4x-booster-packs-destined-rivals-dri-album-4-pocket-a5-714067.png"
@@ -1196,7 +1196,7 @@
       "name": "Pokémon TCG: Scarlet & Violet-Destined Rivals Booster Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-scarlet-violet-destined-rivals-booster-box.html",
       "sku": "PCI10617-8255",
-      "price": 168.69,
+      "price": 168.51,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-destined-rivals-booster-pack-copie-729429.jpg"
@@ -1216,7 +1216,7 @@
       "name": "Pokemon TCG: First Partner Illustration Collection - Series 3",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-first-partner-illustration-collection-series-3.html",
       "sku": "FirstPartner02",
-      "price": 24.18,
+      "price": 24.15,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-first-partner-illustration-collection-series-3-534502.jpg"
@@ -1346,7 +1346,7 @@
       "name": "Pokemon TCG: First Partner Illustration Collection - Series 3",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-first-partner-illustration-collection-series-3-2.html",
       "sku": "FirstPartner03",
-      "price": 24.18,
+      "price": 24.15,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-first-partner-illustration-collection-series-2-2689339101.jpg"
@@ -1466,7 +1466,7 @@
       "name": "Pokemon TCG: Destined Rivals Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-destined-rivals-elite-trainer-box.html",
       "sku": "DRI-ETB-01",
-      "price": 65.6,
+      "price": 65.53,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-30th-anniversary-elite-trainer-box-copie-360182.webp"
