@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-09T05:01:17.259Z",
+  "scannedAt": "2026-11-09T06:16:30.620Z",
   "products": {
     "POK10468101": {
       "id": "POK10468101",
@@ -249,6 +249,14 @@
       "currency": "EUR",
       "status": "OutOfStock"
     },
+    "POK10448101": {
+      "id": "POK10448101",
+      "name": "POKEMON Kolekcinės kortelės \"30th Celebration\" Ultra Premium Collection",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-ultra-premium-collection-pok10448101",
+      "price": 449.99,
+      "currency": "EUR",
+      "status": "InStock"
+    },
     "PKMM2AJP": {
       "id": "PKMM2AJP",
       "name": "POKEMON TCG MEGA High Class Pack „MEGA Dream ex\" (M2a) – Japanese booster",
@@ -278,6 +286,14 @@
       "name": "POKEMON TCG MEGA Expansion \"30th CELEBRATION\" (M6a) – Japanese booster",
       "url": "https://www.xszaislai.lt/pokemon-tcg-mega-expansion-30th-celebration-m6a-japanese-booster-pkmm6ajp",
       "price": 32.99,
+      "currency": "EUR",
+      "status": "InStock"
+    },
+    "POK10681101": {
+      "id": "POK10681101",
+      "name": "POKEMON TCG Kolekcinės kortelės Deck Crafter´s Collection",
+      "url": "https://www.xszaislai.lt/pokemon-tcg-kolekcines-korteles-deck-crafter-s-collection-pok10681101",
+      "price": 22.99,
       "currency": "EUR",
       "status": "InStock"
     },
