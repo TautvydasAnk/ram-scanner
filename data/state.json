@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-10T17:01:24.036Z",
+  "scannedAt": "2026-11-10T17:16:21.432Z",
   "products": {
     "1": {
       "id": "1",
@@ -316,7 +316,7 @@
       "name": "Pokémon TCG: Black Bolt Booster Bundle",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-black-bolt-booster-bundle.html",
       "sku": "BLK03",
-      "price": 46.79,
+      "price": 46.78,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-black-bolt-booster-bundle-222890.jpg"
@@ -1726,7 +1726,7 @@
       "name": "Pokemon TCG: Delta Reign Booster Bundle",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-delta-reign-booster-bundle.html",
       "sku": "DELTA-BUNDLES-01",
-      "price": 41.17,
+      "price": 44.91,
       "currency": "EUR",
       "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-pitch-black-booster-bundle-copie-729340.webp"
