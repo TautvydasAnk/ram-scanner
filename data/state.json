@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-10T17:31:16.054Z",
+  "scannedAt": "2026-11-10T17:46:18.709Z",
   "products": {
     "1": {
       "id": "1",
@@ -856,7 +856,7 @@
       "name": "Pokémon TCG: Perfect Order Booster Bundle",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-perfect-order-booster-bundle.html",
       "sku": "PCI10377-101",
-      "price": 29.01,
+      "price": 29,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/846851.jpeg"
@@ -866,7 +866,7 @@
       "name": "Pokémon TCG: Perfect Order Booster Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-perfect-order-booster-box.html",
       "sku": "PCI10380",
-      "price": 185.3,
+      "price": 185.24,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-perfect-order-booster-bundle-copie-834885.webp"
@@ -886,7 +886,7 @@
       "name": "Pokémon TCG: Perfect Order Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-perfect-order-elite-trainer-box-etb.html",
       "sku": "PCI10372",
-      "price": 74.87,
+      "price": 74.85,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-perfect-order-booster-box-copie-452110.webp"
@@ -1016,7 +1016,7 @@
       "name": "Pokémon TCG: Perfect Order Build & Battle Bundle",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-perfect-order-build-and-battle-bundle.html",
       "sku": "PCI10373",
-      "price": 29.95,
+      "price": 29.94,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-ascended-heroes-booster-bundle-copie-419672.jpg"
@@ -1036,7 +1036,7 @@
       "name": "Pokémon TCG: Mega Zygarde ex Premium Collection Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-mega-zygarde-ex-premium-collection-box.html",
       "sku": "PCI10359",
-      "price": 54.09,
+      "price": 54.08,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-iono-s-bellibolt-ex-premium-collection-copie-804892.webp"
@@ -1156,7 +1156,7 @@
       "name": "Pokémon TCG: Perfect Order 3 Pack Blister",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-perfect-order-3-pack-blister.html",
       "sku": "PCI10375",
-      "price": 17.78,
+      "price": 17.77,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-3-pack-blister-copie-706446.webp"
