@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-11T05:01:16.138Z",
+  "scannedAt": "2026-11-11T05:16:17.636Z",
   "products": {
     "1": {
       "id": "1",
@@ -96,7 +96,7 @@
       "name": "Pokémon TCG: Scarlet & Violet-Prismatic Evolutions Mini Tin (Umbreon)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-umbreon.html",
       "sku": "PRE08",
-      "price": 23.4,
+      "price": 23.39,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-flareon-copie-660198.jpg"
@@ -106,7 +106,7 @@
       "name": "Pokémon TCG: Mega Evolution - Ascended Heroes Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokémon-tcg-mega-evolution-ascended-heroes-elite-trainer-box.html",
       "sku": "ASC01",
-      "price": 59.71,
+      "price": 59.69,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-mega-evolution-ascended-heroes-elite-trainer-box-782805.jpg"
@@ -116,7 +116,7 @@
       "name": "Pokémon TCG: Scarlet & Violet-Stellar Crown Booster Display Box (36 Packs)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-stellar-crown-booster-display-box-36-packs.html",
       "sku": "SCR01",
-      "price": 168.46,
+      "price": 168.4,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-stellar-crown-booster-display-box-36-packs-082012.jpg"
@@ -126,7 +126,7 @@
       "name": "Pokémon TCG: Scarlet & Violet-Stellar Crown Booster Pack",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-stellar-crown-booster-pack.html",
       "sku": "SCR02",
-      "price": 5.62,
+      "price": 5.61,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-stellar-crown-booster-pack-525707.png"
@@ -136,7 +136,7 @@
       "name": "Pokémon TCG: Scarlet & Violet-Surging Sparks Booster Display Box (36 Packs)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-surging-sparks-booster-display-box-36-packs.html",
       "sku": "SSP01",
-      "price": 168.46,
+      "price": 168.4,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-surging-sparks-booster-display-box-36-packs-911240.jpg"
@@ -156,7 +156,7 @@
       "name": "Pokémon TCG: Mega Charizard X ex Ultra-Premium Collection",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-charizard-x-ex-ultra-premium-collection.html",
       "sku": "UPC01",
-      "price": 205.89,
+      "price": 205.83,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection-477247.jpg"
@@ -166,7 +166,7 @@
       "name": "Pokémon TCG: Scarlet & Violet-Prismatic Evolutions Mini Tin Display (8 Mini Tins)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-display-8-mini-tins.html",
       "sku": "PRE09",
-      "price": 168.46,
+      "price": 168.4,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-display-8-mini-tins-511361.jpg"
@@ -176,7 +176,7 @@
       "name": "Pokémon TCG: Mega Heroes Mini Tin Display (10 Mini Tins)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-heroes-mini-tin-display-10-mini-tins.html",
       "sku": "MEG01",
-      "price": 168.46,
+      "price": 168.4,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-heroes-mini-tin-display-10-mini-tins-858576.jpg"
@@ -186,7 +186,7 @@
       "name": "Pokémon TCG: Unova Mini Tin Display (8 Mini Tins)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-unova-mini-tin-display-8-mini-tins.html",
       "sku": "BLK01",
-      "price": 168.46,
+      "price": 168.4,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-unova-mini-tin-display-8-mini-tins-673773.jpg"
@@ -196,7 +196,7 @@
       "name": "Pokémon TCG: Prismatic Evolutions Premium Figure Collection",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-prismatic-evolutions-premium-figure-collection.html",
       "sku": "PRE10",
-      "price": 187.17,
+      "price": 187.12,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-prismatic-evolutions-premium-figure-collection-103700.jpg"
@@ -206,7 +206,7 @@
       "name": "Pokémon TCG: Mega Evolution Elite Trainer Box [Mega Lucario]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-evolution-elite-trainer-box-mega-lucario.html",
       "sku": "MEG02",
-      "price": 84.23,
+      "price": 84.2,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-evolution-elite-trainer-box-mega-lucario-431279.jpg"
@@ -216,7 +216,7 @@
       "name": "Pokémon TCG: Mega Evolution Elite Trainer Box [Mega Gardevoir]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-mega-evolution-elite-trainer-box-mega-gardevoir.html",
       "sku": "MEG03",
-      "price": 84.23,
+      "price": 84.2,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-evolution-elite-trainer-box-mega-gardevoir-684166.jpg"
@@ -226,7 +226,7 @@
       "name": "Pokémon TCG: Black Bolt Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-black-bolt-elite-trainer-box.html",
       "sku": "BLK02",
-      "price": 74.87,
+      "price": 74.85,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-black-bolt-elite-trainer-box-342513.jpg"
@@ -236,7 +236,7 @@
       "name": "Pokémon TCG: White Flare Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-white-flare-elite-trainer-box.html",
       "sku": "WHT01",
-      "price": 74.87,
+      "price": 74.85,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-white-flare-elite-trainer-box-518015.jpg"
@@ -246,7 +246,7 @@
       "name": "Pokémon TCG: Phantasmal Flames Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-phantasmal-flames-elite-trainer-box.html",
       "sku": "PFL01",
-      "price": 84.23,
+      "price": 84.2,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-phantasmal-flare-elite-trainer-box-194859.jpg"
@@ -256,7 +256,7 @@
       "name": "Pokémon TCG: Paldean Fates Tin [Great Tusk ex] USA edition",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-paldean-fates-tin-great-tusk-ex-usa-edition.html",
       "sku": "PAF01",
-      "price": 74.87,
+      "price": 74.85,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-paldean-fates-tin-great-tusk-ex-usa-edition-632080.jpg"
@@ -266,7 +266,7 @@
       "name": "Pokémon TCG: Paldean Fates Tin [Great Tusk ex] EU edition",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-paldean-fates-tin-great-tusk-ex-eu-edition.html",
       "sku": "PAF02",
-      "price": 56.15,
+      "price": 56.13,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-paldean-fates-tin-great-tusk-ex-eu-edition-864102.jpg"
@@ -296,7 +296,7 @@
       "name": "Pokémon TCG: Charizard ex Special Collection",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-charizard-ex-special-collection.html",
       "sku": "Pokemon02",
-      "price": 46.79,
+      "price": 46.78,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-charizard-ex-special-collection-084006.jpg"
@@ -346,7 +346,7 @@
       "name": "Pokémon TCG: White Flare Booster Bundle",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-white-flare-booster-bundle.html",
       "sku": "WHT02",
-      "price": 51.47,
+      "price": 51.46,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-white-flare-booster-bundle-586362.jpeg"
@@ -376,7 +376,7 @@
       "name": "Pokémon TCG: Iono/'s Bellibolt ex Premium Collection",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-iono-s-bellibolt-ex-premium-collection.html",
       "sku": "Pokemon04",
-      "price": 56.15,
+      "price": 56.13,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-iono-s-bellibolt-ex-premium-collection-470401.jpg"
@@ -526,7 +526,7 @@
       "name": "Pokémon TCG: Hop/'s Zacia ex Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-hop-s-zacia-ex-box.html",
       "sku": "Pokemon08",
-      "price": 32.76,
+      "price": 32.75,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-hop-s-zacia-ex-box-001708.jpg"
@@ -746,7 +746,7 @@
       "name": "Pokémon TCG: Mega Evolution - Ascended Heroes Tech Sticker Collection",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokémon-tcg-mega-evolution-ascended-heroes-tech-sticker-collection.html",
       "sku": "ASC03",
-      "price": 22.46,
+      "price": 22.45,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-mega-evolution-ascended-heroes-tech-sticker-collection-364725.jpg"
@@ -756,7 +756,7 @@
       "name": "TCG: Mega Evolution - Ascended Heroes Mini Tin Display (10 mini-tins)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokémon-tcg-mega-evolution-ascended-heroes-mini-tin-display-10-mini-tins.html",
       "sku": "ASC04",
-      "price": 121.66,
+      "price": 121.62,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-mega-evolution-ascended-heroes-mini-tin-display-10-mini-tins-504075.jpg"
@@ -766,7 +766,7 @@
       "name": "Pokémon TCG: Mega Evolution - Ascended Heroes Mini Tin (Togepi)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokémon-tcg-mega-evolution-ascended-heroes-mini-tin-display-togepi.html",
       "sku": "ASC05",
-      "price": 12.73,
+      "price": 12.72,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-mega-evolution-ascended-heroes-mini-tin-display-049018.webp"
@@ -776,7 +776,7 @@
       "name": "Pokémon TCG: Mega Evolution - Ascended Heroes Mini Tin (Zorua)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokémon-tcg-mega-evolution-ascended-heroes-mini-tin-display-zorua.html",
       "sku": "ASC06",
-      "price": 12.73,
+      "price": 12.72,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-mega-evolution-ascended-heroes-mini-tin-display-togepi-843632.webp"
@@ -786,7 +786,7 @@
       "name": "Pokémon TCG: Mega Evolution - Ascended Heroes Mini Tin (Clefairy)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokémon-tcg-mega-evolution-ascended-heroes-mini-tin-display-clefairy.html",
       "sku": "ASC07",
-      "price": 12.73,
+      "price": 12.72,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-mega-evolution-ascended-heroes-mini-tin-display-togepi-292457.webp"
@@ -796,7 +796,7 @@
       "name": "Pokémon TCG: Mega Evolution - Ascended Heroes Mini Tin (Riolu)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokémon-tcg-mega-evolution-ascended-heroes-mini-tin-display-riolu.html",
       "sku": "ASC08",
-      "price": 12.73,
+      "price": 12.72,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-mega-evolution-ascended-heroes-mini-tin-display-togepi-875499.webp"
@@ -826,7 +826,7 @@
       "name": "Pokémon TCG: Ascended Heroes First Partners Deluxe Pin Collection",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-ascended-heroes-deluxe-pin-collection.html",
       "sku": "PCI10301",
-      "price": 31.82,
+      "price": 31.81,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/651457.webp"
@@ -836,7 +836,7 @@
       "name": "Pokémon TCG: Ascended Heroes Premium Poster Collection - Gardevoir",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-ascended-heroes-premium-poster-collection-gardevoir.html",
       "sku": "ASC11",
-      "price": 63.45,
+      "price": 63.43,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-ascended-heroes-premium-poster-collection-gardevoir-007781.webp"
@@ -846,7 +846,7 @@
       "name": "Pokémon TCG: Ascended Heroes Premium Poster Collection - Lucario",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-ascended-heroes-premium-poster-collection-lucario.html",
       "sku": "ASC12",
-      "price": 63.45,
+      "price": 63.43,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-ascended-heroes-premium-poster-collection-gardevoir-copie-592879.webp"
@@ -976,7 +976,7 @@
       "name": "Pokémon TCG: Ascended Heroes Mega Feraligatr ex Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-ascended-heroes-mega-feraligatr-ex-box.html",
       "sku": "ASC15",
-      "price": 31.82,
+      "price": 31.81,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-ascended-heroes-mega-feraligatr-ex-box-890592.webp"
@@ -986,7 +986,7 @@
       "name": "Pokémon TCG: Ascended Heroes Mega Meganium ex Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-ascended-heroes-mega-meganium-ex-box.html",
       "sku": "ASC14",
-      "price": 31.82,
+      "price": 31.81,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-ascended-heroes-mega-feraligatr-ex-box-copie-912859.webp"
@@ -996,7 +996,7 @@
       "name": "Pokémon TCG: Ascended Heroes Mega Emboar ex Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-ascended-heroes-mega-emboar-ex-box.html",
       "sku": "ASC13",
-      "price": 31.82,
+      "price": 31.81,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-ascended-heroes-mega-meganium-ex-box-copie-642505.webp"
@@ -1006,7 +1006,7 @@
       "name": "Pokémon TCG: Ascended Heroes Booster Bundle",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-ascended-heroes-booster-bundle.html",
       "sku": "PCI10311",
-      "price": 29.76,
+      "price": 29.75,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-ascended-heroes-mega-emboar-ex-box-copie-969198.webp"
@@ -1626,7 +1626,7 @@
       "name": "Pokemon TCG: Mega Evolution - Storm Emerald Booster Display (30 Packs) [Japanese]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-mega-evolution-storm-emerald-booster-display-30-packs-japanese.html",
       "sku": "POKEMON-M7-01",
-      "price": 140.38,
+      "price": 140.34,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-evolution-ninja-spinner-booster-display-30-packs-japanese-copie-857231.png"
@@ -1716,7 +1716,7 @@
       "name": "Pokemon TCG: Delta Reign Sleeved Booster Pack",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-delta-reign-sleeved-booster-pack.html",
       "sku": "DELTA-PACKS-01",
-      "price": 5.62,
+      "price": 5.61,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-pitch-black-sleeved-booster-pack-copie-463438.webp"
