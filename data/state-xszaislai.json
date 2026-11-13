@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-13T05:01:15.982Z",
+  "scannedAt": "2026-11-13T15:01:18.433Z",
   "products": {
     "POK10468101": {
       "id": "POK10468101",
@@ -294,6 +294,14 @@
       "name": "POKEMON TCG MEGA Expansion \"30th CELEBRATION\" (M6a) – Japanese booster",
       "url": "https://www.xszaislai.lt/pokemon-tcg-mega-expansion-30th-celebration-m6a-japanese-booster-pkmm6ajp",
       "price": 32.99,
+      "currency": "EUR",
+      "status": "InStock"
+    },
+    "POK10411101": {
+      "id": "POK10411101",
+      "name": "POKEMON Kolekcinės kortelės Tin Fall EX",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-tin-fall-ex-pok10411101",
+      "price": 53.99,
       "currency": "EUR",
       "status": "InStock"
     },
