@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-14T17:01:22.344Z",
+  "scannedAt": "2026-11-14T18:16:22.780Z",
   "products": {
     "1": {
       "id": "1",
@@ -406,7 +406,7 @@
       "name": "Pokémon TCG: Phantasmal Flames Booster Bundle",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-phantasmal-flames-booster-bundle.html",
       "sku": "PFL02",
-      "price": 46.76,
+      "price": 46.73,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-phantasmal-flare-booster-bundle-045892.jpg"
@@ -446,7 +446,7 @@
       "name": "Pokémon TCG: Phantasmal Flames Build & Battle Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-phantasmal-flames-build-battle-box.html",
       "sku": "PFL03",
-      "price": 46.76,
+      "price": 46.73,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-phantasmal-flames-build-battle-box-126528.jpg"
@@ -736,7 +736,7 @@
       "name": "TCG: Mega Evolution - Ascended Heroes Trainer Blister",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokemon-tcg-mega-evolution-ascended-heroes-trainer-blister.html",
       "sku": "ASC02",
-      "price": 14.96,
+      "price": 14.95,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/363165.jpg"
@@ -746,7 +746,7 @@
       "name": "Pokémon TCG: Mega Evolution - Ascended Heroes Tech Sticker Collection",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokémon-tcg-mega-evolution-ascended-heroes-tech-sticker-collection.html",
       "sku": "ASC03",
-      "price": 22.45,
+      "price": 22.43,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-mega-evolution-ascended-heroes-tech-sticker-collection-364725.jpg"
@@ -756,7 +756,7 @@
       "name": "TCG: Mega Evolution - Ascended Heroes Mini Tin Display (10 mini-tins)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokémon-tcg-mega-evolution-ascended-heroes-mini-tin-display-10-mini-tins.html",
       "sku": "ASC04",
-      "price": 121.59,
+      "price": 121.5,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-mega-evolution-ascended-heroes-mini-tin-display-10-mini-tins-504075.jpg"
@@ -766,7 +766,7 @@
       "name": "Pokémon TCG: Mega Evolution - Ascended Heroes Mini Tin (Togepi)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokémon-tcg-mega-evolution-ascended-heroes-mini-tin-display-togepi.html",
       "sku": "ASC05",
-      "price": 12.72,
+      "price": 12.71,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-mega-evolution-ascended-heroes-mini-tin-display-049018.webp"
@@ -776,7 +776,7 @@
       "name": "Pokémon TCG: Mega Evolution - Ascended Heroes Mini Tin (Zorua)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokémon-tcg-mega-evolution-ascended-heroes-mini-tin-display-zorua.html",
       "sku": "ASC06",
-      "price": 12.72,
+      "price": 12.71,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-mega-evolution-ascended-heroes-mini-tin-display-togepi-843632.webp"
@@ -786,7 +786,7 @@
       "name": "Pokémon TCG: Mega Evolution - Ascended Heroes Mini Tin (Clefairy)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokémon-tcg-mega-evolution-ascended-heroes-mini-tin-display-clefairy.html",
       "sku": "ASC07",
-      "price": 12.72,
+      "price": 12.71,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-mega-evolution-ascended-heroes-mini-tin-display-togepi-292457.webp"
@@ -796,7 +796,7 @@
       "name": "Pokémon TCG: Mega Evolution - Ascended Heroes Mini Tin (Riolu)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokémon-tcg-mega-evolution-ascended-heroes-mini-tin-display-riolu.html",
       "sku": "ASC08",
-      "price": 12.72,
+      "price": 12.71,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-mega-evolution-ascended-heroes-mini-tin-display-togepi-875499.webp"
@@ -806,7 +806,7 @@
       "name": "Pokémon TCG: Mega Evolution - Ascended Heroes Mini Tin (Pikachu)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokémon-tcg-mega-evolution-ascended-heroes-mini-tin-display-pikachu.html",
       "sku": "ASC09",
-      "price": 13.09,
+      "price": 13.08,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-mega-evolution-ascended-heroes-mini-tin-display-togepi-414995.webp"
@@ -826,7 +826,7 @@
       "name": "Pokémon TCG: Ascended Heroes First Partners Deluxe Pin Collection",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-ascended-heroes-deluxe-pin-collection.html",
       "sku": "PCI10301",
-      "price": 31.8,
+      "price": 31.78,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/651457.webp"
@@ -836,7 +836,7 @@
       "name": "Pokémon TCG: Ascended Heroes Premium Poster Collection - Gardevoir",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-ascended-heroes-premium-poster-collection-gardevoir.html",
       "sku": "ASC11",
-      "price": 63.41,
+      "price": 63.37,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-ascended-heroes-premium-poster-collection-gardevoir-007781.webp"
@@ -846,7 +846,7 @@
       "name": "Pokémon TCG: Ascended Heroes Premium Poster Collection - Lucario",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-ascended-heroes-premium-poster-collection-lucario.html",
       "sku": "ASC12",
-      "price": 63.41,
+      "price": 63.37,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-ascended-heroes-premium-poster-collection-gardevoir-copie-592879.webp"
@@ -856,7 +856,7 @@
       "name": "Pokémon TCG: Perfect Order Booster Bundle",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-perfect-order-booster-bundle.html",
       "sku": "PCI10377-101",
-      "price": 28.99,
+      "price": 28.97,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/846851.jpeg"
@@ -866,7 +866,7 @@
       "name": "Pokémon TCG: Perfect Order Booster Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-perfect-order-booster-box.html",
       "sku": "PCI10380",
-      "price": 185.19,
+      "price": 185.05,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-perfect-order-booster-bundle-copie-834885.webp"
@@ -876,7 +876,7 @@
       "name": "Pokémon TCG: Perfect Order Checklane Blister - Makuhita",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-perfect-order-checklane-blister-makuhita.html",
       "sku": "POR03",
-      "price": 6.36,
+      "price": 6.35,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-perfect-order-checklane-blister-makuhita-876947.jpg"
@@ -886,7 +886,7 @@
       "name": "Pokémon TCG: Perfect Order Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-perfect-order-elite-trainer-box-etb.html",
       "sku": "PCI10372",
-      "price": 74.82,
+      "price": 74.77,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-perfect-order-booster-box-copie-452110.webp"
@@ -926,7 +926,7 @@
       "name": "Pokémon TCG: Phantasmal Flames Mini Portofolio",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-perfect-order-mini-portofolio.html",
       "sku": "PFL0100",
-      "price": 6.36,
+      "price": 6.35,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-phantasmal-flames-mini-portofolio-434492.webp"
@@ -976,7 +976,7 @@
       "name": "Pokémon TCG: Ascended Heroes Mega Feraligatr ex Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-ascended-heroes-mega-feraligatr-ex-box.html",
       "sku": "ASC15",
-      "price": 31.8,
+      "price": 31.78,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-ascended-heroes-mega-feraligatr-ex-box-890592.webp"
@@ -986,7 +986,7 @@
       "name": "Pokémon TCG: Ascended Heroes Mega Meganium ex Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-ascended-heroes-mega-meganium-ex-box.html",
       "sku": "ASC14",
-      "price": 31.8,
+      "price": 31.78,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-ascended-heroes-mega-feraligatr-ex-box-copie-912859.webp"
@@ -996,7 +996,7 @@
       "name": "Pokémon TCG: Ascended Heroes Mega Emboar ex Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-ascended-heroes-mega-emboar-ex-box.html",
       "sku": "ASC13",
-      "price": 31.8,
+      "price": 31.78,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-ascended-heroes-mega-meganium-ex-box-copie-642505.webp"
@@ -1006,7 +1006,7 @@
       "name": "Pokémon TCG: Ascended Heroes Booster Bundle",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-ascended-heroes-booster-bundle.html",
       "sku": "PCI10311",
-      "price": 29.74,
+      "price": 29.72,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-ascended-heroes-mega-emboar-ex-box-copie-969198.webp"
@@ -1016,7 +1016,7 @@
       "name": "Pokémon TCG: Perfect Order Build & Battle Bundle",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-perfect-order-build-and-battle-bundle.html",
       "sku": "PCI10373",
-      "price": 29.93,
+      "price": 29.91,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-ascended-heroes-booster-bundle-copie-419672.jpg"
@@ -1036,7 +1036,7 @@
       "name": "Pokémon TCG: Mega Zygarde ex Premium Collection Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-mega-zygarde-ex-premium-collection-box.html",
       "sku": "PCI10359",
-      "price": 54.06,
+      "price": 54.02,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-iono-s-bellibolt-ex-premium-collection-copie-804892.webp"
@@ -1156,7 +1156,7 @@
       "name": "Pokémon TCG: Perfect Order 3 Pack Blister",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-perfect-order-3-pack-blister.html",
       "sku": "PCI10375",
-      "price": 17.77,
+      "price": 17.76,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-3-pack-blister-copie-706446.webp"
