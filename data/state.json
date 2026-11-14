@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-14T15:01:20.480Z",
+  "scannedAt": "2026-11-14T17:01:22.344Z",
   "products": {
     "1": {
       "id": "1",
@@ -416,7 +416,7 @@
       "name": "Pokémon TCG: Team Rocket Tin [Persian]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-team-rocket-tin-persian.html",
       "sku": "DRI01",
-      "price": 37.22,
+      "price": 37.17,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-team-rocket-tin-persian-735475.png"
@@ -426,7 +426,7 @@
       "name": "Pokémon TCG: Team Rocket Tin [Mewtwo]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-team-rocket-tin-mewtwo.html",
       "sku": "DRI02",
-      "price": 37.22,
+      "price": 37.17,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-team-rocket-tin-mewtwo-028389.png"
@@ -436,7 +436,7 @@
       "name": "Pokémon TCG: Team Rocket Tin [Nidoking]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-team-rocket-tin-nidoking.html",
       "sku": "DRI03",
-      "price": 37.22,
+      "price": 37.17,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-team-rocket-tin-nidoking-880758.webp"
@@ -456,7 +456,7 @@
       "name": "Pokémon TCG: Team Rocket/'s Mewtwo ex Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-team-rocket-s-mewtwo-ex-box.html",
       "sku": "DRI04",
-      "price": 46.76,
+      "price": 46.7,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-team-rocket-s-mewtwo-ex-box-384625.jpg"
@@ -1046,7 +1046,7 @@
       "name": "Pokémon TCG: Chaos Rising 3 Pack Blister",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-chaos-rising-3-pack-blister.html",
       "sku": "PCI10401",
-      "price": 16.83,
+      "price": 16.81,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-3-pack-blister-322658.png"
@@ -1066,7 +1066,7 @@
       "name": "Pokémon TCG: Chaos Rising Booster Bundle",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-chaos-rising-booster-bundle.html",
       "sku": "PCI10403",
-      "price": 46.58,
+      "price": 46.51,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-booster-bundle-522457.png"
@@ -1076,7 +1076,7 @@
       "name": "Pokémon TCG: Chaos Rising Booster Box Display",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-chaos-rising-booster-box-display.html",
       "sku": "PCI10407",
-      "price": 215.12,
+      "price": 214.8,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-booster-box-display-127381.png"
@@ -1086,7 +1086,7 @@
       "name": "Pokémon TCG: Chaos Rising Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-chaos-rising-elite-trainer-box.html",
       "sku": "PCI10399",
-      "price": 61.54,
+      "price": 61.45,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-elite-trainer-box-725977.png"
@@ -1116,7 +1116,7 @@
       "name": "Pokémon TCG: League Battle Deck [Mega Lucario ex]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-chaos-rising-battle-deck.html",
       "sku": "PCI10360",
-      "price": 37.22,
+      "price": 37.17,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-league-battle-deck-890105.png"
@@ -1126,7 +1126,7 @@
       "name": "Pokémon TCG: Chaos Rising Build & Battle Bundle",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-chaos-rising-build-and-battle-bundle.html",
       "sku": "PCI10400",
-      "price": 28.06,
+      "price": 28.02,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-build-battle-bundle-433737.png"
@@ -1136,7 +1136,7 @@
       "name": "Pokémon TCG: Chaos Rising Mini Tins Display (10 mini tins)",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-chaos-rising-mini-tins-display.html",
       "sku": "PCI10392",
-      "price": 121.4,
+      "price": 121.22,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-mini-tins-display-10-mini-tins-027830.png"
@@ -1146,7 +1146,7 @@
       "name": "Pokémon TCG: Chaos Rising Summer Tin Assorted",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-chaos-rising-summer-tin-assorted.html",
       "sku": "PCI10389",
-      "price": 24.13,
+      "price": 24.1,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-summer-tin-assorted-813180.png"
@@ -1176,7 +1176,7 @@
       "name": "BUNDLE: 4x Booster Packs Destined Rivals (DRI) + Album 4 Pocket A5",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/bundle-4x-booster-packs-destined-rivals-dri-album-4-pocket-a5.html",
       "sku": "BUNDLE-DESTINED",
-      "price": 37.41,
+      "price": 37.36,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/bundle-4x-booster-packs-destined-rivals-dri-album-4-pocket-a5-714067.png"
@@ -1186,7 +1186,7 @@
       "name": "Pokémon TCG: Scarlet & Violet-Destined Rivals Booster Pack",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-destined-rivals-booster-pack.html",
       "sku": "PCI10617",
-      "price": 5.61,
+      "price": 5.6,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-destined-rivals-booster-pack-201588.png"
@@ -1196,7 +1196,7 @@
       "name": "Pokémon TCG: Scarlet & Violet-Destined Rivals Booster Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-scarlet-violet-destined-rivals-booster-box.html",
       "sku": "PCI10617-8255",
-      "price": 168.35,
+      "price": 168.11,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-destined-rivals-booster-pack-copie-729429.jpg"
@@ -1276,7 +1276,7 @@
       "name": "Pokemon TCG: Mega Greninja ex Premium Collection Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-mega-greninja-ex-premium-collection-box.html",
       "sku": "PCI10413",
-      "price": 59.67,
+      "price": 59.58,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-zygarde-ex-premium-collection-box-copie-048891.webp"
@@ -1286,7 +1286,7 @@
       "name": "Pokemon TCG: Mega Moonlit Tin [Mega Clefable ex]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-mega-moonlit-tin-mega-clefable-ex.html",
       "sku": "PCI10389-01",
-      "price": 28.06,
+      "price": 28.02,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-summer-tin-assorted-copie-326579.webp"
@@ -1296,7 +1296,7 @@
       "name": "Pokemon TCG: Mega Moonlit Tin [Mega Gengar ex]",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-mega-moonlit-tin-mega-gengar-ex.html",
       "sku": "PCI10389-02",
-      "price": 26,
+      "price": 25.96,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-mega-moonlit-tin-mega-clefable-ex-copie-188917.webp"
@@ -1356,7 +1356,7 @@
       "name": "Pokémon TCG: Pitch Black Premium Checklane Blister",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokémon-tcg-pitch-black-premium-checklane-blister.html",
       "sku": "PCI110421-108",
-      "price": 7.3,
+      "price": 7.28,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-chaos-rising-premium-checklane-blister-flygon-copie-870599.jpg"
@@ -1466,7 +1466,7 @@
       "name": "Pokemon TCG: Destined Rivals Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-destined-rivals-elite-trainer-box.html",
       "sku": "DRI-ETB-01",
-      "price": 65.47,
+      "price": 65.38,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-30th-anniversary-elite-trainer-box-copie-360182.webp"
