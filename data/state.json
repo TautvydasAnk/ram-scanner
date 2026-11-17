@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-17T14:31:16.855Z",
+  "scannedAt": "2026-11-17T14:46:17.703Z",
   "products": {
     "1": {
       "id": "1",
@@ -1928,7 +1928,7 @@
       "sku": "Tin-Dragonite",
       "price": 32.71,
       "currency": "EUR",
-      "status": "InStock",
+      "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-forces-tin-mega-darkrai-copie-698778.png"
     },
     "4184": {
