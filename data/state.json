@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-20T08:01:18.883Z",
+  "scannedAt": "2026-11-20T09:01:16.603Z",
   "products": {
     "1": {
       "id": "1",
@@ -1960,6 +1960,46 @@
       "currency": "EUR",
       "status": "PreOrder",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-flowing-fists-premium-checklane-blister-primarina-copie-740998.png"
+    },
+    "7827": {
+      "id": "7827",
+      "name": "Pokemon TCG: Flowing Fists 3-Pack Blister [Wimpod]",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-flowing-fists-3-pack-blister-wimpod.html",
+      "sku": "FISTS-CHECKLANE-03",
+      "price": 20.4,
+      "currency": "EUR",
+      "status": "PreOrder",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-flowing-fists-premium-checklane-blister-bastiodon-copie-287390.png"
+    },
+    "7828": {
+      "id": "7828",
+      "name": "Pokemon TCG: Flowing Fists Booster Bundle",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-flowing-fists-booster-bundle.html",
+      "sku": "FISTS-BUNDLE-01",
+      "price": 37.42,
+      "currency": "EUR",
+      "status": "PreOrder",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-flowing-fists-3-pack-blister-wimpod-copie-111206.png"
+    },
+    "7829": {
+      "id": "7829",
+      "name": "Pokemon TCG: Flowing Fists Elite Trainer Box",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-flowing-fists-elite-trainer-box.html",
+      "sku": "FISTS-ETB-01",
+      "price": 65.49,
+      "currency": "EUR",
+      "status": "PreOrder",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-flowing-fists-booster-bundle-copie-840144.png"
+    },
+    "7830": {
+      "id": "7830",
+      "name": "Pokemon TCG: Flowing Fists Booster Box (36 Packs)",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-flowing-fists-booster-box-36-packs.html",
+      "sku": "FISTS-ETB-01-4494",
+      "price": 202.09,
+      "currency": "EUR",
+      "status": "PreOrder",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-flowing-fists-elite-trainer-box-copie-653354.png"
     }
   },
   "guard": {
