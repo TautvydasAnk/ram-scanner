@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-20T07:31:22.039Z",
+  "scannedAt": "2026-11-20T08:01:18.883Z",
   "products": {
     "1": {
       "id": "1",
@@ -1940,6 +1940,26 @@
       "currency": "EUR",
       "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-pitch-black-build-battle-bundle-copie-260456.png"
+    },
+    "7825": {
+      "id": "7825",
+      "name": "Pokemon TCG: Flowing Fists Premium Checklane Blister [Primarina]",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-flowing-fists-premium-checklane-blister-primarina.html",
+      "sku": "FISTS-CHECKLANE-01",
+      "price": 8.42,
+      "currency": "EUR",
+      "status": "PreOrder",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-delta-reign-premium-checklane-blister-delphox-copie-178363.png"
+    },
+    "7826": {
+      "id": "7826",
+      "name": "Pokemon TCG: Flowing Fists Premium Checklane Blister [Bastiodon]",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-flowing-fists-premium-checklane-blister-bastiodon.html",
+      "sku": "FISTS-CHECKLANE-02",
+      "price": 8.42,
+      "currency": "EUR",
+      "status": "PreOrder",
+      "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-flowing-fists-premium-checklane-blister-primarina-copie-740998.png"
     }
   },
   "guard": {
