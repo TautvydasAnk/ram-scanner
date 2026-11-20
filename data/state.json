@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-20T13:46:26.973Z",
+  "scannedAt": "2026-11-20T15:01:19.772Z",
   "products": {
     "1": {
       "id": "1",
@@ -226,7 +226,7 @@
       "name": "Pokémon TCG: Black Bolt Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-black-bolt-elite-trainer-box.html",
       "sku": "BLK02",
-      "price": 74.87,
+      "price": 74.85,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-black-bolt-elite-trainer-box-342513.jpg"
@@ -316,7 +316,7 @@
       "name": "Pokémon TCG: Black Bolt Booster Bundle",
       "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-black-bolt-booster-bundle.html",
       "sku": "BLK03",
-      "price": 46.79,
+      "price": 46.78,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-black-bolt-booster-bundle-222890.jpg"
