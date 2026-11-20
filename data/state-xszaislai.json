@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-20T12:31:19.115Z",
+  "scannedAt": "2026-11-20T13:01:19.440Z",
   "products": {
     "POK10468101": {
       "id": "POK10468101",
@@ -272,6 +272,14 @@
       "price": 80.99,
       "currency": "EUR",
       "status": "OutOfStock"
+    },
+    "POK10413101": {
+      "id": "POK10413101",
+      "name": "POKEMON Kolekcinės kortelės BOX PREMIUM EX",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-box-premium-ex-pok10413101",
+      "price": 99.99,
+      "currency": "EUR",
+      "status": "InStock"
     },
     "PKMM2AJP": {
       "id": "PKMM2AJP",
