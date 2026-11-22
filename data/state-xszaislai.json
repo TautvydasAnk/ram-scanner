@@ -1,19 +1,11 @@
 {
-  "scannedAt": "2026-11-20T13:01:19.440Z",
+  "scannedAt": "2026-11-22T20:31:17.859Z",
   "products": {
     "POK10468101": {
       "id": "POK10468101",
       "name": "POKEMON TCG 30th Celebration Kolekcinės kortelės „Battle Deck Ex“",
       "url": "https://www.xszaislai.lt/pokemon-tcg-30th-celebration-kolekcines-korteles-battle-deck-ex-pok10468101",
       "price": 53.99,
-      "currency": "EUR",
-      "status": "InStock"
-    },
-    "POK10469101": {
-      "id": "POK10469101",
-      "name": "POKEMON Kolekcinės kortelės „30th Celebration\" Display Collection",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-display-collection-pok10469101",
-      "price": 149.99,
       "currency": "EUR",
       "status": "InStock"
     },
@@ -25,19 +17,19 @@
       "currency": "EUR",
       "status": "InStock"
     },
-    "POK10416101": {
-      "id": "POK10416101",
-      "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės Elite Trainer Box",
-      "url": "https://www.xszaislai.lt/pokemon-tcg-mega-evolution-kolekcines-korteles-elite-trainer-box-pok10416101",
+    "POK10413101": {
+      "id": "POK10413101",
+      "name": "POKEMON Kolekcinės kortelės BOX PREMIUM EX",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-box-premium-ex-pok10413101",
       "price": 99.99,
       "currency": "EUR",
       "status": "InStock"
     },
-    "POK10439101": {
-      "id": "POK10439101",
-      "name": "POKEMON TCG Kolekcinės kortelės ME06 Delta Reign Booster Bundle",
-      "url": "https://www.xszaislai.lt/pokemon-tcg-kolekcines-korteles-me06-delta-reign-booster-bundle-pok10439101",
-      "price": 79.99,
+    "POK10410101": {
+      "id": "POK10410101",
+      "name": "POKEMON Kolekcinės kortelės First Partner Collection Box 3",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-first-partner-collection-box-3-pok10410101",
+      "price": 69.99,
       "currency": "EUR",
       "status": "InStock"
     },
@@ -57,14 +49,6 @@
       "currency": "EUR",
       "status": "InStock"
     },
-    "POK10444103": {
-      "id": "POK10444103",
-      "name": "POKEMON TCG Kolekcinės kortelės ME06 Delta Reign Checklane",
-      "url": "https://www.xszaislai.lt/pokemon-tcg-kolekcines-korteles-me06-delta-reign-checklane-pok10444103",
-      "price": 13.99,
-      "currency": "EUR",
-      "status": "InStock"
-    },
     "POK10446101": {
       "id": "POK10446101",
       "name": "POKEMON TCG Kolekcinės kortelės ME06 Delta Reign Booster",
@@ -73,19 +57,27 @@
       "currency": "EUR",
       "status": "InStock"
     },
-    "POK10448101": {
-      "id": "POK10448101",
-      "name": "POKEMON Kolekcinės kortelės „30th Celebration\" Ultra Premium Collection",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-ultra-premium-collection-pok10448101",
-      "price": 449.99,
+    "POK10469101": {
+      "id": "POK10469101",
+      "name": "POKEMON Kolekcinės kortelės „30th Celebration\" Display Collection",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-display-collection-pok10469101",
+      "price": 149.99,
       "currency": "EUR",
       "status": "InStock"
     },
-    "POK10447101": {
-      "id": "POK10447101",
-      "name": "POKEMON Kolekcinės kortelės „30th Celebration“, trenerio rinkinys",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-trenerio-rinkinys-pok10447101",
-      "price": 160.99,
+    "POK10416101": {
+      "id": "POK10416101",
+      "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės Elite Trainer Box",
+      "url": "https://www.xszaislai.lt/pokemon-tcg-mega-evolution-kolekcines-korteles-elite-trainer-box-pok10416101",
+      "price": 99.99,
+      "currency": "EUR",
+      "status": "InStock"
+    },
+    "POK10439101": {
+      "id": "POK10439101",
+      "name": "POKEMON TCG Kolekcinės kortelės ME06 Delta Reign Booster Bundle",
+      "url": "https://www.xszaislai.lt/pokemon-tcg-kolekcines-korteles-me06-delta-reign-booster-bundle-pok10439101",
+      "price": 79.99,
       "currency": "EUR",
       "status": "InStock"
     },
@@ -94,14 +86,6 @@
       "name": "POKEMON TCG Kolekcinės kortelės ME06 Delta Reign Elite Trainer Box",
       "url": "https://www.xszaislai.lt/pokemon-tcg-kolekcines-korteles-me06-delta-reign-elite-trainer-box-pok10438101",
       "price": 139.99,
-      "currency": "EUR",
-      "status": "InStock"
-    },
-    "POK10440101": {
-      "id": "POK10440101",
-      "name": "POKEMON TCG Kolekcinės kortelės ME06 Delta Reign 3-Pack",
-      "url": "https://www.xszaislai.lt/pokemon-tcg-kolekcines-korteles-me06-delta-reign-3-pack-pok10440101",
-      "price": 39.99,
       "currency": "EUR",
       "status": "InStock"
     },
@@ -121,27 +105,35 @@
       "currency": "EUR",
       "status": "InStock"
     },
+    "POK10448101": {
+      "id": "POK10448101",
+      "name": "POKEMON Kolekcinės kortelės „30th Celebration\" Ultra Premium Collection",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-ultra-premium-collection-pok10448101",
+      "price": 449.99,
+      "currency": "EUR",
+      "status": "InStock"
+    },
+    "POK10447101": {
+      "id": "POK10447101",
+      "name": "POKEMON Kolekcinės kortelės „30th Celebration“, trenerio rinkinys",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-trenerio-rinkinys-pok10447101",
+      "price": 160.99,
+      "currency": "EUR",
+      "status": "InStock"
+    },
+    "POK10440101": {
+      "id": "POK10440101",
+      "name": "POKEMON TCG Kolekcinės kortelės ME06 Delta Reign 3-Pack",
+      "url": "https://www.xszaislai.lt/pokemon-tcg-kolekcines-korteles-me06-delta-reign-3-pack-pok10440101",
+      "price": 39.99,
+      "currency": "EUR",
+      "status": "InStock"
+    },
     "POK10372101": {
       "id": "POK10372101",
       "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės Elite Trainer Box",
       "url": "https://www.xszaislai.lt/pokemon-tcg-mega-evolution-kolekcines-korteles-elite-trainer-box-pok10372101",
       "price": 99.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
-    "POK10410101": {
-      "id": "POK10410101",
-      "name": "POKEMON Kolekcinės kortelės First Partner Collection Box 3",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-first-partner-collection-box-3-pok10410101",
-      "price": 69.99,
-      "currency": "EUR",
-      "status": "InStock"
-    },
-    "POK10466101": {
-      "id": "POK10466101",
-      "name": "POKEMON Kolekcinės kortelės „30th Celebration\" EX Tin",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-ex-tin-pok10466101",
-      "price": 69.99,
       "currency": "EUR",
       "status": "OutOfStock"
     },
@@ -153,27 +145,11 @@
       "currency": "EUR",
       "status": "OutOfStock"
     },
-    "POK10360101": {
-      "id": "POK10360101",
-      "name": "POKEMON TCG Kolekcinės kortelės LEAGUE BATTLE DECK MEGA LUCARIO",
-      "url": "https://www.xszaislai.lt/pokemon-tcg-kolekcines-korteles-league-battle-deck-mega-lucario-pok10360101",
-      "price": 65.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
     "POK10467101": {
       "id": "POK10467101",
       "name": "POKEMON Kolekcinės kortelės „30th Celebration\" Poster Collection",
       "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-poster-collection-pok10467101",
       "price": 49.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
-    "POK10389101": {
-      "id": "POK10389101",
-      "name": "POKEMON Kolekcinės kortelės TIN SUMMER EX",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-tin-summer-ex-pok10389101",
-      "price": 47.99,
       "currency": "EUR",
       "status": "OutOfStock"
     },
@@ -193,14 +169,6 @@
       "currency": "EUR",
       "status": "OutOfStock"
     },
-    "POK10666102": {
-      "id": "POK10666102",
-      "name": "POKEMON Kolekcinės kortelės „30th Celebration\" 2-Pack Blister Collection",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-2-pack-blister-collection-pok10666102",
-      "price": 24.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
     "POK10392101": {
       "id": "POK10392101",
       "name": "POKEMON Kolekcinės kortelės MINI TIN",
@@ -209,27 +177,11 @@
       "currency": "EUR",
       "status": "OutOfStock"
     },
-    "POK10444108": {
-      "id": "POK10444108",
-      "name": "POKEMON TCG Kolekcinės kortelės ME06 Delta Reign Premium Checklane",
-      "url": "https://www.xszaislai.lt/pokemon-tcg-kolekcines-korteles-me06-delta-reign-premium-checklane-pok10444108",
-      "price": 15.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
     "POK10421103": {
       "id": "POK10421103",
       "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės Checklane",
       "url": "https://www.xszaislai.lt/pokemon-tcg-mega-evolution-kolekcines-korteles-checklane-pok10421103",
       "price": 10.99,
-      "currency": "EUR",
-      "status": "OutOfStock"
-    },
-    "POK10378108": {
-      "id": "POK10378108",
-      "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės Blister",
-      "url": "https://www.xszaislai.lt/pokemon-tcg-mega-evolution-kolekcines-korteles-blister-pok10378108",
-      "price": 9.99,
       "currency": "EUR",
       "status": "OutOfStock"
     },
@@ -245,6 +197,62 @@
       "id": "POK10425101",
       "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės Booster",
       "url": "https://www.xszaislai.lt/pokemon-tcg-mega-evolution-kolekcines-korteles-booster-pok10425101",
+      "price": 9.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
+    "POK10466101": {
+      "id": "POK10466101",
+      "name": "POKEMON Kolekcinės kortelės „30th Celebration\" EX Tin",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-ex-tin-pok10466101",
+      "price": 69.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
+    "POK10360101": {
+      "id": "POK10360101",
+      "name": "POKEMON TCG Kolekcinės kortelės LEAGUE BATTLE DECK MEGA LUCARIO",
+      "url": "https://www.xszaislai.lt/pokemon-tcg-kolekcines-korteles-league-battle-deck-mega-lucario-pok10360101",
+      "price": 65.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
+    "POK10389101": {
+      "id": "POK10389101",
+      "name": "POKEMON Kolekcinės kortelės TIN SUMMER EX",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-tin-summer-ex-pok10389101",
+      "price": 47.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
+    "POK10666102": {
+      "id": "POK10666102",
+      "name": "POKEMON Kolekcinės kortelės „30th Celebration\" 2-Pack Blister Collection",
+      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-2-pack-blister-collection-pok10666102",
+      "price": 24.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
+    "POK10444108": {
+      "id": "POK10444108",
+      "name": "POKEMON TCG Kolekcinės kortelės ME06 Delta Reign Premium Checklane",
+      "url": "https://www.xszaislai.lt/pokemon-tcg-kolekcines-korteles-me06-delta-reign-premium-checklane-pok10444108",
+      "price": 15.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
+    "POK10444103": {
+      "id": "POK10444103",
+      "name": "POKEMON TCG Kolekcinės kortelės ME06 Delta Reign Checklane",
+      "url": "https://www.xszaislai.lt/pokemon-tcg-kolekcines-korteles-me06-delta-reign-checklane-pok10444103",
+      "price": 13.99,
+      "currency": "EUR",
+      "status": "OutOfStock"
+    },
+    "POK10378108": {
+      "id": "POK10378108",
+      "name": "POKEMON TCG MEGA EVOLUTION Kolekcinės kortelės Blister",
+      "url": "https://www.xszaislai.lt/pokemon-tcg-mega-evolution-kolekcines-korteles-blister-pok10378108",
       "price": 9.99,
       "currency": "EUR",
       "status": "OutOfStock"
@@ -272,14 +280,6 @@
       "price": 80.99,
       "currency": "EUR",
       "status": "OutOfStock"
-    },
-    "POK10413101": {
-      "id": "POK10413101",
-      "name": "POKEMON Kolekcinės kortelės BOX PREMIUM EX",
-      "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-box-premium-ex-pok10413101",
-      "price": 99.99,
-      "currency": "EUR",
-      "status": "InStock"
     },
     "PKMM2AJP": {
       "id": "PKMM2AJP",
