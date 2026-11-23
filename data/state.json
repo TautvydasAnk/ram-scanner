@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-23T16:01:19.942Z",
+  "scannedAt": "2026-11-23T16:16:23.053Z",
   "products": {
     "1": {
       "id": "1",
@@ -354,7 +354,7 @@
     "42": {
       "id": "42",
       "name": "Pokémon TCG: Paldea Partners Tin [Quaquaval ex]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-paldea-partners-tin-quaquaval-ex.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-paldea-partners-tin-quaquaval-ex.html",
       "sku": "PAL02",
       "price": 28.05,
       "currency": "EUR",
@@ -364,7 +364,7 @@
     "43": {
       "id": "43",
       "name": "Pokémon TCG: Paldea Partners Tin [Meowscarada ex]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-paldea-partners-tin-meowscarada-ex.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-paldea-partners-tin-meowscarada-ex.html",
       "sku": "PAL03",
       "price": 28.05,
       "currency": "EUR",
@@ -384,7 +384,7 @@
     "45": {
       "id": "45",
       "name": "Pokémon TCG: Fall 2023 Collector Chest - Lunch box [Charizard]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-fall-2023-collector-chest-lunch-box-charizard.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-fall-2023-collector-chest-lunch-box-charizard.html",
       "sku": "Pokemon05",
       "price": 46.74,
       "currency": "EUR",
@@ -464,7 +464,7 @@
     "53": {
       "id": "53",
       "name": "Pokémon TCG: Back to School 2024 Collector Chest",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-back-to-school-2024-collector-chest.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-back-to-school-2024-collector-chest.html",
       "sku": "Pokemon06",
       "price": 44.87,
       "currency": "EUR",
