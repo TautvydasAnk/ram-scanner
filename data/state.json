@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-23T13:16:22.656Z",
+  "scannedAt": "2026-11-23T13:31:23.584Z",
   "products": {
     "1": {
       "id": "1",
@@ -414,7 +414,7 @@
     "48": {
       "id": "48",
       "name": "Pokémon TCG: Team Rocket Tin [Persian]",
-      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-team-rocket-tin-persian.html",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-team-rocket-tin-persian.html",
       "sku": "DRI01",
       "price": 37.21,
       "currency": "EUR",
@@ -424,7 +424,7 @@
     "49": {
       "id": "49",
       "name": "Pokémon TCG: Team Rocket Tin [Mewtwo]",
-      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-team-rocket-tin-mewtwo.html",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-team-rocket-tin-mewtwo.html",
       "sku": "DRI02",
       "price": 37.21,
       "currency": "EUR",
@@ -434,7 +434,7 @@
     "50": {
       "id": "50",
       "name": "Pokémon TCG: Team Rocket Tin [Nidoking]",
-      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-team-rocket-tin-nidoking.html",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-team-rocket-tin-nidoking.html",
       "sku": "DRI03",
       "price": 37.21,
       "currency": "EUR",
@@ -454,7 +454,7 @@
     "52": {
       "id": "52",
       "name": "Pokémon TCG: Team Rocket/'s Mewtwo ex Box",
-      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-team-rocket-s-mewtwo-ex-box.html",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-team-rocket-s-mewtwo-ex-box.html",
       "sku": "DRI04",
       "price": 46.74,
       "currency": "EUR",
@@ -1174,7 +1174,7 @@
     "1028": {
       "id": "1028",
       "name": "BUNDLE: 4x Booster Packs Destined Rivals (DRI) + Album 4 Pocket A5",
-      "url": "https://www.ramcards.ro/en/sealed-products/bundle-4x-booster-packs-destined-rivals-dri-album-4-pocket-a5.html",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/bundle-4x-booster-packs-destined-rivals-dri-album-4-pocket-a5.html",
       "sku": "BUNDLE-DESTINED",
       "price": 37.4,
       "currency": "EUR",
@@ -1184,7 +1184,7 @@
     "1029": {
       "id": "1029",
       "name": "Pokémon TCG: Scarlet & Violet-Destined Rivals Booster Pack",
-      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-scarlet-violet-destined-rivals-booster-pack.html",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-destined-rivals-booster-pack.html",
       "sku": "PCI10617",
       "price": 5.61,
       "currency": "EUR",
@@ -1194,7 +1194,7 @@
     "1032": {
       "id": "1032",
       "name": "Pokémon TCG: Scarlet & Violet-Destined Rivals Booster Box",
-      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-scarlet-violet-destined-rivals-booster-box.html",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-scarlet-violet-destined-rivals-booster-box.html",
       "sku": "PCI10617-8255",
       "price": 168.28,
       "currency": "EUR",
@@ -1464,7 +1464,7 @@
     "1506": {
       "id": "1506",
       "name": "Pokemon TCG: Destined Rivals Elite Trainer Box",
-      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-destined-rivals-elite-trainer-box.html",
+      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-destined-rivals-elite-trainer-box.html",
       "sku": "DRI-ETB-01",
       "price": 65.44,
       "currency": "EUR",
