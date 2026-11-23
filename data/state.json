@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-22T13:46:22.760Z",
+  "scannedAt": "2026-11-23T10:46:22.404Z",
   "products": {
     "1": {
       "id": "1",
@@ -934,7 +934,7 @@
     "803": {
       "id": "803",
       "name": "Pokémon TCG: World Championship Deck 2025 - Gardevoir",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-world-championship-deck-version-1.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-world-championship-deck-version-1.html",
       "sku": "30TH-03",
       "price": 29.73,
       "currency": "EUR",
@@ -944,7 +944,7 @@
     "804": {
       "id": "804",
       "name": "Pokémon TCG: World Championship Deck 2025 - Raging Bolt",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-world-championship-deck-version-2.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-world-championship-deck-version-2.html",
       "sku": "30TH-04",
       "price": 29.73,
       "currency": "EUR",
@@ -954,7 +954,7 @@
     "805": {
       "id": "805",
       "name": "Pokémon TCG: World Championship Deck 2025 - Dragapult",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-world-championship-deck-2025-dragapult.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-world-championship-deck-2025-dragapult.html",
       "sku": "30TH-05",
       "price": 29.73,
       "currency": "EUR",
@@ -964,7 +964,7 @@
     "806": {
       "id": "806",
       "name": "Pokémon TCG: World Championship Deck 2025 - Gholdengo",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-world-championship-deck-2025-gholdengo.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-world-championship-deck-2025-gholdengo.html",
       "sku": "30TH-06",
       "price": 29.73,
       "currency": "EUR",
@@ -1054,7 +1054,7 @@
     "968": {
       "id": "968",
       "name": "Pokémon TCG: Chaos Rising Checklane Blister",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-chaos-rising-checklane-blister.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-chaos-rising-checklane-blister.html",
       "sku": "PCI10405",
       "price": 7.48,
       "currency": "EUR",
@@ -1094,7 +1094,7 @@
     "972": {
       "id": "972",
       "name": "Pokémon TCG: Chaos Rising Premium Checklane Blister [Pawmot]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-chaos-rising-premium-checklane-blister-pawmot.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-chaos-rising-premium-checklane-blister-pawmot.html",
       "sku": "PCI10405-108",
       "price": 9.35,
       "currency": "EUR",
@@ -1104,7 +1104,7 @@
     "973": {
       "id": "973",
       "name": "Pokemon TCG: Chaos Rising Sleeved Booster Pack",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-chaos-chaos-rising-sleeved-booster-pack.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-chaos-chaos-rising-sleeved-booster-pack.html",
       "sku": "PCI10404",
       "price": 5.61,
       "currency": "EUR",
@@ -1164,7 +1164,7 @@
     "1027": {
       "id": "1027",
       "name": "Pokémon TCG: Chaos Rising Premium Checklane Blister [Flygon]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-chaos-rising-premium-checklane-blister-flygon.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-chaos-rising-premium-checklane-blister-flygon.html",
       "sku": "PCI10405-9595",
       "price": 9.35,
       "currency": "EUR",
@@ -1224,7 +1224,7 @@
     "1040": {
       "id": "1040",
       "name": "Pokemon TCG: Pitch Black Elite Trainer Box",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-pitch-black-elite-trainer-box.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-pitch-black-elite-trainer-box.html",
       "sku": "PitchBlack01",
       "price": 74.79,
       "currency": "EUR",
@@ -1234,7 +1234,7 @@
     "1041": {
       "id": "1041",
       "name": "Pokemon TCG: Pitch Black Booster Box Display (36 Packs)",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-pitch-black-booster-box-display.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-pitch-black-booster-box-display.html",
       "sku": "PitchBlack02",
       "price": 215.03,
       "currency": "EUR",
@@ -1244,7 +1244,7 @@
     "1042": {
       "id": "1042",
       "name": "Pokemon TCG: Pitch Black Booster Bundle",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-pitch-black-booster-bundle.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-pitch-black-booster-bundle.html",
       "sku": "PitchBlack03",
       "price": 32.72,
       "currency": "EUR",
@@ -1254,7 +1254,7 @@
     "1043": {
       "id": "1043",
       "name": "Pokemon TCG: Pitch Black Sleeved Booster Pack",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-chaos-pitch-black-sleeved-booster-pack.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-chaos-pitch-black-sleeved-booster-pack.html",
       "sku": "PitchBlack04",
       "price": 4.86,
       "currency": "EUR",
@@ -1264,7 +1264,7 @@
     "1044": {
       "id": "1044",
       "name": "Pokemon TCG: Pitch Black 3 Pack Blister",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-pitch-black-3-pack-blister.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-pitch-black-3-pack-blister.html",
       "sku": "PitchBlack05",
       "price": 18.51,
       "currency": "EUR",
@@ -1304,7 +1304,7 @@
     "1279": {
       "id": "1279",
       "name": "Pokemon TCG: Chaos Rising Mini Tin",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-chaos-rising-mini-tin.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-chaos-rising-mini-tin.html",
       "sku": "PCI10392-7365",
       "price": 16.64,
       "currency": "EUR",
@@ -1324,7 +1324,7 @@
     "1306": {
       "id": "1306",
       "name": "Pokemon TCG: Calyrex VMAX League Battle Deck - Ice Rider",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-calyrex-vmax-league-battle-deck-ice-rider.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-calyrex-vmax-league-battle-deck-ice-rider.html",
       "sku": "DECK-POKEMON-02",
       "price": 42.82,
       "currency": "EUR",
@@ -1474,7 +1474,7 @@
     "1509": {
       "id": "1509",
       "name": "Pokémon TCG: Pitch Black Build & Battle Bundle",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-pitch-black-build-battle-bundle.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-pitch-black-build-battle-bundle.html",
       "sku": "PITCH-11",
       "price": 37.4,
       "currency": "EUR",
@@ -1484,7 +1484,7 @@
     "1510": {
       "id": "1510",
       "name": "Pokemon TCG: Zacian V-Union Chinese Collection",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-zacian-v-union-chinese-collection.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-zacian-v-union-chinese-collection.html",
       "sku": "POKEMON-CHINESE-01",
       "price": 28.05,
       "currency": "EUR",
@@ -1504,7 +1504,7 @@
     "1512": {
       "id": "1512",
       "name": "Pokemon TCG: Dream Painting Vol.2 Water Ecology Figure Set",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-dream-painting-vol-2-water-ecology-figure-set.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-dream-painting-vol-2-water-ecology-figure-set.html",
       "sku": "POKEMON-CHINESE-03",
       "price": 28.05,
       "currency": "EUR",
@@ -1514,7 +1514,7 @@
     "1514": {
       "id": "1514",
       "name": "Pokemon TCG: Gem Pack Vol. 5 Chinese Booster Box (18 Packs)",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-gem-pack-vol-5-chinese-booster-box-18-packs.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-gem-pack-vol-5-chinese-booster-box-18-packs.html",
       "sku": "POKEMON-CHINESE-04",
       "price": 74.79,
       "currency": "EUR",
@@ -1524,7 +1524,7 @@
     "1645": {
       "id": "1645",
       "name": "Pokemon TCG: Mega Evolution - Nihil Zero Booster Display (30 Packs) [Japanese]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-mega-evolution-nihil-zero-booster-display-30-packs-japanese.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-mega-evolution-nihil-zero-booster-display-30-packs-japanese.html",
       "sku": "POKEMON-CHINESE-04-2656",
       "price": 112.19,
       "currency": "EUR",
@@ -1534,7 +1534,7 @@
     "1646": {
       "id": "1646",
       "name": "Pokemon TCG: Mega Evolution - Ninja Spinner Booster Display (30 Packs) [Japanese]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-mega-evolution-nihil-zero-booster-display-30-packs-japanese-1646.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-mega-evolution-nihil-zero-booster-display-30-packs-japanese-1646.html",
       "sku": "POKEMON-M4-01",
       "price": 144.91,
       "currency": "EUR",
@@ -1544,7 +1544,7 @@
     "1647": {
       "id": "1647",
       "name": "Pokemon TCG: Gem Pack Vol. 4 Chinese Booster Box (18 Packs)",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-gem-pack-vol-4-chinese-booster-box-18-packs.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-gem-pack-vol-4-chinese-booster-box-18-packs.html",
       "sku": "POKEMON-CHINESE-05",
       "price": 56.09,
       "currency": "EUR",
@@ -1554,7 +1554,7 @@
     "1648": {
       "id": "1648",
       "name": "Pokemon TCG: Gem Pack Vol. 6 Chinese Booster Box (18 Packs)",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-gem-pack-vol-6-chinese-booster-box-18-packs.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-gem-pack-vol-6-chinese-booster-box-18-packs.html",
       "sku": "POKEMON-CHINESE-06",
       "price": 56.09,
       "currency": "EUR",
@@ -1564,7 +1564,7 @@
     "1649": {
       "id": "1649",
       "name": "Pokemon TCG: Pokemon Center Tohoku [Japanese Special Box - Limited Edition]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-pokemon-center-tohoku-japanese-special-box-limited-edition.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-pokemon-center-tohoku-japanese-special-box-limited-edition.html",
       "sku": "POKEMON-CHINESE-07",
       "price": 186.98,
       "currency": "EUR",
@@ -1574,7 +1574,7 @@
     "1650": {
       "id": "1650",
       "name": "Pokemon TCG: Pokemon Center Fukuoka [Japanese Special Box - Limited Edition] - Copie",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-pokemon-center-fukuoka-japanese-special-box-limited-edition-copie.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-pokemon-center-fukuoka-japanese-special-box-limited-edition-copie.html",
       "sku": "POKEMON-CHINESE-08",
       "price": 205.68,
       "currency": "EUR",
@@ -1584,7 +1584,7 @@
     "1651": {
       "id": "1651",
       "name": "Pokemon TCG: Pokemon Center Hiroshima [Japanese Special Box - Limited Edition]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-pokemon-center-hiroshima-japanese-special-box-limited-edition.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-pokemon-center-hiroshima-japanese-special-box-limited-edition.html",
       "sku": "POKEMON-CHINESE-09",
       "price": 224.37,
       "currency": "EUR",
@@ -1594,7 +1594,7 @@
     "1889": {
       "id": "1889",
       "name": "Pokemon TCG: 30th Celebration (30th C) - Simplified Chinese Booster Box (20 Packs)",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-30th-celebration-30th-c-simplified-chinese-booster-box-20-packs.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-30th-celebration-30th-c-simplified-chinese-booster-box-20-packs.html",
       "sku": "POKEMON-CHINESE-CEL",
       "price": 149.58,
       "currency": "EUR",
@@ -1634,7 +1634,7 @@
     "2011": {
       "id": "2011",
       "name": "Pokemon TCG: Black Crystal Blaze (CSV5C) Chinese Booster Box (15 Packs)",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-black-crystal-blaze-csv5c-chinese-booster-box-15-packs.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-black-crystal-blaze-csv5c-chinese-booster-box-15-packs.html",
       "sku": "POKEMON-CHINESE-10",
       "price": 56.09,
       "currency": "EUR",
@@ -1644,7 +1644,7 @@
     "2012": {
       "id": "2012",
       "name": "Pokemon TCG: Stellar Crystal (CSV9C) Chinese Booster Box (15 Packs)",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-stellar-crystal-csv9c-chinese-booster-box-15-packs.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-stellar-crystal-csv9c-chinese-booster-box-15-packs.html",
       "sku": "POKEMON-CHINESE-11",
       "price": 65.44,
       "currency": "EUR",
@@ -1654,7 +1654,7 @@
     "2013": {
       "id": "2013",
       "name": "Pokemon TCG: Dream Painting Vol.1 Water Ecology Figure Set",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-dream-painting-vol-1-water-ecology-figure-set.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-dream-painting-vol-1-water-ecology-figure-set.html",
       "sku": "POKEMON-CHINESE-14",
       "price": 37.4,
       "currency": "EUR",
@@ -1664,7 +1664,7 @@
     "2015": {
       "id": "2015",
       "name": "Pokemon TCG: Chasing Glory Together (CSV10C) Slim Chinese Booster Box (15 Packs)",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-chasing-glory-together-csv10c-chinese-booster-box-15-packs.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-chasing-glory-together-csv10c-chinese-booster-box-15-packs.html",
       "sku": "POKEMON-CHINESE-15",
       "price": 65.44,
       "currency": "EUR",
@@ -1674,7 +1674,7 @@
     "2016": {
       "id": "2016",
       "name": "Pokemon TCG: Dream Painting Eevee & Evolutions (Eevee & Friends)",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-dream-painting-eevee-evolutions-eevee-friends.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-dream-painting-eevee-evolutions-eevee-friends.html",
       "sku": "POKEMON-CHINESE-16",
       "price": 37.4,
       "currency": "EUR",
@@ -1684,7 +1684,7 @@
     "2017": {
       "id": "2017",
       "name": "Pokemon TCG: Dream Painting Pikachu 30th Celebration",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-dream-painting-pikachu-30th-celebration.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-dream-painting-pikachu-30th-celebration.html",
       "sku": "POKEMON-CHINESE-17",
       "price": 41.14,
       "currency": "EUR",
@@ -1704,7 +1704,7 @@
     "2380": {
       "id": "2380",
       "name": "Pokemon TCG: Delta Reign Booster Box Display (36 Packs)",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-delta-reign-booster-box-display-36-packs.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-delta-reign-booster-box-display-36-packs.html",
       "sku": "DELTA-BB-01",
       "price": 196.33,
       "currency": "EUR",
@@ -1724,7 +1724,7 @@
     "2382": {
       "id": "2382",
       "name": "Pokemon TCG: Delta Reign Booster Bundle",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-delta-reign-booster-bundle.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-delta-reign-booster-bundle.html",
       "sku": "DELTA-BUNDLES-01",
       "price": 44.87,
       "currency": "EUR",
@@ -1744,7 +1744,7 @@
     "2500": {
       "id": "2500",
       "name": "Pokemon TCG: Chaos Rising Mini Tin Display (10 Mini-Tins)",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-chaos-rising-mini-tin-display-10-mini-tins.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-chaos-rising-mini-tin-display-10-mini-tins.html",
       "sku": "LUM-01",
       "price": 149.58,
       "currency": "EUR",
@@ -1754,7 +1754,7 @@
     "2501": {
       "id": "2501",
       "name": "Pokemon TCG: Pikachu and Friends Blind Box",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-pikachu-and-friends-blind-box.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-pikachu-and-friends-blind-box.html",
       "sku": "POKEMON-CHINESE-18",
       "price": 33.47,
       "currency": "EUR",
@@ -1764,7 +1764,7 @@
     "2502": {
       "id": "2502",
       "name": "Pokemon TCG: True Mystery (CSV6C) Slim Chinese Booster Box (15 Packs)",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-true-mystery-csv6c-slim-chinese-booster-box-15-packs.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-true-mystery-csv6c-slim-chinese-booster-box-15-packs.html",
       "sku": "POKEMON-CHINESE-20",
       "price": 51.42,
       "currency": "EUR",
@@ -1774,7 +1774,7 @@
     "2764": {
       "id": "2764",
       "name": "Pokemon TCG: Deck Crafter Collection",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-deck-crafter-collection.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-deck-crafter-collection.html",
       "sku": "PCI10681",
       "price": 12.9,
       "currency": "EUR",
@@ -1784,7 +1784,7 @@
     "2779": {
       "id": "2779",
       "name": "Pokemon TCG: 30th Battle Deck [Espeon]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-30th-battle-deck-espeon.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-30th-battle-deck-espeon.html",
       "sku": "PCI10468",
       "price": 37.4,
       "currency": "EUR",
@@ -1794,7 +1794,7 @@
     "2780": {
       "id": "2780",
       "name": "Pokemon TCG: 30th Battle Deck [Umbreon]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-30th-battle-deck-umbreon.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-30th-battle-deck-umbreon.html",
       "sku": "PCI10468-02",
       "price": 37.4,
       "currency": "EUR",
@@ -1874,7 +1874,7 @@
     "4131": {
       "id": "4131",
       "name": "Pokemon TCG: Delta Reign Premium Checklane Blister [Ampharos]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-delta-reign-premium-checklane-blister-ampharos.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-delta-reign-premium-checklane-blister-ampharos.html",
       "sku": "DELTA-CHECKLANE-01",
       "price": 8.41,
       "currency": "EUR",
@@ -1884,7 +1884,7 @@
     "4132": {
       "id": "4132",
       "name": "Pokemon TCG: Delta Reign Premium Checklane Blister [Delphox]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-delta-reign-premium-checklane-blister-delphox.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-delta-reign-premium-checklane-blister-delphox.html",
       "sku": "DELTA-CHECKLANE-02",
       "price": 8.41,
       "currency": "EUR",
@@ -1894,7 +1894,7 @@
     "4175": {
       "id": "4175",
       "name": "Pokemon TCG: Gem Pack Vol. 7 Chinese Booster Box (18 Packs)",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-gem-pack-vol-7-chinese-booster-box-18-packs.html",
+      "url": "https://www.ramcards.ro/en/preorders/pokemon-tcg-gem-pack-vol-7-chinese-booster-box-18-packs.html",
       "sku": "POKEMON-CHINESE-07-8994",
       "price": 56.09,
       "currency": "EUR",
@@ -1904,7 +1904,7 @@
     "4181": {
       "id": "4181",
       "name": "Pokemon TCG: Mega Forces Tin [Mega Zeraora]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-mega-forces-tin-mega-zeraora.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-mega-forces-tin-mega-zeraora.html",
       "sku": "Tin-Zeraora",
       "price": 32.72,
       "currency": "EUR",
@@ -1914,7 +1914,7 @@
     "4182": {
       "id": "4182",
       "name": "Pokemon TCG: Mega Forces Tin [Mega Darkrai]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-mega-forces-tin-mega-darkrai.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-mega-forces-tin-mega-darkrai.html",
       "sku": "Tin-Darkrai",
       "price": 32.72,
       "currency": "EUR",
@@ -1934,7 +1934,7 @@
     "4184": {
       "id": "4184",
       "name": "Pokémon TCG: Delta Reign Build & Battle Bundle",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-delta-reign-build-battle-bundle.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-delta-reign-build-battle-bundle.html",
       "sku": "DELTA-15",
       "price": 33.66,
       "currency": "EUR",
@@ -1944,7 +1944,7 @@
     "7825": {
       "id": "7825",
       "name": "Pokemon TCG: Flowing Fists Premium Checklane Blister [Primarina]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-flowing-fists-premium-checklane-blister-primarina.html",
+      "url": "https://www.ramcards.ro/en/preorders/pokemon-tcg-flowing-fists-premium-checklane-blister-primarina.html",
       "sku": "FISTS-CHECKLANE-01",
       "price": 8.41,
       "currency": "EUR",
@@ -1954,7 +1954,7 @@
     "7826": {
       "id": "7826",
       "name": "Pokemon TCG: Flowing Fists Premium Checklane Blister [Bastiodon]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-flowing-fists-premium-checklane-blister-bastiodon.html",
+      "url": "https://www.ramcards.ro/en/preorders/pokemon-tcg-flowing-fists-premium-checklane-blister-bastiodon.html",
       "sku": "FISTS-CHECKLANE-02",
       "price": 8.41,
       "currency": "EUR",
@@ -1964,7 +1964,7 @@
     "7827": {
       "id": "7827",
       "name": "Pokemon TCG: Flowing Fists 3-Pack Blister [Wimpod]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-flowing-fists-3-pack-blister-wimpod.html",
+      "url": "https://www.ramcards.ro/en/preorders/pokemon-tcg-flowing-fists-3-pack-blister-wimpod.html",
       "sku": "FISTS-CHECKLANE-03",
       "price": 20.38,
       "currency": "EUR",
@@ -1974,7 +1974,7 @@
     "7828": {
       "id": "7828",
       "name": "Pokemon TCG: Flowing Fists Booster Bundle",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-flowing-fists-booster-bundle.html",
+      "url": "https://www.ramcards.ro/en/preorders/pokemon-tcg-flowing-fists-booster-bundle.html",
       "sku": "FISTS-BUNDLE-01",
       "price": 37.4,
       "currency": "EUR",
@@ -1994,7 +1994,7 @@
     "7830": {
       "id": "7830",
       "name": "Pokemon TCG: Flowing Fists Booster Box (36 Packs)",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-flowing-fists-booster-box-36-packs.html",
+      "url": "https://www.ramcards.ro/en/preorders/pokemon-tcg-flowing-fists-booster-box-36-packs.html",
       "sku": "FISTS-ETB-01-4494",
       "price": 201.94,
       "currency": "EUR",
