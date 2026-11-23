@@ -1,10 +1,10 @@
 {
-  "scannedAt": "2026-11-23T11:31:20.681Z",
+  "scannedAt": "2026-11-23T13:16:22.656Z",
   "products": {
     "1": {
       "id": "1",
       "name": "Pokémon TCG: Scarlet & Violet-Journey Together Booster Display Box (36 Packs)",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-journey-together-booster-display-box-36-packs.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-scarlet-violet-journey-together-booster-display-box-36-packs.html",
       "sku": "JTG01",
       "price": 168.28,
       "currency": "EUR",
@@ -24,7 +24,7 @@
     "4": {
       "id": "4",
       "name": "Pokémon TCG: Scarlet & Violet-Prismatic Evolutions Mini Tin (Sylveon)",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-sylveon.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-sylveon.html",
       "sku": "PRE01",
       "price": 20.38,
       "currency": "EUR",
@@ -34,7 +34,7 @@
     "5": {
       "id": "5",
       "name": "Pokémon TCG: Scarlet & Violet-Prismatic Evolutions Mini Tin (Espeon)",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-espeon.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-espeon.html",
       "sku": "PRE02",
       "price": 20.38,
       "currency": "EUR",
@@ -44,7 +44,7 @@
     "6": {
       "id": "6",
       "name": "Pokémon TCG: Scarlet & Violet-Prismatic Evolutions Mini Tin (Vaporeon)",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-vaporeon.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-vaporeon.html",
       "sku": "PRE03",
       "price": 20.38,
       "currency": "EUR",
@@ -54,7 +54,7 @@
     "7": {
       "id": "7",
       "name": "Pokémon TCG: Scarlet & Violet-Prismatic Evolutions Mini Tin (Glaceon)",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-glaceon.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-glaceon.html",
       "sku": "PRE04",
       "price": 20.38,
       "currency": "EUR",
@@ -64,7 +64,7 @@
     "8": {
       "id": "8",
       "name": "Pokémon TCG: Scarlet & Violet-Prismatic Evolutions Mini Tin (Jolteon)",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-jolteon.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-jolteon.html",
       "sku": "PRE05",
       "price": 20.38,
       "currency": "EUR",
@@ -74,7 +74,7 @@
     "9": {
       "id": "9",
       "name": "Pokémon TCG: Scarlet & Violet-Prismatic Evolutions Mini Tin (Leafeon)",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-leafeon.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-leafeon.html",
       "sku": "PRE06",
       "price": 20.38,
       "currency": "EUR",
@@ -84,7 +84,7 @@
     "10": {
       "id": "10",
       "name": "Pokémon TCG: Scarlet & Violet-Prismatic Evolutions Mini Tin (Flareon)",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-flareon.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-flareon.html",
       "sku": "PRE07",
       "price": 20.38,
       "currency": "EUR",
@@ -94,7 +94,7 @@
     "11": {
       "id": "11",
       "name": "Pokémon TCG: Scarlet & Violet-Prismatic Evolutions Mini Tin (Umbreon)",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-umbreon.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-umbreon.html",
       "sku": "PRE08",
       "price": 23.37,
       "currency": "EUR",
@@ -104,7 +104,7 @@
     "16": {
       "id": "16",
       "name": "Pokémon TCG: Mega Evolution - Ascended Heroes Elite Trainer Box",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokémon-tcg-mega-evolution-ascended-heroes-elite-trainer-box.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/precomanda-pokémon-tcg-mega-evolution-ascended-heroes-elite-trainer-box.html",
       "sku": "ASC01",
       "price": 59.65,
       "currency": "EUR",
@@ -114,7 +114,7 @@
     "18": {
       "id": "18",
       "name": "Pokémon TCG: Scarlet & Violet-Stellar Crown Booster Display Box (36 Packs)",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-stellar-crown-booster-display-box-36-packs.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-scarlet-violet-stellar-crown-booster-display-box-36-packs.html",
       "sku": "SCR01",
       "price": 168.28,
       "currency": "EUR",
@@ -124,7 +124,7 @@
     "19": {
       "id": "19",
       "name": "Pokémon TCG: Scarlet & Violet-Stellar Crown Booster Pack",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-stellar-crown-booster-pack.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-scarlet-violet-stellar-crown-booster-pack.html",
       "sku": "SCR02",
       "price": 5.61,
       "currency": "EUR",
@@ -134,7 +134,7 @@
     "20": {
       "id": "20",
       "name": "Pokémon TCG: Scarlet & Violet-Surging Sparks Booster Display Box (36 Packs)",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-surging-sparks-booster-display-box-36-packs.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-scarlet-violet-surging-sparks-booster-display-box-36-packs.html",
       "sku": "SSP01",
       "price": 168.28,
       "currency": "EUR",
@@ -144,7 +144,7 @@
     "21": {
       "id": "21",
       "name": "Pokémon TCG: Scarlet & Violet-Surging Sparks Booster Pack",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-surging-sparks-booster-pack.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-scarlet-violet-surging-sparks-booster-pack.html",
       "sku": "SSP02",
       "price": 6.54,
       "currency": "EUR",
@@ -414,7 +414,7 @@
     "48": {
       "id": "48",
       "name": "Pokémon TCG: Team Rocket Tin [Persian]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-team-rocket-tin-persian.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-team-rocket-tin-persian.html",
       "sku": "DRI01",
       "price": 37.21,
       "currency": "EUR",
@@ -424,7 +424,7 @@
     "49": {
       "id": "49",
       "name": "Pokémon TCG: Team Rocket Tin [Mewtwo]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-team-rocket-tin-mewtwo.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-team-rocket-tin-mewtwo.html",
       "sku": "DRI02",
       "price": 37.21,
       "currency": "EUR",
@@ -434,7 +434,7 @@
     "50": {
       "id": "50",
       "name": "Pokémon TCG: Team Rocket Tin [Nidoking]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-team-rocket-tin-nidoking.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-team-rocket-tin-nidoking.html",
       "sku": "DRI03",
       "price": 37.21,
       "currency": "EUR",
@@ -454,7 +454,7 @@
     "52": {
       "id": "52",
       "name": "Pokémon TCG: Team Rocket/'s Mewtwo ex Box",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-team-rocket-s-mewtwo-ex-box.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-team-rocket-s-mewtwo-ex-box.html",
       "sku": "DRI04",
       "price": 46.74,
       "currency": "EUR",
@@ -1174,7 +1174,7 @@
     "1028": {
       "id": "1028",
       "name": "BUNDLE: 4x Booster Packs Destined Rivals (DRI) + Album 4 Pocket A5",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/bundle-4x-booster-packs-destined-rivals-dri-album-4-pocket-a5.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/bundle-4x-booster-packs-destined-rivals-dri-album-4-pocket-a5.html",
       "sku": "BUNDLE-DESTINED",
       "price": 37.4,
       "currency": "EUR",
@@ -1184,7 +1184,7 @@
     "1029": {
       "id": "1029",
       "name": "Pokémon TCG: Scarlet & Violet-Destined Rivals Booster Pack",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-destined-rivals-booster-pack.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-scarlet-violet-destined-rivals-booster-pack.html",
       "sku": "PCI10617",
       "price": 5.61,
       "currency": "EUR",
@@ -1194,7 +1194,7 @@
     "1032": {
       "id": "1032",
       "name": "Pokémon TCG: Scarlet & Violet-Destined Rivals Booster Box",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-scarlet-violet-destined-rivals-booster-box.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-scarlet-violet-destined-rivals-booster-box.html",
       "sku": "PCI10617-8255",
       "price": 168.28,
       "currency": "EUR",
@@ -1464,7 +1464,7 @@
     "1506": {
       "id": "1506",
       "name": "Pokemon TCG: Destined Rivals Elite Trainer Box",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-destined-rivals-elite-trainer-box.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-destined-rivals-elite-trainer-box.html",
       "sku": "DRI-ETB-01",
       "price": 65.44,
       "currency": "EUR",
@@ -1694,7 +1694,7 @@
     "2379": {
       "id": "2379",
       "name": "Pokemon TCG: Delta Reign Elite Trainer Box",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-delta-reign-elite-trainer-box.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-delta-reign-elite-trainer-box.html",
       "sku": "DELTA-ETB-01",
       "price": 74.79,
       "currency": "EUR",
@@ -1734,7 +1734,7 @@
     "2383": {
       "id": "2383",
       "name": "Pokemon TCG: Delta Reign 3 Pack Blister",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-delta-reign-3-pack-blister.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-delta-reign-3-pack-blister.html",
       "sku": "DELTA-BLISTER-01",
       "price": 20.38,
       "currency": "EUR",
@@ -1834,7 +1834,7 @@
     "2785": {
       "id": "2785",
       "name": "Pokemon TCG: 30th Celebration - Figure Collection [Mew]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-30th-celebration-figure-collection-mew.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-30th-celebration-figure-collection-mew.html",
       "sku": "PCI10452",
       "price": 65.44,
       "currency": "EUR",
@@ -1844,7 +1844,7 @@
     "2786": {
       "id": "2786",
       "name": "Pokemon TCG: 30th Celebration - Figure Collection [Mewtwo]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-30th-celebration-figure-collection-mewtwo.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-30th-celebration-figure-collection-mewtwo.html",
       "sku": "PCI10452-02",
       "price": 46.56,
       "currency": "EUR",
@@ -1924,7 +1924,7 @@
     "4183": {
       "id": "4183",
       "name": "Pokemon TCG: Mega Forces Tin [Mega Dragonite]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-mega-forces-tin-mega-dragonite.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-mega-forces-tin-mega-dragonite.html",
       "sku": "Tin-Dragonite",
       "price": 32.72,
       "currency": "EUR",
@@ -1984,7 +1984,7 @@
     "7829": {
       "id": "7829",
       "name": "Pokemon TCG: Flowing Fists Elite Trainer Box",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-flowing-fists-elite-trainer-box.html",
+      "url": "https://www.ramcards.ro/en/preorders/pokemon-tcg-flowing-fists-elite-trainer-box.html",
       "sku": "FISTS-ETB-01",
       "price": 65.44,
       "currency": "EUR",
