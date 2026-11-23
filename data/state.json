@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-23T19:46:23.921Z",
+  "scannedAt": "2026-11-23T20:31:29.166Z",
   "products": {
     "1": {
       "id": "1",
@@ -734,7 +734,7 @@
     "400": {
       "id": "400",
       "name": "TCG: Mega Evolution - Ascended Heroes Trainer Blister",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokemon-tcg-mega-evolution-ascended-heroes-trainer-blister.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/precomanda-pokemon-tcg-mega-evolution-ascended-heroes-trainer-blister.html",
       "sku": "ASC02",
       "price": 14.96,
       "currency": "EUR",
@@ -744,9 +744,9 @@
     "401": {
       "id": "401",
       "name": "Pokémon TCG: Mega Evolution - Ascended Heroes Tech Sticker Collection",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokémon-tcg-mega-evolution-ascended-heroes-tech-sticker-collection.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/precomanda-pokémon-tcg-mega-evolution-ascended-heroes-tech-sticker-collection.html",
       "sku": "ASC03",
-      "price": 22.44,
+      "price": 22.43,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-mega-evolution-ascended-heroes-tech-sticker-collection-364725.jpg"
@@ -754,7 +754,7 @@
     "403": {
       "id": "403",
       "name": "TCG: Mega Evolution - Ascended Heroes Mini Tin Display (10 mini-tins)",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokémon-tcg-mega-evolution-ascended-heroes-mini-tin-display-10-mini-tins.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/precomanda-pokémon-tcg-mega-evolution-ascended-heroes-mini-tin-display-10-mini-tins.html",
       "sku": "ASC04",
       "price": 121.53,
       "currency": "EUR",
@@ -764,7 +764,7 @@
     "404": {
       "id": "404",
       "name": "Pokémon TCG: Mega Evolution - Ascended Heroes Mini Tin (Togepi)",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokémon-tcg-mega-evolution-ascended-heroes-mini-tin-display-togepi.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/precomanda-pokémon-tcg-mega-evolution-ascended-heroes-mini-tin-display-togepi.html",
       "sku": "ASC05",
       "price": 12.71,
       "currency": "EUR",
@@ -774,7 +774,7 @@
     "405": {
       "id": "405",
       "name": "Pokémon TCG: Mega Evolution - Ascended Heroes Mini Tin (Zorua)",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokémon-tcg-mega-evolution-ascended-heroes-mini-tin-display-zorua.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/precomanda-pokémon-tcg-mega-evolution-ascended-heroes-mini-tin-display-zorua.html",
       "sku": "ASC06",
       "price": 12.71,
       "currency": "EUR",
@@ -784,7 +784,7 @@
     "406": {
       "id": "406",
       "name": "Pokémon TCG: Mega Evolution - Ascended Heroes Mini Tin (Clefairy)",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokémon-tcg-mega-evolution-ascended-heroes-mini-tin-display-clefairy.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/precomanda-pokémon-tcg-mega-evolution-ascended-heroes-mini-tin-display-clefairy.html",
       "sku": "ASC07",
       "price": 12.71,
       "currency": "EUR",
@@ -794,7 +794,7 @@
     "407": {
       "id": "407",
       "name": "Pokémon TCG: Mega Evolution - Ascended Heroes Mini Tin (Riolu)",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokémon-tcg-mega-evolution-ascended-heroes-mini-tin-display-riolu.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/precomanda-pokémon-tcg-mega-evolution-ascended-heroes-mini-tin-display-riolu.html",
       "sku": "ASC08",
       "price": 12.71,
       "currency": "EUR",
@@ -804,7 +804,7 @@
     "409": {
       "id": "409",
       "name": "Pokémon TCG: Mega Evolution - Ascended Heroes Mini Tin (Pikachu)",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokémon-tcg-mega-evolution-ascended-heroes-mini-tin-display-pikachu.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/precomanda-pokémon-tcg-mega-evolution-ascended-heroes-mini-tin-display-pikachu.html",
       "sku": "ASC09",
       "price": 13.09,
       "currency": "EUR",
@@ -824,7 +824,7 @@
     "791": {
       "id": "791",
       "name": "Pokémon TCG: Ascended Heroes First Partners Deluxe Pin Collection",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-ascended-heroes-deluxe-pin-collection.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-ascended-heroes-deluxe-pin-collection.html",
       "sku": "PCI10301",
       "price": 31.78,
       "currency": "EUR",
@@ -834,9 +834,9 @@
     "792": {
       "id": "792",
       "name": "Pokémon TCG: Ascended Heroes Premium Poster Collection - Gardevoir",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-ascended-heroes-premium-poster-collection-gardevoir.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-ascended-heroes-premium-poster-collection-gardevoir.html",
       "sku": "ASC11",
-      "price": 63.39,
+      "price": 63.38,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-ascended-heroes-premium-poster-collection-gardevoir-007781.webp"
@@ -844,9 +844,9 @@
     "793": {
       "id": "793",
       "name": "Pokémon TCG: Ascended Heroes Premium Poster Collection - Lucario",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-ascended-heroes-premium-poster-collection-lucario.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-ascended-heroes-premium-poster-collection-lucario.html",
       "sku": "ASC12",
-      "price": 63.39,
+      "price": 63.38,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-ascended-heroes-premium-poster-collection-gardevoir-copie-592879.webp"
@@ -974,7 +974,7 @@
     "807": {
       "id": "807",
       "name": "Pokémon TCG: Ascended Heroes Mega Feraligatr ex Box",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-ascended-heroes-mega-feraligatr-ex-box.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-ascended-heroes-mega-feraligatr-ex-box.html",
       "sku": "ASC15",
       "price": 31.78,
       "currency": "EUR",
@@ -984,7 +984,7 @@
     "808": {
       "id": "808",
       "name": "Pokémon TCG: Ascended Heroes Mega Meganium ex Box",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-ascended-heroes-mega-meganium-ex-box.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-ascended-heroes-mega-meganium-ex-box.html",
       "sku": "ASC14",
       "price": 31.78,
       "currency": "EUR",
@@ -994,7 +994,7 @@
     "809": {
       "id": "809",
       "name": "Pokémon TCG: Ascended Heroes Mega Emboar ex Box",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-ascended-heroes-mega-emboar-ex-box.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-ascended-heroes-mega-emboar-ex-box.html",
       "sku": "ASC13",
       "price": 31.78,
       "currency": "EUR",
@@ -1004,7 +1004,7 @@
     "810": {
       "id": "810",
       "name": "Pokémon TCG: Ascended Heroes Booster Bundle",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-ascended-heroes-booster-bundle.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-ascended-heroes-booster-bundle.html",
       "sku": "PCI10311",
       "price": 29.73,
       "currency": "EUR",
