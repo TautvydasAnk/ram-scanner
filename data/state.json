@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-23T20:46:24.388Z",
+  "scannedAt": "2026-11-23T21:16:24.310Z",
   "products": {
     "1": {
       "id": "1",
@@ -14,7 +14,7 @@
     "2": {
       "id": "2",
       "name": "Pokémon TCG: Scarlet & Violet-Journey Together Booster Pack",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-journey-together-booster-booster-pack.html",
+      "url": "https://www.ramcards.ro/en/trading-card-games-tcg/pokémon-tcg-scarlet-violet-journey-together-booster-booster-pack.html",
       "sku": "JTG02",
       "price": 4.67,
       "currency": "EUR",
@@ -294,7 +294,7 @@
     "36": {
       "id": "36",
       "name": "Pokémon TCG: Charizard ex Special Collection",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-charizard-ex-special-collection.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-charizard-ex-special-collection.html",
       "sku": "Pokemon02",
       "price": 46.74,
       "currency": "EUR",
@@ -374,7 +374,7 @@
     "44": {
       "id": "44",
       "name": "Pokémon TCG: Iono/'s Bellibolt ex Premium Collection",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-iono-s-bellibolt-ex-premium-collection.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-iono-s-bellibolt-ex-premium-collection.html",
       "sku": "Pokemon04",
       "price": 56.09,
       "currency": "EUR",
@@ -524,7 +524,7 @@
     "59": {
       "id": "59",
       "name": "Pokémon TCG: Hop/'s Zacia ex Box",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-hop-s-zacia-ex-box.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-hop-s-zacia-ex-box.html",
       "sku": "Pokemon08",
       "price": 32.72,
       "currency": "EUR",
@@ -714,7 +714,7 @@
     "78": {
       "id": "78",
       "name": "Scarlet & Violet-Journey Together Booster Sleeved Booster Pack",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/scarlet-violet-journey-together-booster-sleeved-booster-pack.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/scarlet-violet-journey-together-booster-sleeved-booster-pack.html",
       "sku": "JTG03",
       "price": 5.61,
       "currency": "EUR",
