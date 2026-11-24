@@ -1,12 +1,12 @@
 {
-  "scannedAt": "2026-11-23T21:16:24.310Z",
+  "scannedAt": "2026-11-24T06:01:19.571Z",
   "products": {
     "1": {
       "id": "1",
       "name": "Pokémon TCG: Scarlet & Violet-Journey Together Booster Display Box (36 Packs)",
       "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-scarlet-violet-journey-together-booster-display-box-36-packs.html",
       "sku": "JTG01",
-      "price": 168.28,
+      "price": 168.27,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-journey-together-booster-display-box-36-packs-773740.jpg"
@@ -106,7 +106,7 @@
       "name": "Pokémon TCG: Mega Evolution - Ascended Heroes Elite Trainer Box",
       "url": "https://www.ramcards.ro/en/sealed-products/precomanda-pokémon-tcg-mega-evolution-ascended-heroes-elite-trainer-box.html",
       "sku": "ASC01",
-      "price": 59.65,
+      "price": 59.64,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-mega-evolution-ascended-heroes-elite-trainer-box-782805.jpg"
@@ -116,7 +116,7 @@
       "name": "Pokémon TCG: Scarlet & Violet-Stellar Crown Booster Display Box (36 Packs)",
       "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-scarlet-violet-stellar-crown-booster-display-box-36-packs.html",
       "sku": "SCR01",
-      "price": 168.28,
+      "price": 168.27,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-stellar-crown-booster-display-box-36-packs-082012.jpg"
@@ -136,7 +136,7 @@
       "name": "Pokémon TCG: Scarlet & Violet-Surging Sparks Booster Display Box (36 Packs)",
       "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-scarlet-violet-surging-sparks-booster-display-box-36-packs.html",
       "sku": "SSP01",
-      "price": 168.28,
+      "price": 168.27,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-surging-sparks-booster-display-box-36-packs-911240.jpg"
@@ -164,9 +164,9 @@
     "23": {
       "id": "23",
       "name": "Pokémon TCG: Scarlet & Violet-Prismatic Evolutions Mini Tin Display (8 Mini Tins)",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-display-8-mini-tins.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-display-8-mini-tins.html",
       "sku": "PRE09",
-      "price": 168.28,
+      "price": 168.27,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-prismatic-evolutions-mini-tin-display-8-mini-tins-511361.jpg"
@@ -186,7 +186,7 @@
       "name": "Pokémon TCG: Unova Mini Tin Display (8 Mini Tins)",
       "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-unova-mini-tin-display-8-mini-tins.html",
       "sku": "BLK01",
-      "price": 168.28,
+      "price": 168.27,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-unova-mini-tin-display-8-mini-tins-673773.jpg"
@@ -194,9 +194,9 @@
     "26": {
       "id": "26",
       "name": "Pokémon TCG: Prismatic Evolutions Premium Figure Collection",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-prismatic-evolutions-premium-figure-collection.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-prismatic-evolutions-premium-figure-collection.html",
       "sku": "PRE10",
-      "price": 186.98,
+      "price": 186.97,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-prismatic-evolutions-premium-figure-collection-103700.jpg"
@@ -244,7 +244,7 @@
     "31": {
       "id": "31",
       "name": "Pokémon TCG: Phantasmal Flames Elite Trainer Box",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-phantasmal-flames-elite-trainer-box.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-phantasmal-flames-elite-trainer-box.html",
       "sku": "PFL01",
       "price": 84.14,
       "currency": "EUR",
@@ -254,7 +254,7 @@
     "32": {
       "id": "32",
       "name": "Pokémon TCG: Paldean Fates Tin [Great Tusk ex] USA edition",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-paldean-fates-tin-great-tusk-ex-usa-edition.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-paldean-fates-tin-great-tusk-ex-usa-edition.html",
       "sku": "PAF01",
       "price": 74.79,
       "currency": "EUR",
@@ -264,7 +264,7 @@
     "33": {
       "id": "33",
       "name": "Pokémon TCG: Paldean Fates Tin [Great Tusk ex] EU edition",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-paldean-fates-tin-great-tusk-ex-eu-edition.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-paldean-fates-tin-great-tusk-ex-eu-edition.html",
       "sku": "PAF02",
       "price": 56.09,
       "currency": "EUR",
@@ -274,7 +274,7 @@
     "34": {
       "id": "34",
       "name": "Pokémon TCG: Paldea Partners Tin [Skeledirge ex]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-paldea-partners-tin-skeledirge-ex.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-paldea-partners-tin-skeledirge-ex.html",
       "sku": "PAL01",
       "price": 28.05,
       "currency": "EUR",
@@ -324,7 +324,7 @@
     "39": {
       "id": "39",
       "name": "Pokémon TCG: Prismatic Evolutions Accesory Pouch Special Collection",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-prismatic-evolutions-accesory-pouch-special-collection.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-prismatic-evolutions-accesory-pouch-special-collection.html",
       "sku": "PRE11",
       "price": 56.09,
       "currency": "EUR",
@@ -394,7 +394,7 @@
     "46": {
       "id": "46",
       "name": "Pokémon TCG: Prismatic Evolutions Surprise Box",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-prismatic-evolutions-surprise-box.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-prismatic-evolutions-surprise-box.html",
       "sku": "PRE12",
       "price": 56.09,
       "currency": "EUR",
@@ -404,7 +404,7 @@
     "47": {
       "id": "47",
       "name": "Pokémon TCG: Phantasmal Flames Booster Bundle",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-phantasmal-flames-booster-bundle.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-phantasmal-flames-booster-bundle.html",
       "sku": "PFL02",
       "price": 46.74,
       "currency": "EUR",
@@ -414,7 +414,7 @@
     "48": {
       "id": "48",
       "name": "Pokémon TCG: Team Rocket Tin [Persian]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-team-rocket-tin-persian.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-team-rocket-tin-persian.html",
       "sku": "DRI01",
       "price": 37.21,
       "currency": "EUR",
@@ -424,7 +424,7 @@
     "49": {
       "id": "49",
       "name": "Pokémon TCG: Team Rocket Tin [Mewtwo]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-team-rocket-tin-mewtwo.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-team-rocket-tin-mewtwo.html",
       "sku": "DRI02",
       "price": 37.21,
       "currency": "EUR",
@@ -434,7 +434,7 @@
     "50": {
       "id": "50",
       "name": "Pokémon TCG: Team Rocket Tin [Nidoking]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-team-rocket-tin-nidoking.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-team-rocket-tin-nidoking.html",
       "sku": "DRI03",
       "price": 37.21,
       "currency": "EUR",
@@ -444,7 +444,7 @@
     "51": {
       "id": "51",
       "name": "Pokémon TCG: Phantasmal Flames Build & Battle Box",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-phantasmal-flames-build-battle-box.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-phantasmal-flames-build-battle-box.html",
       "sku": "PFL03",
       "price": 46.74,
       "currency": "EUR",
@@ -454,7 +454,7 @@
     "52": {
       "id": "52",
       "name": "Pokémon TCG: Team Rocket/'s Mewtwo ex Box",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-team-rocket-s-mewtwo-ex-box.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-team-rocket-s-mewtwo-ex-box.html",
       "sku": "DRI04",
       "price": 46.74,
       "currency": "EUR",
@@ -494,7 +494,7 @@
     "56": {
       "id": "56",
       "name": "Pokémon TCG: Paldea Legends Tin [Miraidon ex]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-paldea-legends-tin-miraidon-ex.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-paldea-legends-tin-miraidon-ex.html",
       "sku": "PAL04",
       "price": 28.05,
       "currency": "EUR",
@@ -504,7 +504,7 @@
     "57": {
       "id": "57",
       "name": "Pokémon TCG: Paldea Legends Tin [Koraidon ex]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-paldea-legends-tin-koraidon-ex.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-paldea-legends-tin-koraidon-ex.html",
       "sku": "PAL05",
       "price": 28.05,
       "currency": "EUR",
@@ -514,7 +514,7 @@
     "58": {
       "id": "58",
       "name": "Pokémon TCG: Shrouded Fable 3 Pack Blister [Pecharunt]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-shrouded-fable-3-pack-blister-pecharunt.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-shrouded-fable-3-pack-blister-pecharunt.html",
       "sku": "SFA01",
       "price": 28.05,
       "currency": "EUR",
@@ -546,7 +546,7 @@
       "name": "Pokémon TCG: Paradox Destinies Tin [Iron Boulder ex]",
       "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-paradox-destinies-tin-iron-boulder-ex.html",
       "sku": "PAR01",
-      "price": 28.04,
+      "price": 28.05,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-paradox-destinies-tin-iron-boulder-ex-002221.jpg"
@@ -554,7 +554,7 @@
     "62": {
       "id": "62",
       "name": "Pokémon TCG: Paradox Clash Tin [Walking Wake ex]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-paradox-clash-tin-walking-wake-ex.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-paradox-clash-tin-walking-wake-ex.html",
       "sku": "PAR02",
       "price": 28.05,
       "currency": "EUR",
@@ -564,7 +564,7 @@
     "63": {
       "id": "63",
       "name": "Pokémon TCG: Paradox Clash Tin [Iron Leaves ex]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-paradox-clash-tin-iron-leaves-ex.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-paradox-clash-tin-iron-leaves-ex.html",
       "sku": "PAR03",
       "price": 28.05,
       "currency": "EUR",
@@ -596,7 +596,7 @@
       "name": "Pokémon TCG: Paradox Destinies Tin [Iron Crown ex]",
       "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-paradox-destinies-tin-iron-crown-ex.html",
       "sku": "PAR04",
-      "price": 28.04,
+      "price": 28.05,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-paradox-destinies-tin-iron-crown-ex-688562.jpg"
@@ -616,7 +616,7 @@
       "name": "Pokémon TCG: Paradox Destinies Tin [Raging Bolt ex]",
       "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-paradox-destinies-tin-raging-bolt-ex.html",
       "sku": "PAR05",
-      "price": 28.04,
+      "price": 28.05,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-paradox-destinies-tin-raging-bolt-ex-434534.jpg"
@@ -624,7 +624,7 @@
     "69": {
       "id": "69",
       "name": "Pokémon TCG: Surging Sparks Premium Checklane Blister [Alakazam]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-surging-sparks-premium-checklane-blister-alakazam.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-surging-sparks-premium-checklane-blister-alakazam.html",
       "sku": "SSP03",
       "price": 9.35,
       "currency": "EUR",
@@ -636,7 +636,7 @@
       "name": "Pokémon TCG: Paradox Rift 3 Pack Blister [Arctibax]",
       "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-paradox-rift-3-pack-blister-arctibax.html",
       "sku": "PAR06",
-      "price": 28.04,
+      "price": 28.05,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-paradox-rift-3-pack-blister-arctibax-515506.jpg"
@@ -664,7 +664,7 @@
     "73": {
       "id": "73",
       "name": "Pokémon TCG: Back to School Eraser Blister [Gengar]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-back-to-school-eraser-blister-gengar.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-back-to-school-eraser-blister-gengar.html",
       "sku": "Pokemon12",
       "price": 23.37,
       "currency": "EUR",
@@ -724,7 +724,7 @@
     "399": {
       "id": "399",
       "name": "Pokemon TCG: Pokémon Day 2026 Collection (30th anniversary)",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-pokémon-day-2026-collection-30th-anniversary.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-pokémon-day-2026-collection-30th-anniversary.html",
       "sku": "30TH-01",
       "price": 25.24,
       "currency": "EUR",
@@ -866,7 +866,7 @@
       "name": "Pokémon TCG: Perfect Order Booster Box",
       "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-perfect-order-booster-box.html",
       "sku": "PCI10380",
-      "price": 185.11,
+      "price": 185.1,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-perfect-order-booster-bundle-copie-834885.webp"
@@ -924,7 +924,7 @@
     "802": {
       "id": "802",
       "name": "Pokémon TCG: Phantasmal Flames Mini Portofolio",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-perfect-order-mini-portofolio.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-perfect-order-mini-portofolio.html",
       "sku": "PFL0100",
       "price": 6.36,
       "currency": "EUR",
@@ -1024,7 +1024,7 @@
     "965": {
       "id": "965",
       "name": "Pokémon TCG: Back to School Eraser Blister [Bellibolt]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-back-to-school-eraser-blister-bellibolt.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-back-to-school-eraser-blister-bellibolt.html",
       "sku": "Pokemon-EraserBlister",
       "price": 23.37,
       "currency": "EUR",
@@ -1036,7 +1036,7 @@
       "name": "Pokémon TCG: Mega Zygarde ex Premium Collection Box",
       "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-mega-zygarde-ex-premium-collection-box.html",
       "sku": "PCI10359",
-      "price": 54.04,
+      "price": 54.03,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-iono-s-bellibolt-ex-premium-collection-copie-804892.webp"
@@ -1044,7 +1044,7 @@
     "967": {
       "id": "967",
       "name": "Pokémon TCG: Chaos Rising 3 Pack Blister",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-chaos-rising-3-pack-blister.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-chaos-rising-3-pack-blister.html",
       "sku": "PCI10401",
       "price": 16.83,
       "currency": "EUR",
@@ -1064,7 +1064,7 @@
     "969": {
       "id": "969",
       "name": "Pokémon TCG: Chaos Rising Booster Bundle",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-chaos-rising-booster-bundle.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-chaos-rising-booster-bundle.html",
       "sku": "PCI10403",
       "price": 46.56,
       "currency": "EUR",
@@ -1074,9 +1074,9 @@
     "970": {
       "id": "970",
       "name": "Pokémon TCG: Chaos Rising Booster Box Display",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-chaos-rising-booster-box-display.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-chaos-rising-booster-box-display.html",
       "sku": "PCI10407",
-      "price": 215.03,
+      "price": 215.01,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-booster-box-display-127381.png"
@@ -1084,9 +1084,9 @@
     "971": {
       "id": "971",
       "name": "Pokémon TCG: Chaos Rising Elite Trainer Box",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-chaos-rising-elite-trainer-box.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-chaos-rising-elite-trainer-box.html",
       "sku": "PCI10399",
-      "price": 61.52,
+      "price": 61.51,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-elite-trainer-box-725977.png"
@@ -1114,7 +1114,7 @@
     "974": {
       "id": "974",
       "name": "Pokémon TCG: League Battle Deck [Mega Lucario ex]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-chaos-rising-battle-deck.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-chaos-rising-battle-deck.html",
       "sku": "PCI10360",
       "price": 37.21,
       "currency": "EUR",
@@ -1124,7 +1124,7 @@
     "976": {
       "id": "976",
       "name": "Pokémon TCG: Chaos Rising Build & Battle Bundle",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-chaos-rising-build-and-battle-bundle.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-chaos-rising-build-and-battle-bundle.html",
       "sku": "PCI10400",
       "price": 28.05,
       "currency": "EUR",
@@ -1134,9 +1134,9 @@
     "977": {
       "id": "977",
       "name": "Pokémon TCG: Chaos Rising Mini Tins Display (10 mini tins)",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-chaos-rising-mini-tins-display.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-chaos-rising-mini-tins-display.html",
       "sku": "PCI10392",
-      "price": 121.35,
+      "price": 121.34,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-mini-tins-display-10-mini-tins-027830.png"
@@ -1144,7 +1144,7 @@
     "978": {
       "id": "978",
       "name": "Pokémon TCG: Chaos Rising Summer Tin Assorted",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-chaos-rising-summer-tin-assorted.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-chaos-rising-summer-tin-assorted.html",
       "sku": "PCI10389",
       "price": 24.12,
       "currency": "EUR",
@@ -1174,9 +1174,9 @@
     "1028": {
       "id": "1028",
       "name": "BUNDLE: 4x Booster Packs Destined Rivals (DRI) + Album 4 Pocket A5",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/bundle-4x-booster-packs-destined-rivals-dri-album-4-pocket-a5.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/bundle-4x-booster-packs-destined-rivals-dri-album-4-pocket-a5.html",
       "sku": "BUNDLE-DESTINED",
-      "price": 37.4,
+      "price": 37.39,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/bundle-4x-booster-packs-destined-rivals-dri-album-4-pocket-a5-714067.png"
@@ -1184,7 +1184,7 @@
     "1029": {
       "id": "1029",
       "name": "Pokémon TCG: Scarlet & Violet-Destined Rivals Booster Pack",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokémon-tcg-scarlet-violet-destined-rivals-booster-pack.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-scarlet-violet-destined-rivals-booster-pack.html",
       "sku": "PCI10617",
       "price": 5.61,
       "currency": "EUR",
@@ -1194,9 +1194,9 @@
     "1032": {
       "id": "1032",
       "name": "Pokémon TCG: Scarlet & Violet-Destined Rivals Booster Box",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-scarlet-violet-destined-rivals-booster-box.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-scarlet-violet-destined-rivals-booster-box.html",
       "sku": "PCI10617-8255",
-      "price": 168.28,
+      "price": 168.27,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-scarlet-violet-destined-rivals-booster-pack-copie-729429.jpg"
@@ -1204,9 +1204,9 @@
     "1038": {
       "id": "1038",
       "name": "Pokemon TCG: Prismatic Evolutions Elite Trainer Box",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-prismatic-evolutions-elite-trainer-box.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-prismatic-evolutions-elite-trainer-box.html",
       "sku": "PRE101",
-      "price": 61.52,
+      "price": 61.51,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-prismatic-evolutions-elite-trainer-box-895188.png"
@@ -1274,9 +1274,9 @@
     "1088": {
       "id": "1088",
       "name": "Pokemon TCG: Mega Greninja ex Premium Collection Box",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-mega-greninja-ex-premium-collection-box.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-mega-greninja-ex-premium-collection-box.html",
       "sku": "PCI10413",
-      "price": 59.65,
+      "price": 59.64,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-zygarde-ex-premium-collection-box-copie-048891.webp"
@@ -1284,7 +1284,7 @@
     "1274": {
       "id": "1274",
       "name": "Pokemon TCG: Mega Moonlit Tin [Mega Clefable ex]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-mega-moonlit-tin-mega-clefable-ex.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/preorder-pokemon-tcg-mega-moonlit-tin-mega-clefable-ex.html",
       "sku": "PCI10389-01",
       "price": 28.05,
       "currency": "EUR",
@@ -1294,7 +1294,7 @@
     "1275": {
       "id": "1275",
       "name": "Pokemon TCG: Mega Moonlit Tin [Mega Gengar ex]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-mega-moonlit-tin-mega-gengar-ex.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/preorder-pokemon-tcg-mega-moonlit-tin-mega-gengar-ex.html",
       "sku": "PCI10389-02",
       "price": 25.99,
       "currency": "EUR",
@@ -1354,7 +1354,7 @@
     "1416": {
       "id": "1416",
       "name": "Pokémon TCG: Pitch Black Premium Checklane Blister",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokémon-tcg-pitch-black-premium-checklane-blister.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/preorder-pokémon-tcg-pitch-black-premium-checklane-blister.html",
       "sku": "PCI110421-108",
       "price": 7.29,
       "currency": "EUR",
@@ -1364,7 +1364,7 @@
     "1422": {
       "id": "1422",
       "name": "Preorder Pokemon TCG: Q3 Fall Tin",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-q3-fall-tin.html",
+      "url": "https://www.ramcards.ro/en/preorders/preorder-pokemon-tcg-q3-fall-tin.html",
       "sku": "PCI10411",
       "price": 32.72,
       "currency": "EUR",
@@ -1374,9 +1374,9 @@
     "1424": {
       "id": "1424",
       "name": "Pokemon TCG: 30th Anniversary Booster Bundle",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-30th-anniversary-booster-bundle.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-30th-anniversary-booster-bundle.html",
       "sku": "PCI10451",
-      "price": 33.66,
+      "price": 33.65,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-chaos-rising-booster-bundle-copie-225464.jpeg"
@@ -1384,9 +1384,9 @@
     "1425": {
       "id": "1425",
       "name": "Pokemon TCG: 30th Anniversary Mini-Tins Display [10x mini-tins]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/preorder-pokemon-tcg-30th-anniversary-mini-tins-display-10x-mini-tins.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/preorder-pokemon-tcg-30th-anniversary-mini-tins-display-10x-mini-tins.html",
       "sku": "PCI10465",
-      "price": 149.58,
+      "price": 149.57,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-30th-anniversary-booster-bundle-copie-670448.jpeg"
@@ -1394,7 +1394,7 @@
     "1426": {
       "id": "1426",
       "name": "Pokemon TCG: 30th Anniversary 2-Pack Blister",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokemon-tcg-30th-anniversary-2-pack-blister.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/precomanda-pokemon-tcg-30th-anniversary-2-pack-blister.html",
       "sku": "PCI10666",
       "price": 16.64,
       "currency": "EUR",
@@ -1404,7 +1404,7 @@
     "1427": {
       "id": "1427",
       "name": "Pokemon TCG: 30th Anniversary Greninja ex Box",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokemon-tcg-30th-anniversary-greninja-ex-box.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/precomanda-pokemon-tcg-30th-anniversary-greninja-ex-box.html",
       "sku": "PCI10463-114",
       "price": 26.18,
       "currency": "EUR",
@@ -1414,7 +1414,7 @@
     "1428": {
       "id": "1428",
       "name": "Pokemon TCG: 30th Anniversary Sylveon ex Box",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokemon-tcg-30th-anniversary-sylveon-ex-box.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/precomanda-pokemon-tcg-30th-anniversary-sylveon-ex-box.html",
       "sku": "PCI10463-108",
       "price": 26.18,
       "currency": "EUR",
@@ -1424,7 +1424,7 @@
     "1429": {
       "id": "1429",
       "name": "Pokemon TCG: 30th Anniversary Elite Trainer Box",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokemon-tcg-30th-anniversary-elite-trainer-box.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/precomanda-pokemon-tcg-30th-anniversary-elite-trainer-box.html",
       "sku": "PCI10447",
       "price": 59.83,
       "currency": "EUR",
@@ -1434,7 +1434,7 @@
     "1430": {
       "id": "1430",
       "name": "Pokemon TCG: 30th Anniversary Poster Collection",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokemon-tcg-30th-anniversary-poster-collection.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/precomanda-pokemon-tcg-30th-anniversary-poster-collection.html",
       "sku": "PCI10467",
       "price": 26.18,
       "currency": "EUR",
@@ -1444,7 +1444,7 @@
     "1431": {
       "id": "1431",
       "name": "Pokemon TCG: 30th Anniversary Binder Collection",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokemon-tcg-30th-anniversary-binder-collection.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/precomanda-pokemon-tcg-30th-anniversary-binder-collection.html",
       "sku": "PCI10450",
       "price": 46.74,
       "currency": "EUR",
@@ -1454,7 +1454,7 @@
     "1432": {
       "id": "1432",
       "name": "Precomanda Pokemon TCG: 30th Anniversary Tech Sticker Collection",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokemon-tcg-30th-anniversary-tech-sticker-collection.html",
+      "url": "https://www.ramcards.ro/en/preorders/precomanda-pokemon-tcg-30th-anniversary-tech-sticker-collection.html",
       "sku": "PCI10449",
       "price": 21.5,
       "currency": "EUR",
@@ -1464,7 +1464,7 @@
     "1506": {
       "id": "1506",
       "name": "Pokemon TCG: Destined Rivals Elite Trainer Box",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-destined-rivals-elite-trainer-box.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-destined-rivals-elite-trainer-box.html",
       "sku": "DRI-ETB-01",
       "price": 65.44,
       "currency": "EUR",
@@ -1494,7 +1494,7 @@
     "1511": {
       "id": "1511",
       "name": "Pokemon TCG: Greninja V-Union Chinese Collection",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-greninja-v-union-chinese-collection.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-greninja-v-union-chinese-collection.html",
       "sku": "POKEMON-CHINESE-02",
       "price": 28.05,
       "currency": "EUR",
@@ -1604,9 +1604,9 @@
     "1931": {
       "id": "1931",
       "name": "Pokemon TCG: Espeon & Umbreon ex - Simplified Chinese Celebration Box (15 Packs)",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-espeon-umbreon-ex-simplified-chinese-celebration-box-15-packs.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-espeon-umbreon-ex-simplified-chinese-celebration-box-15-packs.html",
       "sku": "POKEMON-CHINESE-CEL-02",
-      "price": 233.72,
+      "price": 233.71,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-30th-celebration-30th-c-simplified-chinese-booster-box-20-packs-copie-495027.png"
@@ -1614,7 +1614,7 @@
     "1963": {
       "id": "1963",
       "name": "Pokemon TCG: 30th Celebration Tin",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/precomanda-pokemon-tcg-30th-celebration-tin.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/precomanda-pokemon-tcg-30th-celebration-tin.html",
       "sku": "PCI10466",
       "price": 29.73,
       "currency": "EUR",
@@ -1814,9 +1814,9 @@
     "2783": {
       "id": "2783",
       "name": "Pokemon TCG: 30th Celebration - Ultra Premium Collection [Day - Espeon]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon.html",
       "sku": "PCI10448",
-      "price": 243.07,
+      "price": 243.06,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-30th-celebration-ditto-premium-collection-copie-590476.png"
@@ -1824,9 +1824,9 @@
     "2784": {
       "id": "2784",
       "name": "Pokemon TCG: 30th Celebration - Ultra Premium Collection [Night - Umbreon]",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon.html",
       "sku": "PCI10448-02",
-      "price": 243.07,
+      "price": 243.06,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon-copie-852275.png"
@@ -1864,9 +1864,9 @@
     "2800": {
       "id": "2800",
       "name": "Pokemon TCG: Prismatic Evolutions Super Premium Collection",
-      "url": "https://www.ramcards.ro/en/pokemon-tcg/pokemon-tcg-prismatic-evolutions-super-premium-collection.html",
+      "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-prismatic-evolutions-super-premium-collection.html",
       "sku": "PCI10106",
-      "price": 149.58,
+      "price": 149.57,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon-copie-467830.png"
