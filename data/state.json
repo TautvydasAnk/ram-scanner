@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-25T17:46:25.918Z",
+  "scannedAt": "2026-11-25T19:01:18.910Z",
   "products": {
     "1": {
       "id": "1",
@@ -156,7 +156,7 @@
       "name": "Pokémon TCG: Mega Charizard X ex Ultra-Premium Collection",
       "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-mega-charizard-x-ex-ultra-premium-collection.html",
       "sku": "UPC01",
-      "price": 205.89,
+      "price": 205.88,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection-477247.jpg"
@@ -536,7 +536,7 @@
       "name": "Pokémon TCG: Mega Latias ex Box",
       "url": "https://www.ramcards.ro/en/sealed-products/pokémon-tcg-mega-latias-ex-box.html",
       "sku": "MEG06",
-      "price": 32.76,
+      "price": 32.75,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-latias-ex-box-021049.jpg"
@@ -1236,7 +1236,7 @@
       "name": "Pokemon TCG: Pitch Black Booster Box Display (36 Packs)",
       "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-pitch-black-booster-box-display.html",
       "sku": "PitchBlack02",
-      "price": 215.25,
+      "price": 215.24,
       "currency": "EUR",
       "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-booster-box-display-copie-585190.webp"
@@ -1246,7 +1246,7 @@
       "name": "Pokemon TCG: Pitch Black Booster Bundle",
       "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-pitch-black-booster-bundle.html",
       "sku": "PitchBlack03",
-      "price": 32.76,
+      "price": 32.75,
       "currency": "EUR",
       "status": "OutOfStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-chaos-rising-booster-bundle-copie-407221.jpg"
@@ -1346,7 +1346,7 @@
       "name": "Pokemon TCG: First Partner Illustration Collection - Series 3",
       "url": "https://www.ramcards.ro/en/sealed-products/preorder-pokemon-tcg-first-partner-illustration-collection-series-3-2.html",
       "sku": "FirstPartner03",
-      "price": 32.76,
+      "price": 32.75,
       "currency": "EUR",
       "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-first-partner-illustration-collection-series-2-2689339101.jpg"
@@ -1576,7 +1576,7 @@
       "name": "Pokemon TCG: Pokemon Center Fukuoka [Japanese Special Box - Limited Edition] - Copie",
       "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-pokemon-center-fukuoka-japanese-special-box-limited-edition-copie.html",
       "sku": "POKEMON-CHINESE-08",
-      "price": 205.89,
+      "price": 205.88,
       "currency": "EUR",
       "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-pokemon-center-tohoku-japanese-special-box-limited-edition-copie-258720.png"
@@ -1586,7 +1586,7 @@
       "name": "Pokemon TCG: Pokemon Center Hiroshima [Japanese Special Box - Limited Edition]",
       "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-pokemon-center-hiroshima-japanese-special-box-limited-edition.html",
       "sku": "POKEMON-CHINESE-09",
-      "price": 224.61,
+      "price": 224.6,
       "currency": "EUR",
       "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-pokemon-center-fukuoka-japanese-special-box-limited-edition-copie-copie-058135.png"
@@ -1596,7 +1596,7 @@
       "name": "Pokemon TCG: 30th Celebration (30th C) - Simplified Chinese Booster Box (20 Packs)",
       "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-30th-celebration-30th-c-simplified-chinese-booster-box-20-packs.html",
       "sku": "POKEMON-CHINESE-CEL",
-      "price": 149.74,
+      "price": 149.73,
       "currency": "EUR",
       "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-gem-pack-vol-4-chinese-booster-box-18-packs-copie-347421.png"
@@ -1746,7 +1746,7 @@
       "name": "Pokemon TCG: Chaos Rising Mini Tin Display (10 Mini-Tins)",
       "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-chaos-rising-mini-tin-display-10-mini-tins.html",
       "sku": "LUM-01",
-      "price": 149.74,
+      "price": 149.73,
       "currency": "EUR",
       "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-chaos-rising-mini-tin-copie-511809.jpg"
@@ -1906,7 +1906,7 @@
       "name": "Pokemon TCG: Mega Forces Tin [Mega Zeraora]",
       "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-mega-forces-tin-mega-zeraora.html",
       "sku": "Tin-Zeraora",
-      "price": 32.76,
+      "price": 32.75,
       "currency": "EUR",
       "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/precomanda-pokemon-tcg-q3-fall-tin-copie-122187.png"
@@ -1916,7 +1916,7 @@
       "name": "Pokemon TCG: Mega Forces Tin [Mega Darkrai]",
       "url": "https://www.ramcards.ro/en/sealed-products/pokemon-tcg-mega-forces-tin-mega-darkrai.html",
       "sku": "Tin-Darkrai",
-      "price": 32.76,
+      "price": 32.75,
       "currency": "EUR",
       "status": "InStock",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-mega-forces-tin-mega-zeraora-copie-047172.png"
@@ -1996,7 +1996,7 @@
       "name": "Pokemon TCG: Flowing Fists Booster Box (36 Packs)",
       "url": "https://www.ramcards.ro/en/preorders/pokemon-tcg-flowing-fists-booster-box-36-packs.html",
       "sku": "FISTS-ETB-01-4494",
-      "price": 202.15,
+      "price": 202.14,
       "currency": "EUR",
       "status": "PreOrder",
       "image": "https://gomagcdn.ro/domains3/ramcards.ro/files/product/medium/pokemon-tcg-flowing-fists-elite-trainer-box-copie-653354.png"
