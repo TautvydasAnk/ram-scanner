@@ -56,9 +56,20 @@ export const COVERAGE_DROP_ALERT = 5;
 export const ANOMALY_PERSIST_RUNS = 3;
 
 // Politeness / robustness knobs.
-export const REQUEST_DELAY_MS = 400; // pause between page fetches
-export const MAX_RETRIES = 3; // per request, on network / 5xx / 429
+// ramcards.ro (GoMag) rate-limits with HTTP 429; a full scan is ~120 requests, so at 400ms
+// spacing it tripped the limit on most runs (Nov 2026). 1s spacing keeps a run at ~2-3 min.
+export const REQUEST_DELAY_MS = 1000; // pause between page fetches
+export const MAX_RETRIES = 4; // per request, on network / 5xx / 429
 export const REQUEST_TIMEOUT_MS = 30_000;
+// On 429: wait for the server's Retry-After if given, else these per-attempt waits. A
+// sub-second retry just hits the same limit window again. Any wait is capped at the max.
+export const RATE_LIMIT_BACKOFF_MS = [5_000, 15_000, 45_000];
+export const RATE_LIMIT_MAX_WAIT_MS = 90_000;
+
+// Scan-failure alerting. A single failed run (e.g. a transient 429 or network blip) is not
+// actionable and recovers on its own, so only alert once a shop has failed this many runs in a
+// row. The alert is sent ONCE per outage, plus a single "recovered" note when it works again.
+export const SCAN_FAIL_ALERT_RUNS = 3;
 
 // Detail-page verification pass: after the listing scan, re-check out-of-stock items
 // against their authoritative detail page (the listing bug can only hide stock, never

@@ -1,6 +1,6 @@
 import { readFile, writeFile, mkdir, appendFile } from 'node:fs/promises';
 import { dirname } from 'node:path';
-import { MIN_COVERAGE_RATIO, COVERAGE_DROP_ALERT, ANOMALY_PERSIST_RUNS } from './config.js';
+import { MIN_COVERAGE_RATIO, COVERAGE_DROP_ALERT, ANOMALY_PERSIST_RUNS, SCAN_FAIL_ALERT_RUNS } from './config.js';
 import { shops } from './shops/registry.js';
 import { diff, hasChanges, totalChanges } from './diff.js';
 import { renderReport } from './report.js';
@@ -54,6 +54,7 @@ async function processShop(shop, scannedAt) {
   const log = (m) => console.log(`[${shop.id}] ${m}`);
   const previous = await readJson(shop.stateFile);
   const isFirstRun = !previous;
+  const prevFailStreak = previous?.guard?.failStreak ?? 0;
 
   let products;
   try {
@@ -61,11 +62,33 @@ async function processShop(shop, scannedAt) {
   } catch (err) {
     const notice = `scan failed: ${err.message}. Snapshot not updated — the site or its API may be down or changed.`;
     console.error(`[${shop.id}] ⚠️ ${notice}`);
+    if (isFirstRun) {
+      // No baseline to attach a streak to; just report it.
+      return { report: { name: shop.name, changes: { new: [], backInStock: [] }, notice }, summaryLine: `- **${shop.name}**: ⚠️ scan FAILED` };
+    }
+    // Failure debounce: transient failures (a 429, a network blip) recover on their own, so only
+    // alert once the failure has persisted SCAN_FAIL_ALERT_RUNS runs, and only on that one run.
+    // The streak is capped at the threshold so the state file stops changing (no commit per run)
+    // while an outage continues.
+    const failStreak = Math.min(prevFailStreak + 1, SCAN_FAIL_ALERT_RUNS);
+    if (failStreak !== prevFailStreak) {
+      await writeFileEnsured(
+        shop.stateFile,
+        JSON.stringify({ ...previous, guard: { ...previous.guard, failStreak } }, null, 2) + '\n',
+      );
+    }
+    const alertNow = failStreak === SCAN_FAIL_ALERT_RUNS && prevFailStreak < SCAN_FAIL_ALERT_RUNS;
     return {
-      report: { name: shop.name, changes: { new: [], backInStock: [] }, notice },
-      summaryLine: `- **${shop.name}**: ⚠️ scan FAILED`,
+      report: alertNow
+        ? { name: shop.name, changes: { new: [], backInStock: [] }, notice: `${notice} (failed ${failStreak} runs in a row — you'll get one note when it recovers.)` }
+        : null,
+      summaryLine: `- **${shop.name}**: ⚠️ scan FAILED (${failStreak}/${SCAN_FAIL_ALERT_RUNS}${alertNow ? ', alerted' : ''})`,
     };
   }
+  // Only tell the user it recovered if we previously told them it was broken.
+  const recoveredNotice =
+    prevFailStreak >= SCAN_FAIL_ALERT_RUNS ? 'scanning has recovered after repeated failures — back to normal.' : null;
+  if (prevFailStreak > 0) log(`scan recovered after ${prevFailStreak} failed run(s)`);
 
   const currCount = Object.keys(products).length;
   const prevCount = isFirstRun ? null : Object.keys(previous.products).length;
@@ -100,7 +123,7 @@ async function processShop(shop, scannedAt) {
   const snapshot = { scannedAt, products };
   const changes = diff(previous, snapshot);
 
-  if (isFirstRun || prevStreak > 0 || productsChanged(previous.products, products)) {
+  if (isFirstRun || prevStreak > 0 || prevFailStreak > 0 || productsChanged(previous.products, products)) {
     await writeState(products, 0); // reset the streak on any normal/accepted run
   }
 
@@ -110,11 +133,12 @@ async function processShop(shop, scannedAt) {
   }
 
   const drop = prevCount - currCount;
-  const notice =
+  const dropNotice =
     drop >= COVERAGE_DROP_ALERT
       ? `tracked product count dropped from ${prevCount} to ${currCount} (−${drop}). ` +
         `Could be normal delistings, or a partial scan issue worth a glance.`
       : null;
+  const notice = [recoveredNotice, dropNotice].filter(Boolean).join(' ') || null;
 
   const changed = hasChanges(changes);
   const summaryLine =

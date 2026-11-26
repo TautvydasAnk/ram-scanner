@@ -86,6 +86,10 @@ again. Two guards in `src/index.js` catch that:
   pinged. This prevents a block or layout change from corrupting the baseline and flooding you later.
 - **Coverage-drop notice** — a smaller drop (≥ `COVERAGE_DROP_ALERT`, default 5) still processes
   normally but adds a heads-up line to the notification. Both thresholds live in `config.js`.
+- **Scan-failure debounce** — a failed scan (e.g. RamCards rate-limiting with HTTP 429) only alerts
+  once it has failed `SCAN_FAIL_ALERT_RUNS` (default 3) runs in a row, and then only **once** per
+  outage, plus a single "recovered" note when it works again. Transient failures stay silent.
+  On a 429, `fetch.js` honors `Retry-After` (else waits 5s/15s/45s) and slows the rest of the run.
 
 ### RamCards: why not Playwright / a headless browser?
 RamCards renders all product data as JSON-LD in the initial HTML, so a plain HTTP request is enough

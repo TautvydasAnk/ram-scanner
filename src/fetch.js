@@ -1,6 +1,13 @@
 import dns from 'node:dns';
 import { fetch, Agent } from 'undici';
-import { DNS_FALLBACKS, MAX_RETRIES, REQUEST_TIMEOUT_MS, USER_AGENT } from './config.js';
+import {
+  DNS_FALLBACKS,
+  MAX_RETRIES,
+  RATE_LIMIT_BACKOFF_MS,
+  RATE_LIMIT_MAX_WAIT_MS,
+  REQUEST_TIMEOUT_MS,
+  USER_AGENT,
+} from './config.js';
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
@@ -26,11 +33,33 @@ export function lookupWithFallback(hostname, options, callback) {
 // Only the IP lookup changes — undici still sends the original hostname as TLS SNI and Host.
 const dispatcher = new Agent({ connect: { lookup: lookupWithFallback } });
 
+// Retry-After is either delta-seconds or an HTTP date. Returns ms, or null if absent/invalid.
+function parseRetryAfter(value) {
+  if (!value) return null;
+  const secs = Number(value);
+  if (Number.isFinite(secs)) return Math.max(0, secs * 1000);
+  const at = Date.parse(value);
+  return Number.isNaN(at) ? null : Math.max(0, at - Date.now());
+}
+
+// Per-host throttle that kicks in after a 429: every later request to that host this run is
+// preceded by an extra pause, doubling on each further 429 (1s, 2s, 4s, capped at 8s). Once a
+// site says "slow down", keeping the original pace just trips the limit again on the next page.
+const hostThrottleMs = new Map();
+function bumpThrottle(host) {
+  hostThrottleMs.set(host, Math.min((hostThrottleMs.get(host) || 500) * 2, 8000));
+}
+
 // Shared retrying request: browser-like UA, timeout, exponential backoff on network
-// errors / 5xx / 429. Fails fast on other 4xx. Returns the raw response text.
+// errors / 5xx, and a much longer Retry-After-aware backoff on 429. Fails fast on other 4xx.
+// Returns the raw response text.
 async function requestText(url, { method = 'GET', headers = {}, body = null } = {}) {
+  const host = new URL(url).host;
   let lastError;
   for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
+    const throttle = hostThrottleMs.get(host);
+    if (throttle) await sleep(throttle);
+    let retryAfterMs = null;
     const controller = new AbortController();
     const timer = setTimeout(() => controller.abort(), REQUEST_TIMEOUT_MS);
     try {
@@ -43,7 +72,16 @@ async function requestText(url, { method = 'GET', headers = {}, body = null } = 
         headers: { 'User-Agent': USER_AGENT, ...headers },
       });
       if (res.ok) return await res.text();
-      if (res.status === 429 || res.status >= 500) {
+      if (res.status === 429) {
+        lastError = new Error(`HTTP 429 for ${url}`);
+        bumpThrottle(host);
+        const hinted = parseRetryAfter(res.headers.get('retry-after'));
+        retryAfterMs = Math.min(
+          hinted ?? RATE_LIMIT_BACKOFF_MS[Math.min(attempt, RATE_LIMIT_BACKOFF_MS.length) - 1],
+          RATE_LIMIT_MAX_WAIT_MS,
+        );
+        await res.body?.cancel(); // free the connection; we don't need the error page
+      } else if (res.status >= 500) {
         lastError = new Error(`HTTP ${res.status} for ${url}`);
       } else {
         throw new Error(`HTTP ${res.status} for ${url}`);
@@ -53,7 +91,14 @@ async function requestText(url, { method = 'GET', headers = {}, body = null } = 
     } finally {
       clearTimeout(timer);
     }
-    if (attempt < MAX_RETRIES) await sleep(500 * 2 ** (attempt - 1)); // 500ms, 1s, 2s, …
+    if (attempt < MAX_RETRIES) {
+      if (retryAfterMs != null) {
+        console.warn(`  ⚠ rate-limited (429) on ${url}; waiting ${Math.round(retryAfterMs / 1000)}s before retry`);
+        await sleep(retryAfterMs);
+      } else {
+        await sleep(500 * 2 ** (attempt - 1)); // 500ms, 1s, 2s, …
+      }
+    }
   }
   // Node's fetch reports network failures as a bare "fetch failed"; the real reason
   // (ECONNRESET, ETIMEDOUT, ECONNREFUSED, TLS errors…) is on err.cause.
