@@ -2004,6 +2004,6 @@
   },
   "guard": {
     "anomalyStreak": 0,
-    "failStreak": 1
+    "failStreak": 2
   }
 }
