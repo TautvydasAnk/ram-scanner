@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-27T19:01:23.104Z",
+  "scannedAt": "2026-11-27T20:47:43.271Z",
   "products": {
     "POK10468101": {
       "id": "POK10468101",
@@ -251,11 +251,11 @@
     },
     "POK10448101": {
       "id": "POK10448101",
-      "name": "POKEMON Kolekcinės kortelės „30th Celebration\" Ultra Premium Collection  A Speical Day Filled with Friends!",
+      "name": "POKEMON Kolekcinės kortelės „30th Celebration\" Ultra Premium Collection A Speical Day Filled with Friends!",
       "url": "https://www.xszaislai.lt/pokemon-kolekcines-korteles-30th-celebration-ultra-premium-collection-a-speical-day-filled-with-friends-pok10448101",
       "price": 324.99,
       "currency": "EUR",
-      "status": "InStock"
+      "status": "OutOfStock"
     },
     "POK11200": {
       "id": "POK11200",
