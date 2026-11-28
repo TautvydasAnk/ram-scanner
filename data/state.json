@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-11-28T12:46:22.161Z",
+  "scannedAt": "2026-11-28T16:31:18.562Z",
   "products": {
     "1": {
       "id": "1",
@@ -2003,7 +2003,6 @@
     }
   },
   "guard": {
-    "anomalyStreak": 0,
-    "failStreak": 3
+    "anomalyStreak": 0
   }
 }
