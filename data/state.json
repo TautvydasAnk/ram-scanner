@@ -2003,6 +2003,7 @@
     }
   },
   "guard": {
-    "anomalyStreak": 0
+    "anomalyStreak": 0,
+    "failStreak": 1
   }
 }
